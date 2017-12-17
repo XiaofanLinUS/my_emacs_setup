@@ -1,0 +1,121 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/" . "cod_p1/")
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/" . "int_p1/")
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/" . "1_4/")
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/" . "Stack/")
+ ("/home/xiaofanlin/Desktop/Academic/" . "Math/")
+ ("/home/xiaofanlin/Desktop/" . "Academic/")
+ ("/home/" . "xiaofanlin/")
+ ("/home/xiaofanlin/" . "Desktop/")
+ ("/home/xiaofanlin/triton_uas/" . "path-planner/")
+ ("/" . "etc/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p1/"
+ "/home/xiaofanlin/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/"
+ "/home/xiaofanlin/Desktop/"
+ "/home/xiaofanlin/Desktop/codeChallenge/greedySnake/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/cod_p1/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/Stack/"
+ "/home/xiaofanlin/Desktop/codeChallenge/greedySnake/js/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p2/"
+ "/home/xiaofanlin/Desktop/leetcode/p3/"
+ "/home/xiaofanlin/triton_uas/path-planner/path-planner-core/src/avoidance/"
+ "/home/xiaofanlin/cpp_lib_tutorial/exp1/"
+ "/home/xiaofanlin/cmake_tutorial/ex2/"
+ "/home/xiaofanlin/cmake_tutorial/ex1/"
+ "/home/xiaofanlin/scriptTutorial/nov_01/"
+ "/home/xiaofanlin/Desktop/Academic/Math/"
+ "/home/xiaofanlin/scriptTutorial/Nov_6/"
+ "/home/xiaofanlin/wc/"
+ "/home/xiaofanlin/triton_uas/path-planner/"
+ "/etc/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "LinearSum.java"
+ ".emacs"
+ "Stopwatch.java"
+ "Math_109_HW (9).pdf"
+ ".bashrc"
+ "git-prompt.sh"
+ "index.html"
+ "Percolation.java"
+ "QuadraticThreeSums.java"
+ "Stack.java"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/xiaofanlin/" (23094 13748 684542 156000) "git/" ".sogouinput/" "../" ".eclim/" "personal_website/" "eclipse-workspace/" ".emacs~" ".profile~" ".gnome/" ".viminfo" "tritonuas/" ".local/" ".bash_logout" ".steam/" "code/" "git-prompt.sh" "Desktop/" ".webclipse.properties" "bin/" ".kingsoft/" "opt/" "git-completion.bash" ".bashrc" ".presage/" ".bash_history" "Videos/" "Templates/" "scriptTutorial/" "triton_uas/" ".gconf/" ".steampath" "emacs_tutorial/" "Pictures/" "Music/" ".steampid" ".gnupg/" ".nano/" ".webclipse/" ".lesshst" ".vim/" ".mozilla/" "cpp_lib_tutorial/" ".m2/" "Documents/" ".tooling/" ".bashrc~" "java-oxygen/" ".atom/" ".profile" "eclim-workspace/" ".apport-ignore.xml" ".dbus/" "./" ".pulse-cookie" ".gitconfig" ".emacs" ".cargo/" ".swt/" ".p2/" ".emacs.d/" ".sudo_as_admin_successful" "Public/" "eclimd.log" ".java/" ".ICEauthority" ".gradle/" ".ssh/" ".eclipse/" "Downloads/" "cmake_tutorial/" ".metadata/" ".xinputrc" ".pki/" "eclim-workspace-bak/" ".adobe/" ".cache/" ".config/")
+
+ ("/home/xiaofanlin/Desktop/" (23094 5598 174374 281000) "../" "cs15l/" "Academic/" "intro_to_algorithm/" "codeChallenge/" "leetcode/" "./" "cs15l.zip" "game/")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/" (23093 52451 186791 990000) ".gitignore~" "README.md" "../" "algs4.jar" "1_5/" ".gitignore" "1_4/" "2_1/" ".git/" "./")
+
+ ("/etc/" (23092 26721 365851 935000) "maven/" "wpa_supplicant/" "rc1.d/" "mailcap" "brlapi.key" "gdm3/" "netscsid.conf" "iftab" "chromium-browser/" "udev/" "timezone" "update-manager/" "protocols" "ImageMagick-6/" "python/" "binfmt.d/" "NetworkManager/" "chromium/" "chatscripts/" "apache2/" "pm/" "drirc" "xml/" "inputrc" "docker/" "apm/" "at-spi2/" "gnome-app-install/" "selinux/" "ltrace.conf" "localtime" "apt/" "dnsmasq.d/" "gconf/" "network/" "thermald/" "lighttpd/" "ca-certificates/" "magic" "issue" "gtk-2.0/" "depmod.d/" "ld.so.conf.d/" "ghostscript/" "bash_completion" "securetty" "usb_modeswitch.d/" "shadow" "lintianrc" "cron.d/" "sensors3.conf" "pam.conf" "cron.monthly/" "sane.d/" "login.defs" "ca-certificates.conf" "sysctl.conf" "gshadow" "insserv.conf" "insserv/" "cups/" "ufw/" "init.d/" "hdparm.conf" "gnome/" "sysctl.d/" "subuid-" "terminfo/" "emacs/" "opt/" "locale.gen" "appstream.conf" "sudoers" "brltty/" "subuid" "zsh_command_not_found" "rpc" "cron.daily/" "gnome-vfs-2.0/" "cracklib/" "rmt" "apport/" "rc6.d/" "locale.alias" "issue.net" "deluser.conf" "logcheck/" "vdpau_wrapper.cfg" "crontab" "brltty.conf" "subgid-" "papersize" "hosts.deny" "mysql/" "kernel/" "hosts.allow" "security/" "ifplugd/" "gtk-3.0/" "bluetooth/" "libnl-3/" "passwd-" "java-8-openjdk/" "manpath.config" "dictionaries-common/" "hostname" "ld.so.conf" "fwupd.conf" "modules" "pnm2ppa.conf" "dpkg/" "gshadow-" "pulse/" "ssh/" "magic.mime" "nanorc" "update-notifier/" "fstab" "perl/" "purple/" "mke2fs.conf" "bazel.bazelrc" "presage.xml" "environment~" "gdb/" "firefox/" "rc4.d/" "lsb-release" "update-motd.d/" "apg.conf" "polkit-1/" "groovy2/" "ucf.conf" ".pwd.lock" "dleyna-server-service.conf" "logrotate.conf" "debian_version" "grub.d/" "cron.hourly/" "logrotate.d/" "pcmcia/" "profile" "skel/" "shadow-" "services" "usb_modeswitch.conf" "hp/" "wodim.conf" "dleyna-renderer-service.conf" "newt/" "hotplug/" "mime.types" "fonts/" "legal" "ld.so.cache" "ldap/" "default/" "python3/" "acpi/" "hosts" "geoclue/" "vim/" "UPower/" "bash.bashrc" "init/" "tmpfiles.d/" "sgml/" "machine-id" "bogofilter.cf" "rsyslog.d/" "subgid" "cupshelpers/" "mtab" "insserv.conf.d/" "kerneloops.conf" "rcS.d/" "rc0.d/" "speech-dispatcher/" "libreoffice/" "ppp/" "X11/" "popularity-contest.conf" "java/" "apparmor/" "resolvconf/" "calendar/" "dbus-1/" "pam.d/" "printcap" "kernel-img.conf" "libpaper.d/" "pki/" "iproute2/" "gai.conf" "modprobe.d/" "debconf.conf" "fuse.conf" ".java/" "systemd/" "bash_completion.d/" "kbd/" "nsswitch.conf" "wgetrc" "dconf/" "sudoers.d/" "group" "rc5.d/" "initramfs-tools/" "modules-load.d/" "updatedb.conf" "profile.d/" "signond.conf" "group-" "rsyslog.conf" "python3.5/" "anacrontab" "xdg/" "ca-certificates.conf.dpkg-old" "mtools.conf" "host.conf" "bindresvport.blacklist" "os-release" "ssl/" "gss/" "cron.weekly/" "vtrgb" "rc2.d/" "console-setup/" "avahi/" "passwd" "rc.local" "adduser.conf" "dhcp/" "libaudit.conf" "dkms/" "libao.conf" "networks" "groff/" "mailcap.order" "udisks2/" "sensors.d/" "python2.7/" "shells" "environment" "alternatives/" "resolv.conf" "rc3.d/" "apparmor.d/" "../" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p2/" (23078 5116 853835 26000) "../" "BitonicSearch.class" ".classpath~" "BitonicSearch.java" "workbench.xmi" ".project" "./" ".classpath" "BitonicSearch.java~")
+
+ ("/home/xiaofanlin/Desktop/codeChallenge/greedySnake/js/" (23092 5313 94462 732000) "wow" "../" "food.js" "jquery-3.2.0.js" "./" "jcanvas.js" "#snake.js#" "app.js" "snake.js")
+
+ ("/home/xiaofanlin/Desktop/codeChallenge/greedySnake/" (23091 28897 125021 486000) "../" "tbs" "cc" "js/" "./" "aa" "bb" "index.html")
+
+ ("/home/xiaofanlin/Desktop/codeChallenge/" (23088 31366 11259 100000) "../" ".gitignore" ".git/" "./" "greedySnake/")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/cod_p1/" (23092 33630 936710 937000) "../" "nov_18_report" "input20.txt" "Percolation.class" "input2.txt" "Percolation.zip" ".classpath~" "dec_01_report" "input10.txt" "input6.txt" "PercolationStats.java" "workbench.xmi" ".project" "./" "Percolation.java" "nov_29_report" ".classpath" "input1.txt" "PercolationVisualizer.java" "PercolationVisualizer.class" "PercolationStats.class" ".project~")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/" (23092 33563 396945 413000) "../" "bin/" ".#Stack.java" "#Stack.java#" "Stack.java" "Stack/" "workbench.xmi" ".project" "./" ".classpath" "Stack.java~")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/" (23075 11070 203441 586000) "../" "int_p2/" "int_p1/" "Stopwatch.java" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/Stack/" (23092 30097 705074 784000) "../" "Stack.class" "Stack.java" "./" "Stack.java~")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/" (23092 29400 123482 515000) "../" "int_p1/" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p1/" (23074 30087 230142 608000) "../" "bin/" "LinearSum.java~" ".gitignore" "QuadraticThreeSums.java" "workbench.xmi" ".project" "./" "QuadraticThreeSums.java~" ".classpath" "LinearSum.class" "QuadraticThreeSums.class" "LinearSum.java")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p1/QuadraticThreeSums/" (23074 28785 830506 565000) "../" "QuadraticThreeSums.java" "./" "QuadraticThreeSums.java~" "QuadraticThreeSums.class")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/" (23062 5066 624267 412000) "cod_p1/" "../" "int_p2/" "int_p1/" "./" "int_p3/" "UnionSet.java")
+
+ ("/home/xiaofanlin/Desktop/leetcode/p3/" (23046 22979 206307 380000) "../" "test_string_method.cpp" "test_string_method" "./" "test_string_method.o" "test_string_method.cpp~")
+
+ ("/home/xiaofanlin/triton_uas/path-planner/" (23045 3303 553841 58000) "bazel-bin/" "README.md" "bazel-genfiles/" "../" "dataset/" "bazel-out/" "BUILD" ".clang-format" ".gitmodules" "gtest.BUILD" ".gitignore" "path-planner-core/" "scripts/" "WORKSPACE" ".travis.yml" ".git/" "./" "bazel-path-planner/" "bazel-testlogs/")
+
+ ("/home/xiaofanlin/Desktop/Academic/Math/" (23045 1436 56375 622000) "../" "math20e.pdf" "math109.pdf" "math180a.pdf" "./" "hw6.pdf")
+
+ ("/home/xiaofanlin/cpp_lib_tutorial/exp1/" (23043 56654 576796 139000) "my_lib.h" "../" "calc.c~" "my_lib.h~" "libcalc.a" "calc.c" "main_static" "main" "./" "calc.o" "main.c" "main.c~" "main.o")
+
+ ("/home/xiaofanlin/triton_uas/path-planner/path-planner-core/src/avoidance/" (23045 5995 137266 904000) "../" "evaluate.rs" "core/" "core-test/" "./" "bindings.rs" "mod.rs")
+
+ ("/home/xiaofanlin/cpp_lib_tutorial/exp2/" (23043 56940 90188 822000) "../" "./")
+
+ ("/home/xiaofanlin/cmake_tutorial/ex2/" (23043 36021 819586 761000) "../" "./" "CMakeLists.txt")
+
+ ("/home/xiaofanlin/cmake_tutorial/ex1/" (23043 33355 103282 571000) "../" "Makefile" "CMakeFiles/" "hello_world.cpp" "hello" "./" "CMakeCache.txt" "cmake_install.cmake" "CMakeLists.txt")
+
+ ("/home/xiaofanlin/scriptTutorial/Nov_6/" (23041 796 144203 3000) "sce1.sh" "../" "sig.sh~" ".swp" "./" "sig.sh")
+
+ ("/home/xiaofanlin/scriptTutorial/nov_01/" (23042 31668 339463 453000) "a.sh" "../" "a.sh~" "c.sh" "test.sh" "dir_ex.sh" "ex2.sh" "dir_ex.sh~" "b.sh" "exp1.sh~" "haha/" "test.sh~" "./" "2/" "ex2.sh~" "1/" "exp1.sh")
+
+ ("/home/xiaofanlin/Desktop/Academic/" (23041 59964 156850 821000) "../" "Math/" "Documents/" "./")
+
+ ("/home/xiaofanlin/wc/" (23040 60120 300663 199000) "../" "haha" "./")
+
+ ("/home/xiaofanlin/scriptTutorial/" (23040 59897 857589 340000) "../" "Nov_6/" "./")
+
+ ("/home/xiaofanlin/triton_uas/" (23035 49142 776455 323000) "../" "./" "path-planner/")
+
+ ("/home/" (22546 35564 905419 885000) "../" "./" "xiaofanlin/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
