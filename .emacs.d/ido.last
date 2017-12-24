@@ -17,6 +17,7 @@
 ;; ----- ido-work-directory-list -----
 (
  "/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p1/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/"
  "/home/xiaofanlin/"
  "/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/"
  "/home/xiaofanlin/Desktop/"
@@ -41,6 +42,7 @@
 ;; ----- ido-work-file-list -----
 (
  "LinearSum.java"
+ "Stack.java"
  ".emacs"
  "Stopwatch.java"
  "Math_109_HW (9).pdf"
@@ -49,11 +51,16 @@
  "index.html"
  "Percolation.java"
  "QuadraticThreeSums.java"
- "Stack.java"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p1/" (23094 14009 77963 212000) "../" "bin/" "LinearSum.java~" ".gitignore" "QuadraticThreeSums.java" "workbench.xmi" ".project" "./" "QuadraticThreeSums.java~" ".classpath" "LinearSum.class" "QuadraticThreeSums.class" "LinearSum.java")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/" (23094 54375 251346 190000) "../" "int_p1/" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/" (23098 11090 714758 822000) "../" "Stack.class" "Stack.java" "Stack$StackIterator.class" "Stack$Node.class" "workbench.xmi" ".project" "./" ".classpath" "Stack.java~")
+
  ("/home/xiaofanlin/" (23094 13748 684542 156000) "git/" ".sogouinput/" "../" ".eclim/" "personal_website/" "eclipse-workspace/" ".emacs~" ".profile~" ".gnome/" ".viminfo" "tritonuas/" ".local/" ".bash_logout" ".steam/" "code/" "git-prompt.sh" "Desktop/" ".webclipse.properties" "bin/" ".kingsoft/" "opt/" "git-completion.bash" ".bashrc" ".presage/" ".bash_history" "Videos/" "Templates/" "scriptTutorial/" "triton_uas/" ".gconf/" ".steampath" "emacs_tutorial/" "Pictures/" "Music/" ".steampid" ".gnupg/" ".nano/" ".webclipse/" ".lesshst" ".vim/" ".mozilla/" "cpp_lib_tutorial/" ".m2/" "Documents/" ".tooling/" ".bashrc~" "java-oxygen/" ".atom/" ".profile" "eclim-workspace/" ".apport-ignore.xml" ".dbus/" "./" ".pulse-cookie" ".gitconfig" ".emacs" ".cargo/" ".swt/" ".p2/" ".emacs.d/" ".sudo_as_admin_successful" "Public/" "eclimd.log" ".java/" ".ICEauthority" ".gradle/" ".ssh/" ".eclipse/" "Downloads/" "cmake_tutorial/" ".metadata/" ".xinputrc" ".pki/" "eclim-workspace-bak/" ".adobe/" ".cache/" ".config/")
 
  ("/home/xiaofanlin/Desktop/" (23094 5598 174374 281000) "../" "cs15l/" "Academic/" "intro_to_algorithm/" "codeChallenge/" "leetcode/" "./" "cs15l.zip" "game/")
@@ -72,15 +79,9 @@
 
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/cod_p1/" (23092 33630 936710 937000) "../" "nov_18_report" "input20.txt" "Percolation.class" "input2.txt" "Percolation.zip" ".classpath~" "dec_01_report" "input10.txt" "input6.txt" "PercolationStats.java" "workbench.xmi" ".project" "./" "Percolation.java" "nov_29_report" ".classpath" "input1.txt" "PercolationVisualizer.java" "PercolationVisualizer.class" "PercolationStats.class" ".project~")
 
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/" (23092 33563 396945 413000) "../" "bin/" ".#Stack.java" "#Stack.java#" "Stack.java" "Stack/" "workbench.xmi" ".project" "./" ".classpath" "Stack.java~")
-
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/" (23075 11070 203441 586000) "../" "int_p2/" "int_p1/" "Stopwatch.java" "./")
 
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/Stack/" (23092 30097 705074 784000) "../" "Stack.class" "Stack.java" "./" "Stack.java~")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/" (23092 29400 123482 515000) "../" "int_p1/" "./")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p1/" (23074 30087 230142 608000) "../" "bin/" "LinearSum.java~" ".gitignore" "QuadraticThreeSums.java" "workbench.xmi" ".project" "./" "QuadraticThreeSums.java~" ".classpath" "LinearSum.class" "QuadraticThreeSums.class" "LinearSum.java")
 
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p1/QuadraticThreeSums/" (23074 28785 830506 565000) "../" "QuadraticThreeSums.java" "./" "QuadraticThreeSums.java~" "QuadraticThreeSums.class")
 

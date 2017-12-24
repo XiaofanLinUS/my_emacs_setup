@@ -26,7 +26,7 @@
  '(custom-enabled-themes (quote (jazz)))
  '(custom-safe-themes
    (quote
-    ("d3a7eea7ebc9a82b42c47e49517f7a1454116487f6907cf2f5c2df4b09b50fc1" "d5b121d69e48e0f2a84c8e4580f0ba230423391a78fcb4001ccb35d02494d79e" "8aebf25556399b58091e533e455dd50a6a9cba958cc4ebb0aab175863c25b9a4" default)))
+    ("82b67c7e21c3b12be7b569af7c84ec0fb2d62105629a173e2479e1053cff94bd" "0e33022384e4db1374827f51e3d9e9a2d56282c2e3568c22f1c12ad80e20cf0c" "d3a7eea7ebc9a82b42c47e49517f7a1454116487f6907cf2f5c2df4b09b50fc1" "d5b121d69e48e0f2a84c8e4580f0ba230423391a78fcb4001ccb35d02494d79e" "8aebf25556399b58091e533e455dd50a6a9cba958cc4ebb0aab175863c25b9a4" default)))
  '(eclim-eclipse-dirs (quote ("~/java-oxygen/eclipse")))
  '(eclim-executable "~/java-oxygen/eclipse/eclim")
  '(eclimd-default-workspace "~/eclim-workspace")
@@ -76,6 +76,8 @@
  '(scroll-bar-mode nil)
  '(server-mode t)
  '(smartrep-mode-line-active-bg (solarized-color-blend "#859900" "#073642" 0.2))
+ '(term-default-bg-color "#002b36")
+ '(term-default-fg-color "#839496")
  '(tool-bar-mode nil)
  '(vc-annotate-background nil)
  '(vc-annotate-color-map
@@ -168,9 +170,17 @@
 (require 'gradle-mode)
 (add-hook 'java-mode-hook '(lambda() (gradle-mode 1)))
 
+(define-key eclim-mode-map (kbd "M-q M-m") 'eclim-manage-projects)
 (define-key eclim-mode-map (kbd "M-q M-c") 'eclim-java-constructor)
 (define-key eclim-mode-map (kbd "M-q M-n") 'eclim-java-new)
 (define-key eclim-mode-map (kbd "M-q M-r") 'eclim-run-class)
+(define-key eclim-mode-map (kbd "M-q M-d") 'eclim-problems-next-same-file)
+(define-key eclim-mode-map (kbd "M-q M-a") 'eclim-problems-prev-same-file)
+(define-key eclim-mode-map (kbd "M-q M-o") 'eclim-problems-open)
+(define-key eclim-mode-map (kbd "M-q M-i") 'eclim-java-implement)
+(define-key eclim-mode-map (kbd "M-q M-p") 'eclim-java-import-organize)
+(define-key eclim-mode-map (kbd "M-q M-f") 'eclim-java-format)
+
 (define-key company-mode-map (kbd "S-SPC") 'company-complete)
 ;; End of setup
 
