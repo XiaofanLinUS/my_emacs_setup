@@ -2,27 +2,36 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_3/" . "code_p2/")
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/" . "int_p3/")
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/" . "cod_p1/")
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/" . "int_p1/")
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/" . "1_4/")
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/" . "1_3/")
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/" . "Stack/")
  ("/home/xiaofanlin/Desktop/Academic/" . "Math/")
  ("/home/xiaofanlin/Desktop/" . "Academic/")
  ("/home/" . "xiaofanlin/")
- ("/home/xiaofanlin/" . "Desktop/")
+ ("/home/xiaofanlin/" . ".emacs.d/")
  ("/home/xiaofanlin/triton_uas/" . "path-planner/")
  ("/" . "etc/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p1/"
- "/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/"
+ "/home/xiaofanlin/cmake_tutorial/ex1/"
  "/home/xiaofanlin/"
+ "/home/xiaofanlin/Desktop/gcc_learning/2.1/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p3/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/1_3/code_p2/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p2/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/code_p2/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/cod_p1/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p1/"
  "/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/"
  "/home/xiaofanlin/Desktop/"
  "/home/xiaofanlin/Desktop/codeChallenge/greedySnake/"
- "/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/cod_p1/"
  "/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/Stack/"
  "/home/xiaofanlin/Desktop/codeChallenge/greedySnake/js/"
  "/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p2/"
@@ -30,7 +39,6 @@
  "/home/xiaofanlin/triton_uas/path-planner/path-planner-core/src/avoidance/"
  "/home/xiaofanlin/cpp_lib_tutorial/exp1/"
  "/home/xiaofanlin/cmake_tutorial/ex2/"
- "/home/xiaofanlin/cmake_tutorial/ex1/"
  "/home/xiaofanlin/scriptTutorial/nov_01/"
  "/home/xiaofanlin/Desktop/Academic/Math/"
  "/home/xiaofanlin/scriptTutorial/Nov_6/"
@@ -41,33 +49,57 @@
 
 ;; ----- ido-work-file-list -----
 (
- "LinearSum.java"
- "Stack.java"
+ "hello_world.cpp"
  ".emacs"
- "Stopwatch.java"
- "Math_109_HW (9).pdf"
- ".bashrc"
- "git-prompt.sh"
- "index.html"
- "Percolation.java"
- "QuadraticThreeSums.java"
+ "hello.c"
+ "README.md"
+ "DutchFlag.java"
+ ".classpath"
+ "ans"
+ "question"
+ "#question#"
+ "Permutation.java"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/xiaofanlin/cmake_tutorial/ex1/" (23108 9233 535599 773000) "../" "Makefile" "compile_commands.json" "hello_world.cpp~" "CMakeFiles/" "#hello_world.cpp#" "build/" "#hello_world.c#" "hello_world.cpp" "rtags-2.16/" "hello" "./" "rtags-2.16.tar.bz2" "CMakeCache.txt" "cmake_install.cmake" "CMakeLists.txt")
+
+ ("/home/xiaofanlin/" (23108 9008 232735 803000) "git/" ".sogouinput/" "../" ".eclim/" "eclipse-workspace/" ".emacs~" ".profile~" ".gnome/" ".viminfo" "tritonuas/" ".local/" ".bash_logout" ".steam/" "code/" "git-prompt.sh" "Desktop/" ".webclipse.properties" "bin/" ".bogofilter/" ".kingsoft/" "opt/" "git-completion.bash" ".bashrc" ".presage/" ".bash_history" "Videos/" "Templates/" "triton_uas/" ".gconf/" ".steampath" "emacs_tutorial/" "Pictures/" "Music/" ".pam_environment" ".sunpinyin/" ".steampid" ".gnupg/" ".nano/" ".webclipse/" ".lesshst" ".vim/" ".mozilla/" "cpp_lib_tutorial/" ".m2/" "Documents/" ".tooling/" ".bashrc~" "java-oxygen/" ".atom/" ".profile" "eclim-workspace/" ".apport-ignore.xml" ".dbus/" "./" ".pulse-cookie" ".gitconfig" ".emacs" ".cargo/" ".swt/" ".p2/" ".emacs.d/" ".sudo_as_admin_successful" "Public/" ".java/" ".ICEauthority" ".gradle/" ".ssh/" ".eclipse/" "Downloads/" "cmake_tutorial/" ".metadata/" ".xinputrc" ".pki/" "eclim-workspace-bak/" ".adobe/" ".cache/" ".config/")
+
+ ("/home/xiaofanlin/Desktop/gcc_learning/2.1/" (23108 9028 160637 777000) "../" "hello.c~" "hello" "./" "hello.c")
+
+ ("/home/xiaofanlin/.emacs.d/" (23108 5679 327247 452000) "../" "ido.last~" "url/" "session.10f481f55fecff0dd8151341042180109300000011680037" "ido.last" "auto-save-list/" "irony/" "elpa/" "lisp/" "session.10c859673a421ba6fc150990956227957100000011950049" "./" "xiaofanlin-theme.el" "session.109e8ca22a46ec14f150982519788668600000011860039" "session.10a85670587c6ca8d3151354221199717100000011700049")
+
+ ("/home/xiaofanlin/Desktop/gcc_learning/" (23108 7298 450450 577000) "../" "2.1/" "./")
+
+ ("/etc/" (23108 931 331027 822000) "maven/" "wpa_supplicant/" "rc1.d/" "mailcap" "brlapi.key" "gdm3/" "netscsid.conf" "iftab" "chromium-browser/" "udev/" "timezone" "update-manager/" "protocols" "ImageMagick-6/" "python/" "binfmt.d/" "NetworkManager/" "chromium/" "chatscripts/" "apache2/" "pm/" "drirc" "xml/" "inputrc" "docker/" "apm/" "at-spi2/" "gnome-app-install/" "selinux/" "ltrace.conf" "localtime" "apt/" "dnsmasq.d/" "gconf/" "network/" "thermald/" "lighttpd/" "ca-certificates/" "magic" "issue" "gtk-2.0/" "depmod.d/" "ld.so.conf.d/" "ghostscript/" "bash_completion" "securetty" "usb_modeswitch.d/" "shadow" "lintianrc" "cron.d/" "sensors3.conf" "pam.conf" "cron.monthly/" "sane.d/" "login.defs" "ca-certificates.conf" "sysctl.conf" "gshadow" "insserv.conf" "insserv/" "cups/" "ufw/" "init.d/" "hdparm.conf" "gnome/" "sysctl.d/" "subuid-" "terminfo/" "emacs/" "opt/" "locale.gen" "appstream.conf" "sudoers" "brltty/" "subuid" "zsh_command_not_found" "rpc" "cron.daily/" "gnome-vfs-2.0/" "cracklib/" "rmt" "apport/" "rc6.d/" "locale.alias" "issue.net" "deluser.conf" "logcheck/" "vdpau_wrapper.cfg" "crontab" "brltty.conf" "subgid-" "papersize" "hosts.deny" "mysql/" "kernel/" "hosts.allow" "security/" "ifplugd/" "gtk-3.0/" "bluetooth/" "libnl-3/" "passwd-" "java-8-openjdk/" "manpath.config" "dictionaries-common/" "hostname" "ld.so.conf" "fwupd.conf" "modules" "pnm2ppa.conf" "dpkg/" "gshadow-" "pulse/" "ssh/" "magic.mime" "nanorc" "update-notifier/" "fstab" "perl/" "purple/" "mke2fs.conf" "bazel.bazelrc" "presage.xml" "environment~" "gdb/" "firefox/" "rc4.d/" "lsb-release" "update-motd.d/" "apg.conf" "polkit-1/" "groovy2/" "ucf.conf" ".pwd.lock" "dleyna-server-service.conf" "logrotate.conf" "debian_version" "grub.d/" "cron.hourly/" "logrotate.d/" "pcmcia/" "profile" "skel/" "shadow-" "services" "usb_modeswitch.conf" "hp/" "wodim.conf" "dleyna-renderer-service.conf" "newt/" "hotplug/" "mime.types" "fonts/" "legal" "ld.so.cache" "ldap/" "default/" "python3/" "acpi/" "hosts" "geoclue/" "vim/" "UPower/" "bash.bashrc" "init/" "tmpfiles.d/" "sgml/" "machine-id" "bogofilter.cf" "rsyslog.d/" "subgid" "cupshelpers/" "mtab" "insserv.conf.d/" "kerneloops.conf" "rcS.d/" "rc0.d/" "speech-dispatcher/" "libreoffice/" "ppp/" "X11/" "popularity-contest.conf" "java/" "apparmor/" "resolvconf/" "calendar/" "dbus-1/" "pam.d/" "printcap" "kernel-img.conf" "libpaper.d/" "pki/" "iproute2/" "gai.conf" "modprobe.d/" "debconf.conf" "fuse.conf" ".java/" "systemd/" "bash_completion.d/" "kbd/" "nsswitch.conf" "wgetrc" "dconf/" "sudoers.d/" "group" "rc5.d/" "initramfs-tools/" "modules-load.d/" "updatedb.conf" "profile.d/" "signond.conf" "group-" "rsyslog.conf" "python3.5/" "anacrontab" "xdg/" "ca-certificates.conf.dpkg-old" "mtools.conf" "host.conf" "bindresvport.blacklist" "os-release" "ssl/" "gss/" "cron.weekly/" "vtrgb" "rc2.d/" "console-setup/" "avahi/" "passwd" "rc.local" "adduser.conf" "dhcp/" "libaudit.conf" "dkms/" "libao.conf" "networks" "groff/" "mailcap.order" "udisks2/" "sensors.d/" "python2.7/" "shells" "environment" "alternatives/" "resolv.conf" "rc3.d/" "apparmor.d/" "../" "./")
+
+ ("/home/xiaofanlin/Desktop/" (23107 21679 937298 53000) "../" "gcc_learning/" "Academic/" "intro_to_algorithm/" "codeChallenge/" "leetcode/" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/code_p2/" (23106 50971 684109 931000) "../" "bin/" ".gitignore" ".project" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p3/" (23107 17573 886861 791000) "ans" "../" "ans~" "DutchFlag.java~" "DutchFlag.class" ".classpath~" "question" "workbench.xmi" ".project" "./" ".classpath" "DutchFlag.java")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/" (23107 18682 570163 923000) ".gitignore~" "README.md" "../" "algs4.jar" "1_5/" ".gitignore" "1_4/" "1_3/" "2_1/" ".git/" "./")
+
+ ("/home/xiaofanlin/.metadata/" (23071 20782 914652 14000) "../" "version.ini" ".log" ".lock" ".mylyn/" ".plugins/" "./")
+
+ ("/home/xiaofanlin/cmake_tutorial/" (23043 33879 548940 645000) "../" "ex1/" "./" "ex2/")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/" (23106 50971 676109 819000) "ans" "../" "ans~" "#question#~" "bin/" ".gitignore" "question" ".project" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_3/code_p2/" (23106 39400 521938 425000) "Deque$DequeIterator.class" "../" "Permutation.java" "first_trial" "DequeTest.class" "Permutation.java~" "RandomizedQueue.java~" "RQTest.class" "DequeTest.java" "RandomizedQueue$RQIterator.class" ".classpath~" "Deque.java" "third_trial" "queues.zip" "RandomizedQueue.java" "workbench.xmi" ".project" "./" "RandomizedQueueTest.java~" ".classpath" "Deque.java~" "RQTest.java~" "RandomizedQueue.class" "Deque.class" "Deque$Node.class" "fourth_trial" "second_trial" "RQTest.java" "Permutation.class")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_3/" (23104 30237 241765 506000) "../" "code_p2/" "int_p2/" "int_p1/" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/" (23106 50676 158731 958000) "../" "code_p2/" "int_p2/" "int_p1/" "./" "int_p3/")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p2/" (23106 44751 585784 130000) "ans" "../" "ans~" "question" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/cod_p1/" (23092 52874 263362 194000) "../" "nov_18_report" "input20.txt" "Percolation.class" "input2.txt" "Percolation.zip" ".classpath~" "dec_01_report" "input10.txt" "input6.txt" "PercolationStats.java" "workbench.xmi" ".project" "./" "Percolation.java" "nov_29_report" ".classpath" "input1.txt" "PercolationVisualizer.java" "PercolationVisualizer.class" "PercolationStats.class" ".project~")
+
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p1/" (23094 14009 77963 212000) "../" "bin/" "LinearSum.java~" ".gitignore" "QuadraticThreeSums.java" "workbench.xmi" ".project" "./" "QuadraticThreeSums.java~" ".classpath" "LinearSum.class" "QuadraticThreeSums.class" "LinearSum.java")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/" (23094 54375 251346 190000) "../" "int_p1/" "./")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/" (23098 11090 714758 822000) "../" "Stack.class" "Stack.java" "Stack$StackIterator.class" "Stack$Node.class" "workbench.xmi" ".project" "./" ".classpath" "Stack.java~")
-
- ("/home/xiaofanlin/" (23094 13748 684542 156000) "git/" ".sogouinput/" "../" ".eclim/" "personal_website/" "eclipse-workspace/" ".emacs~" ".profile~" ".gnome/" ".viminfo" "tritonuas/" ".local/" ".bash_logout" ".steam/" "code/" "git-prompt.sh" "Desktop/" ".webclipse.properties" "bin/" ".kingsoft/" "opt/" "git-completion.bash" ".bashrc" ".presage/" ".bash_history" "Videos/" "Templates/" "scriptTutorial/" "triton_uas/" ".gconf/" ".steampath" "emacs_tutorial/" "Pictures/" "Music/" ".steampid" ".gnupg/" ".nano/" ".webclipse/" ".lesshst" ".vim/" ".mozilla/" "cpp_lib_tutorial/" ".m2/" "Documents/" ".tooling/" ".bashrc~" "java-oxygen/" ".atom/" ".profile" "eclim-workspace/" ".apport-ignore.xml" ".dbus/" "./" ".pulse-cookie" ".gitconfig" ".emacs" ".cargo/" ".swt/" ".p2/" ".emacs.d/" ".sudo_as_admin_successful" "Public/" "eclimd.log" ".java/" ".ICEauthority" ".gradle/" ".ssh/" ".eclipse/" "Downloads/" "cmake_tutorial/" ".metadata/" ".xinputrc" ".pki/" "eclim-workspace-bak/" ".adobe/" ".cache/" ".config/")
-
- ("/home/xiaofanlin/Desktop/" (23094 5598 174374 281000) "../" "cs15l/" "Academic/" "intro_to_algorithm/" "codeChallenge/" "leetcode/" "./" "cs15l.zip" "game/")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/" (23093 52451 186791 990000) ".gitignore~" "README.md" "../" "algs4.jar" "1_5/" ".gitignore" "1_4/" "2_1/" ".git/" "./")
-
- ("/etc/" (23092 26721 365851 935000) "maven/" "wpa_supplicant/" "rc1.d/" "mailcap" "brlapi.key" "gdm3/" "netscsid.conf" "iftab" "chromium-browser/" "udev/" "timezone" "update-manager/" "protocols" "ImageMagick-6/" "python/" "binfmt.d/" "NetworkManager/" "chromium/" "chatscripts/" "apache2/" "pm/" "drirc" "xml/" "inputrc" "docker/" "apm/" "at-spi2/" "gnome-app-install/" "selinux/" "ltrace.conf" "localtime" "apt/" "dnsmasq.d/" "gconf/" "network/" "thermald/" "lighttpd/" "ca-certificates/" "magic" "issue" "gtk-2.0/" "depmod.d/" "ld.so.conf.d/" "ghostscript/" "bash_completion" "securetty" "usb_modeswitch.d/" "shadow" "lintianrc" "cron.d/" "sensors3.conf" "pam.conf" "cron.monthly/" "sane.d/" "login.defs" "ca-certificates.conf" "sysctl.conf" "gshadow" "insserv.conf" "insserv/" "cups/" "ufw/" "init.d/" "hdparm.conf" "gnome/" "sysctl.d/" "subuid-" "terminfo/" "emacs/" "opt/" "locale.gen" "appstream.conf" "sudoers" "brltty/" "subuid" "zsh_command_not_found" "rpc" "cron.daily/" "gnome-vfs-2.0/" "cracklib/" "rmt" "apport/" "rc6.d/" "locale.alias" "issue.net" "deluser.conf" "logcheck/" "vdpau_wrapper.cfg" "crontab" "brltty.conf" "subgid-" "papersize" "hosts.deny" "mysql/" "kernel/" "hosts.allow" "security/" "ifplugd/" "gtk-3.0/" "bluetooth/" "libnl-3/" "passwd-" "java-8-openjdk/" "manpath.config" "dictionaries-common/" "hostname" "ld.so.conf" "fwupd.conf" "modules" "pnm2ppa.conf" "dpkg/" "gshadow-" "pulse/" "ssh/" "magic.mime" "nanorc" "update-notifier/" "fstab" "perl/" "purple/" "mke2fs.conf" "bazel.bazelrc" "presage.xml" "environment~" "gdb/" "firefox/" "rc4.d/" "lsb-release" "update-motd.d/" "apg.conf" "polkit-1/" "groovy2/" "ucf.conf" ".pwd.lock" "dleyna-server-service.conf" "logrotate.conf" "debian_version" "grub.d/" "cron.hourly/" "logrotate.d/" "pcmcia/" "profile" "skel/" "shadow-" "services" "usb_modeswitch.conf" "hp/" "wodim.conf" "dleyna-renderer-service.conf" "newt/" "hotplug/" "mime.types" "fonts/" "legal" "ld.so.cache" "ldap/" "default/" "python3/" "acpi/" "hosts" "geoclue/" "vim/" "UPower/" "bash.bashrc" "init/" "tmpfiles.d/" "sgml/" "machine-id" "bogofilter.cf" "rsyslog.d/" "subgid" "cupshelpers/" "mtab" "insserv.conf.d/" "kerneloops.conf" "rcS.d/" "rc0.d/" "speech-dispatcher/" "libreoffice/" "ppp/" "X11/" "popularity-contest.conf" "java/" "apparmor/" "resolvconf/" "calendar/" "dbus-1/" "pam.d/" "printcap" "kernel-img.conf" "libpaper.d/" "pki/" "iproute2/" "gai.conf" "modprobe.d/" "debconf.conf" "fuse.conf" ".java/" "systemd/" "bash_completion.d/" "kbd/" "nsswitch.conf" "wgetrc" "dconf/" "sudoers.d/" "group" "rc5.d/" "initramfs-tools/" "modules-load.d/" "updatedb.conf" "profile.d/" "signond.conf" "group-" "rsyslog.conf" "python3.5/" "anacrontab" "xdg/" "ca-certificates.conf.dpkg-old" "mtools.conf" "host.conf" "bindresvport.blacklist" "os-release" "ssl/" "gss/" "cron.weekly/" "vtrgb" "rc2.d/" "console-setup/" "avahi/" "passwd" "rc.local" "adduser.conf" "dhcp/" "libaudit.conf" "dkms/" "libao.conf" "networks" "groff/" "mailcap.order" "udisks2/" "sensors.d/" "python2.7/" "shells" "environment" "alternatives/" "resolv.conf" "rc3.d/" "apparmor.d/" "../" "./")
 
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p2/" (23078 5116 853835 26000) "../" "BitonicSearch.class" ".classpath~" "BitonicSearch.java" "workbench.xmi" ".project" "./" ".classpath" "BitonicSearch.java~")
 
@@ -76,8 +108,6 @@
  ("/home/xiaofanlin/Desktop/codeChallenge/greedySnake/" (23091 28897 125021 486000) "../" "tbs" "cc" "js/" "./" "aa" "bb" "index.html")
 
  ("/home/xiaofanlin/Desktop/codeChallenge/" (23088 31366 11259 100000) "../" ".gitignore" ".git/" "./" "greedySnake/")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/cod_p1/" (23092 33630 936710 937000) "../" "nov_18_report" "input20.txt" "Percolation.class" "input2.txt" "Percolation.zip" ".classpath~" "dec_01_report" "input10.txt" "input6.txt" "PercolationStats.java" "workbench.xmi" ".project" "./" "Percolation.java" "nov_29_report" ".classpath" "input1.txt" "PercolationVisualizer.java" "PercolationVisualizer.class" "PercolationStats.class" ".project~")
 
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/" (23075 11070 203441 586000) "../" "int_p2/" "int_p1/" "Stopwatch.java" "./")
 
@@ -100,8 +130,6 @@
  ("/home/xiaofanlin/cpp_lib_tutorial/exp2/" (23043 56940 90188 822000) "../" "./")
 
  ("/home/xiaofanlin/cmake_tutorial/ex2/" (23043 36021 819586 761000) "../" "./" "CMakeLists.txt")
-
- ("/home/xiaofanlin/cmake_tutorial/ex1/" (23043 33355 103282 571000) "../" "Makefile" "CMakeFiles/" "hello_world.cpp" "hello" "./" "CMakeCache.txt" "cmake_install.cmake" "CMakeLists.txt")
 
  ("/home/xiaofanlin/scriptTutorial/Nov_6/" (23041 796 144203 3000) "sce1.sh" "../" "sig.sh~" ".swp" "./" "sig.sh")
 
