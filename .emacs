@@ -243,7 +243,7 @@ static char *gnus-pointer[] = {
 ;; End of setup
 
 ;; C++ IDE Setup
-
+(require 'cc-mode)
 
 ;; =============
 ;; Rtags
@@ -251,6 +251,8 @@ static char *gnus-pointer[] = {
 (add-hook 'c-mode-hook 'rtags-start-process-unless-running)
 (add-hook 'c++-mode-hook 'rtags-start-process-unless-running)
 (add-hook 'objc-mode-hook 'rtags-start-process-unless-running)
+
+(setq rtags-autostart-diagnostics t)
 
 (defun ciao-goto-symbol ()
   (interactive)
@@ -262,9 +264,10 @@ static char *gnus-pointer[] = {
            (condition-case nil
                (semantic-ia-fast-jump (point))
              (error nil)))))
+;; (define-key eclim-mode-map (kbd "M-q M-m") 'eclim-manage-projects)
 (define-key c++-mode-map (kbd "M-w M-.") 'ciao-goto-symbol)
-(define-key c++-mode-map (kbd "M-w M-b") 'rtags-location-stack-back)
-(define-key c++-mode-map (kbd "M-w M-f") 'rtags-location-stack-forward)
+(define-key c++-mode-map (kbd "M-w M-s") 'rtags-location-stack-back)
+(define-key c++-mode-map (kbd "M-w M-w") 'rtags-location-stack-forward)
 
 ;; =============
 ;; irony-mode
@@ -304,6 +307,19 @@ static char *gnus-pointer[] = {
 (eval-after-load 'flycheck
   '(add-hook 'flycheck-mode-hook #'flycheck-irony-setup))
 
+
+;; =============
+;; Rtags Fixed
+;; =============
+
+;; (defun my-flycheck-rtags-setup ()
+;;  (flycheck-select-checker 'irony)
+;;  (setq-local flycheck-highlighting-mode nil) ;; RTags creates more accurate overlays.
+;;  (setq-local flycheck-check-syntax-automatically nil))
+;; (add-hook 'c-mode-hook #'my-flycheck-rtags-setup)
+;; (add-hook 'c++-mode-hook #'my-flycheck-rtags-setup)
+;; (add-hook 'objc-mode-hook #'my-flycheck-rtags-setup)
+
 ;; =============
 ;; eldoc-mode
 ;; =============
@@ -318,6 +334,7 @@ static char *gnus-pointer[] = {
 ;; Clang Formatter
 ;; ===============
 (require 'clang-format)
+;; (define-key c++-mode-map (kbd "M-w M-.") 'ciao-goto-symbol)
 (define-key c++-mode-map (kbd "M-w M-r") 'clang-format-region)
 (define-key c++-mode-map (kbd "M-w M-f") 'clang-format-buffer)
 ;; (global-set-key (kbd "M-w M-r") 'clang-format-region)
