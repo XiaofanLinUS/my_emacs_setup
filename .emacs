@@ -118,7 +118,7 @@ static char *gnus-pointer[] = {
      ("melpa" . "https://melpa.org/packages/"))))
  '(package-selected-packages
    (quote
-    (google-c-style flymake-cursor company-c-headers irony-eldoc company-irony flycheck-irony irony foggy-night-theme flatland-black-theme flatland-theme dracula-theme alect-themes jbeans-theme gruvbox-theme ample-theme afternoon-theme neotree jazz-theme blackboard-theme groovy-mode gradle-mode eclim pdf-tools flycheck-rust racer company rust-mode nyan-mode solarized-theme)))
+    (rtags google-c-style flymake-cursor company-c-headers irony-eldoc company-irony flycheck-irony irony foggy-night-theme flatland-black-theme flatland-theme dracula-theme alect-themes jbeans-theme gruvbox-theme ample-theme afternoon-theme neotree jazz-theme blackboard-theme groovy-mode gradle-mode eclim pdf-tools flycheck-rust racer company rust-mode nyan-mode solarized-theme)))
  '(pos-tip-background-color "#073642")
  '(pos-tip-foreground-color "#93a1a1")
  '(scroll-bar-mode nil)
@@ -212,7 +212,8 @@ static char *gnus-pointer[] = {
 (require 'company)
 (require 'company-emacs-eclim)
 (company-emacs-eclim-setup)
-(global-company-mode t)
+(add-hook 'eclim-mode-hook 'company-mode)
+;; (global-company-mode t)
 
 
 (require 'gradle-mode)
@@ -243,11 +244,34 @@ static char *gnus-pointer[] = {
 
 ;; C++ IDE Setup
 
+
+;; =============
+;; Rtags
+;; =============
+(add-hook 'c-mode-hook 'rtags-start-process-unless-running)
+(add-hook 'c++-mode-hook 'rtags-start-process-unless-running)
+(add-hook 'objc-mode-hook 'rtags-start-process-unless-running)
+
+(defun ciao-goto-symbol ()
+  (interactive)
+  (deactivate-mark)
+  (ring-insert find-tag-marker-ring (point-marker))
+  (or (and (require 'rtags nil t)
+           (rtags-find-symbol-at-point))
+      (and (require 'semantic/ia)
+           (condition-case nil
+               (semantic-ia-fast-jump (point))
+             (error nil)))))
+(define-key c++-mode-map (kbd "M-w M-.") 'ciao-goto-symbol)
+(define-key c++-mode-map (kbd "M-w M-b") 'rtags-location-stack-back)
+(define-key c++-mode-map (kbd "M-w M-f") 'rtags-location-stack-forward)
+
 ;; =============
 ;; irony-mode
 ;; =============
 (add-hook 'c++-mode-hook 'irony-mode)
 (add-hook 'c-mode-hook 'irony-mode)
+
 ;; =============
 ;; company mode
 ;; =============
@@ -294,8 +318,10 @@ static char *gnus-pointer[] = {
 ;; Clang Formatter
 ;; ===============
 (require 'clang-format)
-(define-key irony-mode-map (kbd "M-c M-r") 'clang-format-region)
-(define-key irony-mode-map (kbd "M-c M-f") 'clang-format-buffer)
+(define-key c++-mode-map (kbd "M-w M-r") 'clang-format-region)
+(define-key c++-mode-map (kbd "M-w M-f") 'clang-format-buffer)
+;; (global-set-key (kbd "M-w M-r") 'clang-format-region)
+;; (global-set-key (kbd "M-w M-f") 'clang-format-buffer)
 (setq clang-format-style-option "google")
 
 ;; ==============
