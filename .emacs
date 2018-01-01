@@ -118,7 +118,7 @@ static char *gnus-pointer[] = {
      ("melpa" . "https://melpa.org/packages/"))))
  '(package-selected-packages
    (quote
-    (rtags google-c-style flymake-cursor company-c-headers irony-eldoc company-irony flycheck-irony irony foggy-night-theme flatland-black-theme flatland-theme dracula-theme alect-themes jbeans-theme gruvbox-theme ample-theme afternoon-theme neotree jazz-theme blackboard-theme groovy-mode gradle-mode eclim pdf-tools flycheck-rust racer company rust-mode nyan-mode solarized-theme)))
+    (cmake-font-lock cmake-mode rtags google-c-style flymake-cursor company-c-headers irony-eldoc company-irony flycheck-irony irony foggy-night-theme flatland-black-theme flatland-theme dracula-theme alect-themes jbeans-theme gruvbox-theme ample-theme afternoon-theme neotree jazz-theme blackboard-theme groovy-mode gradle-mode eclim pdf-tools flycheck-rust racer company rust-mode nyan-mode solarized-theme)))
  '(pos-tip-background-color "#073642")
  '(pos-tip-foreground-color "#93a1a1")
  '(scroll-bar-mode nil)
@@ -265,9 +265,9 @@ static char *gnus-pointer[] = {
                (semantic-ia-fast-jump (point))
              (error nil)))))
 ;; (define-key eclim-mode-map (kbd "M-q M-m") 'eclim-manage-projects)
-(define-key c++-mode-map (kbd "M-w M-.") 'ciao-goto-symbol)
-(define-key c++-mode-map (kbd "M-w M-s") 'rtags-location-stack-back)
-(define-key c++-mode-map (kbd "M-w M-w") 'rtags-location-stack-forward)
+(define-key c++-mode-map (kbd "C-c M-.") 'ciao-goto-symbol)
+(define-key c++-mode-map (kbd "C-c M-s") 'rtags-location-stack-back)
+(define-key c++-mode-map (kbd "C-c M-w") 'rtags-location-stack-forward)
 
 ;; =============
 ;; irony-mode
@@ -335,8 +335,8 @@ static char *gnus-pointer[] = {
 ;; ===============
 (require 'clang-format)
 ;; (define-key c++-mode-map (kbd "M-w M-.") 'ciao-goto-symbol)
-(define-key c++-mode-map (kbd "M-w M-r") 'clang-format-region)
-(define-key c++-mode-map (kbd "M-w M-f") 'clang-format-buffer)
+(define-key c++-mode-map (kbd "C-c M-r") 'Clang-format-region)
+(define-key c++-mode-map (kbd "C-c M-f") 'clang-format-buffer)
 ;; (global-set-key (kbd "M-w M-r") 'clang-format-region)
 ;; (global-set-key (kbd "M-w M-f") 'clang-format-buffer)
 (setq clang-format-style-option "google")
@@ -348,4 +348,52 @@ static char *gnus-pointer[] = {
 (add-hook 'c-mode-common-hook 'google-set-c-style)
 (add-hook 'c-mode-common-hook 'google-make-newline-indent)
 
+
+;; =============
+;; CMake Mode
+;; =============
+; Add cmake listfile names to the mode list.
+
+(setq auto-mode-alist
+	  (append
+	   '(("CMakeLists\\.txt\\'" . cmake-mode))
+	   '(("\\.cmake\\'" . cmake-mode))
+	   auto-mode-alist))
+
+
+(add-hook 'cmake-mode-hook 'company-mode)
+(add-hook 'cmake-mode-hook 'cmake-font-lock-activate)
 ;; End of Setup
+
+;; =============
+;; Misc
+;; =============
+
+;; -----Multi-term startup-----
+
+(defun multi-term-startup ()
+  (interactive)
+  (multi-term))
+;;  (call-interactively 'other-window))
+
+(if (daemonp)
+    (add-hook 'server-switch-hook #'multi-term-startup)
+  (add-hook 'after-init-hook #'multi-term-startup)
+)
+
+;; ;; ------Neotree toggle binding--------
+;; (defun neo-toggle ()
+;;   (interactive)
+;;   (if (bound-and-true-p neotree)
+;;       (neotree-toggle)
+;;     (call-interactively 'neotree-dir)))
+
+;;   (if (bound-and-true-p neotree-show)
+;;       (message "flymake-mode is on")
+;;     (message "flymake-mode is off")))
+
+(global-set-key (kbd "M-t") 'neotree-toggle)
+;; (global-set-key (kbd "M-d") 'neotree-dir)
+
+;; ---------Maximize Window-------------
+(add-to-list 'default-frame-alist '(fullscreen . maximized))
