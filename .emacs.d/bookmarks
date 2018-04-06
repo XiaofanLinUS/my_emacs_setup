@@ -1,0 +1,10 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("RTags_0"
+ (filename . "~/git/MATH155A/p07/src/TextureProj.cpp")
+ (front-context-string . "theProjectionMat")
+ (rear-context-string . "ne.\nLinearMapR4 ")
+ (position . 3535))
+)

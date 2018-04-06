@@ -1,0 +1,5 @@
+# name: c-style comment (/*  */)
+# key: ccom
+# alias: cc
+# --
+/* $1 */ $0

@@ -1,0 +1,5 @@
+# name: cse12 function header
+# key: coco
+# alias: coc
+# --
+/* $1 */ $0

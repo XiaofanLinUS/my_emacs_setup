@@ -1,0 +1,19 @@
+# name: cse12 function header
+# key: cpcn
+# alias: cpn
+# --
+
+/*************************************************************************** 
+   Routine Name : $1::$2 ($3) 
+   File :         ${4:`(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`.$5}
+  	 
+  
+   Description : $6
+  
+   Parameters descriptions : 
+   
+   name               description 
+   ------------------ ------------------------------------------------------ 
+   $7		     $8 
+   $9		     $10
+***************************************************************************/  
