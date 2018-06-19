@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: flush left
+# key: fl
+# --
+\begin{flushleft}
+$0
+\end{flushleft}

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: equation array
+# key: eqa
+# --
+\begin{eqnarray${1:*}}
+$0
+\end{eqnarray$1}

@@ -19,8 +19,8 @@
  '(ansi-color-names-vector
    ["#073642" "#dc322f" "#859900" "#b58900" "#268bd2" "#d33682" "#2aa198" "#657b83"])
  '(c-basic-offset (quote set-from-style))
- '(cmake-ide-build-dir "/home/xiaofanlin/git/cse163-hw2/bin")
- '(cmake-ide-project-dir "~/git/cse163-hw2/")
+ '(cmake-ide-build-dir "/home/xiaofan/git/cse163-hw3")
+ '(cmake-ide-project-dir "~/git/cse163-hw3/")
  '(company-c-headers-path-system (quote ("/usr/include/" "/usr/local/include/")))
  '(company-quickhelp-color-background "#4F4F4F")
  '(company-quickhelp-color-foreground "#DCDCCC")
@@ -30,7 +30,7 @@
  '(cua-normal-cursor-color "#839496")
  '(cua-overwrite-cursor-color "#b58900")
  '(cua-read-only-cursor-color "#859900")
- '(custom-enabled-themes (quote (spacemacs-dark)))
+ '(custom-enabled-themes (quote (afternoon)))
  '(custom-safe-themes
    (quote
     ("748d0e2ffdaf95015a539dcc95ab888283284ad7b076963760422cbe5e21903a" "7d3ee5cee22625af0a2acd2349242f5c1951f481d0f32c43afab45dd0c92477a" "a24c5b3c12d147da6cef80938dca1223b7c7f70f2f382b26308eba014dc4833a" "732b807b0543855541743429c9979ebfb363e27ec91e82f463c91e68c772f6e3" "0b7ee9bac81558c11000b65100f29b09488ff9182c083fb303c7f13fd0ec8d2b" "7f6796a9b925f727bbe1781dc65f7f23c0aa4d4dc19613aa3cf96e41a96651e4" "50b66fad333100cc645a27ada899a7b1d44f1ceb32140ab8e88fedabfb7d0daf" "65d4e1535e8fa5d40b9a95d30ed0e95b3bac2b905e905f4397e0425a51addc55" "fec6c786b1d3088091715772839ac6051ed972b17991af04b50e9285a98c7463" "5b388add509c423e4ac275668662486628690e7ffe0050998615fc4c3669c16c" "293b55c588c56fe062afe4b7a3a4b023712a26d26dc69ee89c347b30283a72eb" "e6370c4899d463555a6aecf2da2700e2e039f93273212ce1836e9f94ad4af278" "39dffaee0e575731c909bb3e4b411f1c4759c3d7510bf02aa5aef322a596dd57" "e3fc83cdb5f9db0d0df205f5da89af76feda8c56d79a653a5d092c82c7447e02" "d1aec5dbeb0267f20d73d4e670e94d007dba09d2193ee39df2023fe61b4fe765" "9b402e9e8f62024b2e7f516465b63a4927028a7055392290600b776e4a5b9905" "aae95fc700f9f7ff70efbc294fc7367376aa9456356ae36ec234751040ed9168" "d61fc0e6409f0c2a22e97162d7d151dee9e192a90fa623f8d6a071dbf49229c6" "4e63466756c7dbd78b49ce86f5f0954b92bf70b30c01c494b37c586639fa3f6f" "e11569fd7e31321a33358ee4b232c2d3cf05caccd90f896e1df6cab228191109" "12b204c8fcce23885ce58e1031a137c5a14461c6c7e1db81998222f8908006af" "c6eb560aa4976c67a1bf5ab1da66097884bd665b7dd2a01fdcae9d782ebaee89" "dfe26345bfb1ddfe6c8aa92368ea877cafee31e8a0b05df96c890e2e3228cfaa" "64ca5a1381fa96cb86fd6c6b4d75b66dc9c4e0fc1288ee7d914ab8d2638e23a9" "fa2b58bb98b62c3b8cf3b6f02f058ef7827a8e497125de0254f56e373abee088" "bffa9739ce0752a37d9b1eee78fc00ba159748f50dc328af4be661484848e476" "ff7625ad8aa2615eae96d6b4469fcc7d3d20b2e1ebc63b761a349bebbb9d23cb" "003a9aa9e4acb50001a006cfde61a6c3012d373c4763b48ceb9d523ceba66829" "da538070dddb68d64ef6743271a26efd47fbc17b52cc6526d932b9793f92b718" "2b8dff32b9018d88e24044eb60d8f3829bd6bbeab754e70799b78593af1c3aba" "b181ea0cc32303da7f9227361bb051bbb6c3105bb4f386ca22a06db319b08882" "cf284fac2a56d242ace50b6d2c438fcc6b4090137f1631e32bedf19495124600" "73a13a70fd111a6cd47f3d4be2260b1e4b717dbf635a9caee6442c949fad41cd" "af717ca36fe8b44909c984669ee0de8dd8c43df656be67a50a1cf89ee41bde9a" "9b1c580339183a8661a84f5864a6c363260c80136bd20ac9f00d7e1d662e936a" "c79c2eadd3721e92e42d2fefc756eef8c7d248f9edefd57c4887fbf68f0a17af" "256a381a0471ad344e1ed33470e4c28b35fb4489a67eb821181e35f080083c36" "158013ec40a6e2844dbda340dbabda6e179a53e0aea04a4d383d69c329fba6e6" "b563a87aa29096e0b2e38889f7a5e3babde9982262181b65de9ce8b78e9324d5" "3fa07dd06f4aff80df2d820084db9ecbc007541ce7f15474f1d956c846a3238f" "d61f6c49e5db58533d4543e33203fd1c41a316eddb0b18a44e0ce428da86ef98" "251348dcb797a6ea63bbfe3be4951728e085ac08eee83def071e4d2e3211acc3" "3eb93cd9a0da0f3e86b5d932ac0e3b5f0f50de7a0b805d4eb1f67782e9eb67a4" "0cd56f8cd78d12fc6ead32915e1c4963ba2039890700458c13e12038ec40f6f5" "a94f1a015878c5f00afab321e4fef124b2fc3b823c8ddd89d360d710fc2bddfc" "66aea5b7326cf4117d63c6694822deeca10a03b98135aaaddb40af99430ea237" "228c0559991fb3af427a6fa4f3a3ad51f905e20f481c697c6ca978c5683ebf43" "c616e584f7268aa3b63d08045a912b50863a34e7ea83e35fcab8537b75741956" "01e067188b0b53325fc0a1c6e06643d7e52bc16b6653de2926a480861ad5aa78" "1b27e3b3fce73b72725f3f7f040fd03081b576b1ce8bbdfcb0212920aec190ad" "721bb3cb432bb6be7c58be27d583814e9c56806c06b4077797074b009f322509" "946e871c780b159c4bb9f580537e5d2f7dba1411143194447604ecbaf01bd90c" "d21135150e22e58f8c656ec04530872831baebf5a1c3688030d119c114233c24" "b59d7adea7873d58160d368d42828e7ac670340f11f36f67fa8071dbf957236a" "4154caa8409ff2eb6f74c913741420e7103b9ea26c3c7d1a5a16592d0d2f43e0" "c90fd1c669f260120d32ddd20168343f5c717ca69e95d2f805e42e88430c340e" "d606ac41cdd7054841941455c0151c54f8bff7e4e050255dbd4ae4d60ab640c1" "7153b82e50b6f7452b4519097f880d968a6eaf6f6ef38cc45a144958e553fbc6" "5e3fc08bcadce4c6785fc49be686a4a82a356db569f55d411258984e952f194a" "a0feb1322de9e26a4d209d1cfa236deaf64662bb604fa513cca6a057ddf0ef64" "ab04c00a7e48ad784b52f34aa6bfa1e80d0c3fcacc50e1189af3651013eb0d58" "04dd0236a367865e591927a3810f178e8d33c372ad5bfef48b5ce90d4b476481" "7356632cebc6a11a87bc5fcffaa49bae528026a78637acd03cae57c091afd9b9" "a8245b7cc985a0610d71f9852e9f2767ad1b852c2bdea6f4aadc12cce9c4d6d0" "d677ef584c6dfc0697901a44b885cc18e206f05114c8a3b7fde674fce6180879" "fd24b2c570dbd976e17a63ba515967600acb7d2f9390793859cb82f6a2d5dacd" "b67cb8784f6a2d1a3f605e39d2c376937f3bf8460cb8a0d6fc625c0331c00c83" "7c49651e62ee04b5f6d8fca78bca6f31730d982901fc1e1c651e464fa0ecfea4" "8e4efc4bed89c4e67167fdabff77102abeb0b1c203953de1e6ab4d2e3a02939a" "82fce2cada016f736dbcef237780516063a17c2436d1ee7f42e395e38a15793b" "c63a789fa2c6597da31f73d62b8e7fad52c9420784e6ec34701ae8e8f00071f6" "6de7c03d614033c0403657409313d5f01202361e35490a3404e33e46663c2596" "938d8c186c4cb9ec4a8d8bc159285e0d0f07bad46edf20aa469a89d0d2a586ea" "ed317c0a3387be628a48c4bbdb316b4fa645a414838149069210b66dd521733f" "28ec8ccf6190f6a73812df9bc91df54ce1d6132f18b4c8fcc85d45298569eb53" "858a353233c58b69dbe3a06087fc08905df2d8755a0921ad4c407865f17ab52f" "42b8102c1234a9f680722953161c1127cc59ec68ad8d5c710af60d68c3b6e6ef" "82b67c7e21c3b12be7b569af7c84ec0fb2d62105629a173e2479e1053cff94bd" "0e33022384e4db1374827f51e3d9e9a2d56282c2e3568c22f1c12ad80e20cf0c" "d3a7eea7ebc9a82b42c47e49517f7a1454116487f6907cf2f5c2df4b09b50fc1" "d5b121d69e48e0f2a84c8e4580f0ba230423391a78fcb4001ccb35d02494d79e" "8aebf25556399b58091e533e455dd50a6a9cba958cc4ebb0aab175863c25b9a4" default)))
@@ -152,7 +152,7 @@ static char *gnus-pointer[] = {
      ("melpa" . "https://melpa.org/packages/"))))
  '(package-selected-packages
    (quote
-    (cmake-ide company-auctex inkpot-theme intellij-theme inverse-acme-theme kaolin-themes madhat2r-theme material-theme mbo70s-theme melancholy-theme badger-theme distinguished-theme gruber-darker-theme tangotango-theme zenburn-theme monokai-theme flycheck-irony ace-window realgud meghanada adaptive-wrap yasnippet yasnippet-snippets company-rtags flycheck-rtags mode-line-bell spacemacs-theme diminish flycheck-color-mode-line spaceline airline-themes cmake-font-lock cmake-mode rtags google-c-style flymake-cursor company-c-headers irony-eldoc company-irony irony foggy-night-theme flatland-black-theme flatland-theme dracula-theme alect-themes jbeans-theme gruvbox-theme ample-theme afternoon-theme neotree jazz-theme blackboard-theme groovy-mode gradle-mode eclim pdf-tools flycheck-rust racer company rust-mode nyan-mode solarized-theme)))
+    (conda company-anaconda anaconda-mode rtags matlab-mode cmake-ide company-auctex inkpot-theme intellij-theme inverse-acme-theme kaolin-themes madhat2r-theme material-theme mbo70s-theme melancholy-theme badger-theme distinguished-theme gruber-darker-theme tangotango-theme zenburn-theme monokai-theme flycheck-irony ace-window realgud meghanada adaptive-wrap yasnippet yasnippet-snippets company-rtags flycheck-rtags mode-line-bell spacemacs-theme diminish flycheck-color-mode-line spaceline airline-themes cmake-font-lock cmake-mode google-c-style flymake-cursor company-c-headers irony-eldoc company-irony irony foggy-night-theme flatland-black-theme flatland-theme dracula-theme alect-themes jbeans-theme gruvbox-theme ample-theme afternoon-theme neotree jazz-theme blackboard-theme groovy-mode gradle-mode eclim pdf-tools flycheck-rust racer company rust-mode nyan-mode solarized-theme)))
  '(pdf-view-midnight-colors (quote ("#DCDCCC" . "#383838")))
  '(pos-tip-background-color "#073642")
  '(pos-tip-foreground-color "#93a1a1")
@@ -324,6 +324,22 @@ static char *gnus-pointer[] = {
 ;; End of setup
 
 
+;; ANACONDA-------------------------------------------------------
+
+(require 'conda)
+;; if you want interactive shell support, include:
+(conda-env-initialize-interactive-shells)
+;; if you want eshell support, include:
+(conda-env-initialize-eshell)
+;; if you want auto-activation (see below for details), include:
+(conda-env-autoactivate-mode t)
+
+(add-hook 'python-mode-hook 'anaconda-mode)
+(add-hook 'python-mode-hook 'anaconda-eldoc-mode)
+(add-hook 'python-mode-hook #'eldoc-mode)
+
+(eval-after-load "company"
+  '(add-to-list 'company-backends 'company-anaconda))
 
 ;; C++ IDE Setup--------------------------------------------------
 (require 'cc-mode)
@@ -369,8 +385,8 @@ static char *gnus-pointer[] = {
 ;; =============
 ;; irony-mode
 ;; =============
-(add-hook 'c++-mode-hook 'irony-mode)
-(add-hook 'c-mode-hook 'irony-mode)
+;; (add-hook 'c++-mode-hook 'irony-mode)
+;; (add-hook 'c-mode-hook 'irony-mode)
 
 ;; =============
 ;; company mode
@@ -496,7 +512,12 @@ static char *gnus-pointer[] = {
 (setq-default TeX-master nil)
 (setq TeX-PDF-mode t)
 ;; (load "preview-latex.el" nil t t)
-(add-hook 'LaTeX-mode-hook 'flycheck-mode)
+(add-hook 'LaTeX-mode-hook 'flycheck-mode) 	
+(add-hook 'LaTeX-mode-hook 'LaTeX-math-mode)
+(electric-pair-mode)
+(add-hook 'LaTeX-mode-hook
+          '(lambda ()
+            (define-key LaTeX-mode-map (kbd "$") 'self-insert-command)))
 
 ;; =============
 ;; Misc
@@ -639,7 +660,13 @@ static char *gnus-pointer[] = {
 ;;     (local-set-key "\C-m" x)))
 ;; (add-hook 'octave-mode-hook 'RET-behaves-as-LFD)
 
-(setq matlab-server-executable "/usr/local/bin/matlab")
-(add-to-list 'load-path "~/.emacs.d/matlab-mode")
-(require 'matlab-mode)
-(matlab-mode-common-setup)
+;; (setq matlab-server-executable "/usr/local/bin/matlab")
+;; (add-to-list 'load-path "~/.emacs.d/matlab-emacs-src")
+;; (load-library "matlab-load")
+(global-flycheck-mode t)
+
+
+
+
+
+

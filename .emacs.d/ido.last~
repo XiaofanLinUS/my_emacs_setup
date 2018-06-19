@@ -2,15 +2,26 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/xiaofanlin/git/TMC2/ultils/" . "MeshToPc/")
+ ("/home/xiaofanlin/git/TMC2/ultils/Renderer/lib/" . "openmesh/")
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/src/main/" . "java/")
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/src/" . "main/")
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/" . "src/")
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/" . "code_p1/")
+ ("/home/xiaofanlin/git/MATH155A/p06/" . "src/")
+ ("/home/xiaofanlin/git/MATH155A/p07/" . "include/")
+ ("/home/xiaofanlin/git/machine_learning/" . "machine-learning-ex1/")
+ ("/home/xiaofanlin/git/machine_learning/machine-learning-ex1/" . "ex1/")
+ ("/home/xiaofanlin/git/MATH155A/p05/" . "include/")
  ("/home/xiaofanlin/git/cse12/hw7/" . ".meghanada/")
- ("/home/xiaofanlin/git/MATH155A/p04/" . "include/")
+ ("/home/xiaofanlin/git/MATH155A/p04/" . "src/")
  ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/include/" . "testing/")
  ("/home/xiaofanlin/git/MATH155A/p02/" . "src/")
  ("/home/xiaofanlin/git/MATH155A/" . "p03/")
- ("/home/xiaofanlin/git/MATH155A/p03/" . "src/")
+ ("/home/xiaofanlin/git/MATH155A/p03/" . "include/")
  ("/home/xiaofanlin/git/cmake_modern_opengl/p01/" . "src/")
  ("/home/xiaofanlin/git/cmake_modern_opengl/pp01/res/" . "shader/")
- ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/" . "c++-mode/")
+ ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/" . "cc-mode/")
  ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/" . "snippets/")
  ("/home/xiaofanlin/git/cmake_modern_opengl/pp01/" . "res/")
  ("/home/xiaofanlin/git/cmake_modern_opengl/p00/" . "src/")
@@ -23,7 +34,7 @@
  ("/home/xiaofanlin/git/OpenGL/p01/" . "src/")
  ("/home/xiaofanlin/git/OpenGL/lib/" . "glfw/")
  ("/home/xiaofanlin/git/OpenGL/" . "p01/")
- ("/home/xiaofanlin/git/" . "MATH155A/")
+ ("/home/xiaofanlin/git/" . "cse12/")
  ("/home/xiaofanlin/git/cse12/" . "hw5/")
  ("/home/xiaofanlin/git/cmake_learning/ex2_dir_projecy/" . "src/")
  ("/home/xiaofanlin/cmake_tutorial/" . "ex1/")
@@ -31,7 +42,7 @@
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/" . "int_p3/")
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/" . "cod_p1/")
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/" . "int_p1/")
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/" . "1_3/")
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/" . "2_4/")
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/" . "Stack/")
  ("/home/xiaofanlin/Desktop/Academic/" . "Math/")
  ("/home/xiaofanlin/Desktop/" . "Academic/")
@@ -43,17 +54,44 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/xiaofanlin/git/cse12/hw7/"
  "/home/xiaofanlin/"
+ "/home/xiaofanlin/git/cse105/hw0/"
+ "/home/xiaofanlin/git/TMC2/tmc2/"
+ "/home/xiaofanlin/git/TMC2/ultils/MeshToPc/"
+ "/home/xiaofanlin/git/TMC2/ultils/Renderer/source_code/src/"
+ "/home/xiaofanlin/git/TMC2/ultils/Renderer/"
+ "/home/xiaofanlin/git/TMC2/ultils/Renderer/source_code/"
+ "/home/xiaofanlin/git/TMC2/ultils/Renderer/lib/openmesh/"
+ "/home/xiaofanlin/git/TMC2/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/src/main/java/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/cod_p1/"
+ "/home/xiaofanlin/Desktop/intro_to_algorithm/1_3/code_p2/"
+ "/home/xiaofanlin/git/cse12/hw9/"
+ "/home/xiaofanlin/git/cse12/hw8/"
+ "/home/xiaofanlin/git/MATH155A/p07/src/"
+ "/home/xiaofanlin/git/MATH155A/p07/include/"
+ "/home/xiaofanlin/git/MATH155A/p07/res/"
+ "/home/xiaofanlin/git/MATH155A/p06/"
+ "/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/cc-mode/"
  "/home/xiaofanlin/git/MATH155A/p04/src/"
+ "/home/xiaofanlin/git/MATH155A/p06/src/"
+ "/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/c++-mode/"
+ "/home/xiaofanlin/git/cse12/hw5/"
+ "/home/xiaofanlin/git/cse12/hw7/"
+ "/home/xiaofanlin/git/machine_learning/machine-learning-ex1/ex1/"
+ "/home/xiaofanlin/git/machine_learning/machine-learning-ex2/ex2/"
+ "/home/xiaofanlin/git/MATH155A/p05/src/"
+ "/home/xiaofanlin/git/cse12/hw6/"
+ "/home/xiaofanlin/git/MATH155A/p05/include/"
+ "/home/xiaofanlin/git/MATH155A/p03/include/"
+ "/home/xiaofanlin/git/MATH155A/p05/"
+ "/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/java-mode/"
+ "/home/xiaofanlin/.emacs.d/"
  "/home/xiaofanlin/git/MATH155A/p04/"
  "/home/xiaofanlin/git/MATH155A/p04/include/"
- "/home/xiaofanlin/git/cse12/hw5/"
  "/home/xiaofanlin/git/cse12/quiz3/"
- "/home/xiaofanlin/git/cse12/hw6/"
  "/home/xiaofanlin/git/MATH155A/p03/src/"
- "/home/xiaofanlin/git/MATH155A/p03/include/"
- "/home/xiaofanlin/git/machine_learning/machine-learning-ex1/ex1/"
  "/home/xiaofanlin/Documents/"
  "/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/include/"
  "/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/res/"
@@ -62,106 +100,159 @@
  "/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/"
  "/home/xiaofanlin/git/MATH155A/p03/"
  "/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/include/testing/"
- "/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/c++-mode/"
- "/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/cc-mode/"
  "/home/xiaofanlin/git/cse12/quiz2/"
  "/home/xiaofanlin/git/MATH155A/p02/src/"
  "/home/xiaofanlin/git/cse12/hw3/"
  "/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/src/res/"
- "/home/xiaofanlin/git/MATH155A/p01/src/"
- "/home/xiaofanlin/git/MATH155A/p02/"
- "/home/xiaofanlin/git/cse12/hw2/"
- "/home/xiaofanlin/git/cmake_modern_opengl/"
- "/home/xiaofanlin/git/MATH155A/p01/"
- "/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/c-mode/"
- "/home/xiaofanlin/git/MATH155A/"
- "/home/xiaofanlin/git/cmake_modern_opengl/p01/src/"
- "/home/xiaofanlin/git/cse12/hw1/"
- "/home/xiaofanlin/git/cmake_modern_opengl/pp01/res/shader/"
- "/home/xiaofanlin/git/cmake_modern_opengl/pp01/src/"
- "/home/xiaofanlin/git/cmake_modern_opengl/pp01/include/"
- "/home/xiaofanlin/git/cmake_modern_opengl/p01/"
- "/home/xiaofanlin/git/cmake_modern_opengl/p00/src/"
- "/home/xiaofanlin/git/cmake_modern_opengl/p01/include/"
- "/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p2/"
- "/home/xiaofanlin/git/cmake_modern_opengl/lib/glad/"
- "/home/xiaofanlin/git/cmake_modern_opengl/changing_size/src/"
- "/home/xiaofanlin/git/cmake_modern_opengl/changing_size/"
- "/home/xiaofanlin/Desktop/"
- "/home/xiaofanlin/git/OpenGL/"
- "/home/xiaofanlin/git/OpenGL/p01/"
- "/home/xiaofanlin/git/OpenGL/p01/src/"
- "/home/xiaofanlin/git/cs148-student-repo/bin/"
- "/home/xiaofanlin/git/cs148-student-repo/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- ".meghanada.conf"
  ".emacs"
- "Driver.c"
- "ShaderMgrLTR2.cpp"
+ "hw0.pdf"
+ "hw0.tex"
+ "TMC2.cpp"
+ "Point_Sampling.bash"
+ "main.cpp"
+ "toVideo.sh"
+ "Window.cpp"
  "CMakeLists.txt"
- "LinearR3.h"
- "LinearR3.cpp"
- "MySurfaces.cpp"
- "MyInitial.cpp"
- "list.c"
+ "decode.sh"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/xiaofanlin/git/cse12/hw7/" (23179 11055 267129 988000) "Tree.java" "Stack.o" "Driver.java" "backup/" "../" "Driver.java~" ".meghanada.conf" "Makefile" "Driver.class" "Tree.h" "List.java" "Calc1" "List.o" "compile_commands.json" "MyLib.java" "Driver.c~" "UCSDStudent.class" "bin/" "Calc.c" "Stack.c" "MyLibCharacter.class" "Tree$TNode.class" "Driver1" "build/" "Tree.java~" "List.h" "Word.class" ".meghanada/" "List.c" "SymTab.java" "Base.class" "Driver.c" "Stack.class" "Stack.java" "Namein.c" "Tree.class" "SymTab.class" "SymTab.h" "Main.java" "Tree.c" "Base.java" "Operator.class" "Main.class" "Namein.o" "Stack.h" "MyLib.class" "Base.h" "List.class" "Tree.o" "workbench.xmi" ".project" "Driver.o" "./" "Decin.o" "Namein.h" "Driver2" ".meghanada.conf~" "Calc.o" ".classpath" "Calc.h" "Main.c" "Calc2" "Main.o" "Variable.class" "Calculator.class" "Decin.h" "Decin.c" "List$Node.class" "Calculator.java")
+ ("/home/xiaofanlin/git/cse105/hw0/" (23241 23986 980206 574000) "../" "prv_hw0.fmt" "hw0.tex" "prv_hw0.log" "hw0.pdf" "hw0.log" "hw0_flymake.tex" "./" "_region_.tex" "hw0.dvi" "hw0.aux" "_region_.log" "auto/")
 
- ("/home/xiaofanlin/" (23179 10459 622428 552000) "git/" ".sogouinput/" "../" ".eclim/" "eclipse-workspace/" ".emacs~" ".profile~" ".gnome/" ".viminfo" "tritonuas/" ".local/" ".bash_logout" ".ilg-config" ".steam/" "code/" "git-prompt.sh" "Desktop/" ".texmf-var/" ".webclipse.properties" "bin/" ".bogofilter/" ".kingsoft/" "opt/" "git-completion.bash" ".bashrc" ".presage/" ".bash_history" "Videos/" "Templates/" "triton_uas/" ".gconf/" ".steampath" "emacs_tutorial/" "Pictures/" "Music/" ".pam_environment" ".sunpinyin/" ".steampid" ".gnupg/" ".nano/" ".webclipse/" ".lesshst" ".vim/" ".mozilla/" "cpp_lib_tutorial/" ".m2/" "Documents/" ".tooling/" ".bashrc~" "java-oxygen/" ".atom/" ".profile" "eclim-workspace/" ".apport-ignore.xml" ".dbus/" "./" ".pulse-cookie" ".gitconfig" ".octave_hist" ".emacs" ".cargo/" ".swt/" ".p2/" ".emacs.d/" ".sudo_as_admin_successful" "Public/" ".java/" ".ICEauthority" ".gradle/" ".ssh/" ".eclipse/" "Downloads/" "cmake_tutorial/" ".metadata/" ".xinputrc" ".pki/" ".wget-hsts" "eclim-workspace-bak/" ".adobe/" ".cache/" ".config/")
+ ("/home/xiaofanlin/git/" (23241 21151 633282 185000) "glew/" "../" "MATH155A/" "cs15l/" "ASCIIViolet/" "WaterStep0/" "cmake_modern_opengl/" "scriptTutorial/" "cmake_learning/" "cse105/" "my_emacs_setup/" "glm/" "webroot_hack/" "cse12/" "./" "machine_learning/" "opencv/" "TMC2/")
 
- ("/home/xiaofanlin/git/cse12/" (23178 6815 154462 623000) "hw6/" "../" "hw7/" "quiz2/" "hw4/" "hw1/" "hw3/" "./" "quiz3/" "hw2/" "hw5/")
+ ("/home/xiaofanlin/git/cse105/" (23241 21164 53285 314000) "../" "./" "hw0/")
+
+ ("/home/xiaofanlin/.emacs.d/" (23241 13313 984734 931000) "sexy_theme-theme.el~" "bookmarks" "session.102af075d1b5cdfcb151986063897694800000013770038" "session.1059afe8092e9809f151565408576172500000014830042" "../" "ido.last~" "session.10fc6a15a22e3b46f9152270655833363700000013640040" "url/" "session.10f481f55fecff0dd8151341042180109300000011680037" "session.1087e573b2f575cebc151521155085790800000012530039" "session.10467bad5741c5323d152226681296616800000013710042" "session.105dbe4692293811df151972042912006800000013800078" "session.10298b19641a081f7152157644992930600000013890038" "ido.last" "auto-save-list/" "session.10ce2e00c3f0beb597151557279530599700000012510042" "irony/" "session.104127cca56d861a37152091366450716200000013880037" "Sexy_theme-theme.el" "elpa/" "lisp/" "snippets/" "recentf" "session.10c859673a421ba6fc150990956227957100000011950049" "./" "session.10398deb2a31ce4856151449503385174400000012840120" "session.103473843417a9b642151564409322741800000012320039" "abbrev_defs" "sexy_theme-theme.el" "session.1031b980a9e45e5620151566024435510000000014220039" "xiaofanlin-theme.el" "session.109e8ca22a46ec14f150982519788668600000011860039" "session.10a85670587c6ca8d3151354221199717100000011700049" "meghanada/" "session.10209a4d76c30c902a151548417933617600000012490039" "session.106890b4f21a3511fa151583472176693200000013690039")
+
+ ("/home/xiaofanlin/git/cse12/hw6/" (23216 39674 537016 425000) "Stack.o" "Driver.java" "backup/" "../" "Driver.java~" "Makefile" "Driver.class" "List.java" "Calc1" "List.o" "Hash.h" "HashTable.java" "MyLib.java" "Driver.c~" "UCSDStudent.class" "Calc.c" "Stack.c" "MyLibCharacter.class" "Driver1" "List.h" "Word.class" "List.c" "SymTab.java" "Base.class" "Driver.c" "Stack.class" "Stack.java" "Namein.c" "SymTab.class" "SymTab.h" "Main.java" "test_hash.java" "Hash.c~" "Base.java" "Operator.class" "HashTable.java~" "Main.class" "Namein.o" "Stack.h" "MyLib.class" "Base.h" "test_hash.class" "List.class" "workbench.xmi" ".project" "Driver.o" "./" "Hash.o" "Decin.o" "Namein.h" "Driver2" "Calc.o" ".classpath" "Calc.h" "Main.c" "Calc2" "Main.o" "Variable.class" "Calculator.class" "Decin.h" "Decin.c" "HashTable.class" "Hash.c" "List$Node.class" "Calculator.java")
+
+ ("/home/xiaofanlin/git/cse12/hw7/" (23226 54846 763297 348000) "Tree.java" "Stack.o" "Driver.java" "backup/" "../" ".meghanada.conf" "Makefile" "Driver.class" "Tree.h" "List.java" "Calc1" "List.o" "compile_commands.json" "MyLib.java" "UCSDStudent.class" "Calc.c" "Stack.c" "MyLibCharacter.class" "Tree$TNode.class" "Driver1" "build/" "List.h" "Word.class" ".meghanada/" "List.c" "SymTab.java" "Base.class" "Driver.c" "Stack.class" "Stack.java" "Namein.c" "Tree.class" "SymTab.class" "SymTab.h" "Main.java" "Tree.c" "Base.java" "Operator.class" "Main.class" "Namein.o" "Stack.h" "MyLib.class" "Base.h" "List.class" "Tree.o" "workbench.xmi" ".project" "Driver.o" "./" "Decin.o" "Namein.h" "Driver2" ".meghanada.conf~" "Calc.o" ".classpath" "Calc.h" "Main.c" "Calc2" "Main.o" ".gradle/" "Variable.class" "Calculator.class" "Decin.h" "Decin.c" "List$Node.class" "Calculator.java")
+
+ ("/home/xiaofanlin/git/cse12/hw5/" (23217 30077 620989 582000) "backup/" "../" "driver2" "stack.h" "Makefile" "mylib.o" "stack.c~" "mylib.c" "compile_commands.json" "calc" "stack.o" "calc.c" "list.c~" "driver2.o" "list.c" "driver1" "stack.c" "driver1.o" ".hw5.vcproj" ".project" "./" "calc.o" "list.h" "driver1.c" "mylib.h" ".cproject" "driver2.c" "main.c" "list.o" "calc.h" "main.o" ".hw5.sln")
+
+ ("/home/xiaofanlin/git/MATH155A/p07/src/" (23237 34349 339996 970000) "../" "ShaderBuild.cpp" "Plane.cpp" "PhongData.cpp" "NoiseGenerator.cpp" "LinearR4.cpp" "RgbImage.cpp" "GlGeomCylinder.cpp" "SkyBox.cpp" "Terrain.cpp" "EduPhong.cpp" "./" "GlGeomSphere.cpp" "TextureProj.cpp" "MyGeometries.cpp" "LinearR3.cpp")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/src/main/java/" (23231 26168 267250 183000) "../" "Solver.java" "./" "Board.java")
+
+ ("/home/xiaofanlin/git/TMC2/" (23238 41058 104524 236000) "README.md" "../" "decode.sh" "ultils/" "bin/" "result.log" "log.txt" ".gitignore" "encode.sh" "result/" "TMCencode.sh" ".git/" "./" "doc/" "CMakeLists.txt" "TMCdecode.sh" "materials/" "tmc2/" "dependencies/" "cfg/")
+
+ ("/home/xiaofanlin/git/TMC2/ultils/Renderer/" (23238 46287 810665 787000) "renderer.sh" "../" "toVideo.sh" "renderer" "cam_configs/" "source_code/" "snapshot/" "Renderer" "./" "#toVideo.sh#" "tmc2/" "shader/" "lib/")
+
+ ("/home/xiaofanlin/git/TMC2/ultils/Renderer/source_code/src/" (23238 46121 355547 811000) "OptionParser.cpp" "../" "main.cpp" "./" "Window.cpp" "shader.cpp" "meshloader.cpp")
+
+ ("/home/xiaofanlin/git/TMC2/ultils/MeshToPc/" (23238 27481 675153 255000) "../" "Makefile" "Point_Sampling_new.bash" "Point_Sampling.bash" "main" "main.cpp" "./")
+
+ ("/home/xiaofanlin/git/TMC2/tmc2/" (23238 41038 45208 762000) "../" "TMC2.cpp" "PCCTMC2Common.h" "PCCPointSetProcessing.h" "PCCImage.h" "PCCMisc.h" "PCCKdTree.h" "./" "PCCPatchSegmenter.h" "TMC2Config.h.in" "TMC2.h" "CMakeLists.txt" "PCCNormalsGenerator.h" "PCCPointSet.h" "PCCVideo.h" "PCCMath.h")
+
+ ("/home/xiaofanlin/" (23241 21042 264655 601000) "git/" ".sogouinput/" "../" ".eclim/" "eclipse-workspace/" ".saves/" ".emacs~" ".profile~" ".gnome/" ".viminfo" "tritonuas/" ".local/" ".bash_logout" ".ilg-config" ".steam/" "code/" "git-prompt.sh" "Desktop/" ".texmf-var/" ".webclipse.properties" "bin/" ".bogofilter/" ".kingsoft/" "opt/" "git-completion.bash" ".bashrc" ".presage/" ".bash_history" "Videos/" "Templates/" "triton_uas/" ".gconf/" ".steampath" "emacs_tutorial/" "Pictures/" "Music/" ".pam_environment" ".sunpinyin/" ".steampid" ".gnupg/" ".nano/" ".webclipse/" ".lesshst" ".vim/" ".mozilla/" "snap/" "cpp_lib_tutorial/" ".m2/" "Documents/" "mykey/" ".tooling/" ".bashrc~" "java-oxygen/" ".atom/" ".profile" "eclim-workspace/" ".apport-ignore.xml" ".dbus/" "./" ".pulse-cookie" ".gitconfig" ".octave_hist" ".cmake/" ".emacs" ".cargo/" ".swt/" ".p2/" ".emacs.d/" ".sudo_as_admin_successful" "Public/" "openglworkplace/" ".java/" ".ICEauthority" ".gradle/" ".ssh/" ".eclipse/" "Downloads/" "cmake_tutorial/" ".metadata/" ".xinputrc" "Workspace/" ".pki/" ".wget-hsts" "eclim-workspace-bak/" ".adobe/" ".cache/" ".config/")
+
+ ("/home/xiaofanlin/git/TMC2/ultils/Renderer/source_code/" (23235 62728 848799 984000) "../" "bin/" "include/" "src/" "./" "CMakeLists.txt")
+
+ ("/home/xiaofanlin/git/TMC2/ultils/" (23234 48382 221522 843000) "../" "MeshAdjustment/" "MeshToPc/" "Renderer/" "./" "PCDownSample/")
+
+ ("/home/xiaofanlin/git/TMC2/ultils/Renderer/lib/openmesh/" (23235 49693 73586 227000) "README.md" "../" "qmake/" ".qmake.cache" "bin/" "CHANGELOG.md" "VERSION" "src/" "debian/" "Documentation/" "./" "cmake/" "LICENSE" "CMakeLists.txt" "OpenMesh.pro" "Doc/")
+
+ ("/home/xiaofanlin/git/TMC2/ultils/Renderer/lib/" (23234 46941 150380 905000) "glew/" "../" "openmesh/" "glfw/" "bin/" "glm/" "glad/" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/" (23231 16940 609171 443000) "../" "test10.result" "libs/" "build/" "8puzzle/" ".meghanada/" "src/" "./" "build.gradle" ".gradle/")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/src/main/" (23226 48790 160280 191000) "../" "./" "java/")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/src/" (23226 48790 160280 191000) "../" "main/" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/" (23226 48613 444993 836000) "../" "code_p1/" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/cod_p1/" (23115 15009 918140 680000) "../" "nov_18_report" "input20.txt" "Percolation.class" "input2.txt" "Percolation.zip" ".classpath~" "dec_01_report" "input10.txt" "input6.txt" "PercolationStats.java" "workbench.xmi" ".project" "./" "Percolation.java" "nov_29_report" ".classpath" "input1.txt" "PercolationVisualizer.java" "PercolationVisualizer.class" "PercolationStats.class" ".project~")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/" (23062 5066 624267 412000) "cod_p1/" "../" "int_p2/" "int_p1/" "./" "int_p3/" "UnionSet.java")
+
+ ("/home/xiaofanlin/Desktop/" (23216 25058 903251 808000) "Thank_you.png" "10.1007%2F978-3-662-44205-0.pdf" "Friendship_Theorem_1.pdf" "../" "PDF.pdf" "idm4411xTQL_1519541034.pdf" "introduce letter.docx" "gcc_learning/" "4b81136e204c3_3.png" "345/" "IMG_1490.JPG" "3D Computer Graphics - A Mathematical Introduction with OpenGL.pdf" "grass2.jpg" "It was a wilde land with infinite possibility.docx" "Assignment2.pdf" "Definitions_and_Results_for_the_Final.pdf" "intro_to_algorithm/" "Math_109_Syllabus.pdf" "XiaofanLin_1/" "resume/" "PDF.docx" "codeChallenge/" "seamless_tileable_grass_texture_by_mushin3d-d8jpn9c.jpg" "leetcode/" "./" "his list is also available on the course home page.) The item can be historical or relate to contemporary issues.txt" "Richard A. Brualdi-Introductory Combinatorics (5th Edition) (2009).pdf" "grass.jpg" "Lake.pdf" "Homework 8_files/" "Monsky.pdf" "XiaofanLin-1.zip" "homework1.pdf" "seattle.zip" "Homework 8.html" "materials/" "cruel_night_sky.rar" "Math_109_HW.pdf" "EMAIL")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/" (23075 11070 203441 586000) "../" "int_p2/" "int_p1/" "Stopwatch.java" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/" (23226 48589 509097 419000) ".gitignore~" "README.md" "../" "2_3/" "2_2/" "algs4.jar" "1_5/" ".gitignore" "1_4/" "1_3/" "2_1/" ".git/" "./" "2_4/")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_3/" (23104 30237 241765 506000) "../" "code_p2/" "int_p2/" "int_p1/" "./")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_3/code_p2/" (23115 15029 386151 366000) "Deque$DequeIterator.class" "../" "Permutation.java" "first_trial" "DequeTest.class" "Permutation.java~" "RandomizedQueue.java~" "RQTest.class" "DequeTest.java" "RandomizedQueue$RQIterator.class" ".classpath~" "Deque.java" "third_trial" "queues.zip" "RandomizedQueue.java" "workbench.xmi" ".project" "./" "RandomizedQueueTest.java~" ".classpath" "Deque.java~" "RQTest.java~" "RandomizedQueue.class" "Deque.class" "Deque$Node.class" "fourth_trial" "second_trial" "RQTest.java" "Permutation.class")
+
+ ("/home/xiaofanlin/git/cse12/hw9/" (23212 46104 341882 125000) "backup/" "../" "Makefile" "Tree.h" "Calc" ".hw9.vcproj" "Driver.datafile" "compile_commands.json" "bin/" "Calc.c" "Stack.c" "asdsad" "List.h" "List.c" "Driver.c" "alph" "Namein.c" "SymTab.h" "Tree.c" "Namein.o" "Stack.h" "out" "commands" "Makefile2" ".hw9.sln" ".project" "Driver.o" "./" "Decin.o" "Namein.h" "Calc.datafile" "Driver.h" "Calc.o" "Calc.h" "Driver" "Main.c" ".cproject" "Main.o" "CMakeLists.txt" "Decin.h" "#out#" "Decin.c" "dout" "morecommands")
+
+ ("/home/xiaofanlin/git/MATH155A/p07/res/" (23212 21259 284236 324000) "../" "calfunc" "RoughWood.bmp" "grass.bmp" "KalachakraSera.bmp" "earth_clouds.bmp" "jupitermap.bmp" "vs_phongphong" "./" "fs_phongphong" "skybox/" "631pxGreenStar_1.bmp" "BrickWallTexture.bmp")
+
+ ("/home/xiaofanlin/git/MATH155A/p07/include/" (23212 20982 573686 757000) "../" "SkyBox.h" "PhongData.h" "RgbImage.h" "MyGeometries.h" "GlGeomCylinder.h" "LinearR3.h" "LinearR4.h" "EduPhong.h" "TextureProj.h" "./" "ShaderBuild.h" "HeightGenerator.h" "Plane.h" "NoiseGenerator.h" "GlGeomSphere.h" "WaterTexture.h" "MathMisc.h" "Terrain.h")
+
+ ("/home/xiaofanlin/git/cse12/hw8/" (23212 36754 588612 655000) "backup/" "../" "Makefile" "Tree.h" "Calc" "compile_commands.json" "alphabet.rev" "Calc.c" "Stack.c" "List.h" "List.c" "Driver.c" ".hw8.vcproj" "Namein.c" "SymTab.h" "Tree.c" "Namein.o" "Stack.h" ".hw8.sln" ".project" "Driver.o" "./" "Decin.o" "Namein.h" "Driver.h" "Calc.o" "Calc.h" "Driver" "Main.c" ".cproject" "Main.o" "Decin.h" "Decin.c" "alphabet")
+
+ ("/home/xiaofanlin/git/MATH155A/p07/" (23212 20672 727310 220000) "../" "Makefile" "res/" "bin/" "include/" "src/" "./" "CMakeLists.txt")
+
+ ("/home/xiaofanlin/git/MATH155A/p05/src/" (23207 21611 104699 129000) "../" "ShaderMgr.cpp" "PhongData.cpp" "LinearR4.cpp" "PhongProj.cpp" "MyInitial.cpp" "GlGeomCylinder.cpp" "EduPhong.cpp" "./" "GlGeomSphere.cpp" "LinearR3.cpp" "MySurfaces.cpp")
+
+ ("/home/xiaofanlin/git/cse12/hw3/" (23204 63349 266638 172000) "backup/" "../" "stack.h" "Makefile" "mylib.o" "driver.c" "stack.c~" "mylib.c" "bin/" "stack.o" "driver.c~" "stack.c" "./" "mylib.h" "CMakeLists.txt~" "CMakeLists.txt" "driver" "driver.o")
+
+ ("/home/xiaofanlin/git/cse12/" (23204 19063 955183 591000) "hw6/" "../" "hw7/" "quiz2/" "hw9/" "hw4/" "hw1/" "hw3/" "./" "quiz3/" "hw8/" "hw2/" "hw5/")
+
+ ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/cc-mode/" (23202 8536 637023 169000) "case" "coco" "../" "do" "struct" "if" "ccom" "member_description" "switch" "file_description" "while" "else" "ccom~" "header_guard" "cpcn" "cpco" "#class_generator#" "for_n" "./" "class_generator~" "ternary" "coco~" "class_generator" ".#class_generator" "function_description" "for" "printf")
+
+ ("/home/xiaofanlin/git/MATH155A/p04/src/" (23201 64835 35391 380000) "../" ".#MySurfaces.cpp" "NoiseGenerator.cpp" "MySurfaces.cpp~" "LinearR4.cpp" "MyInitial.cpp" "GlGeomCylinder.cpp" "MyInitial.cpp~" "./" "GlGeomSphere.cpp" "LinearR4.cpp~" "LetterProj.cpp" "LinearR3.cpp" "LetterProj.cpp~" "#MySurfaces.cpp#" "MySurfaces.cpp" "ShaderMgrLTR2.cpp")
+
+ ("/home/xiaofanlin/git/MATH155A/p04/include/" (23201 37716 686770 452000) "LetterProj.h~" "../" "ShaderMgrLTR2.h" "MyInitial.h~" "LetterProj.h" "GlGeomCylinder.h" "LinearR3.h" "LinearR4.h" "./" "MySurfaces.h" "MyInitial.h" "NoiseGenerator.h" "GlGeomSphere.h" "MathMisc.h" "LinearR4.h~")
+
+ ("/home/xiaofanlin/git/MATH155A/p04/" (23201 37128 296765 172000) "../" "Makefile" "bin/" "include/" "src/" "./" "CMakeLists.txt~" "CMakeLists.txt")
+
+ ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/c++-mode/" (23200 51812 582629 166000) "using" "spt" "ano" "rmf" "public" "pack" "msm" "../" "module" "fne" "ignore" "inline" "rmc" "vector" "cpn" "std" "boost_require" "operator+=" "nth" "lxc" "beginend" "std_colon" "srn" "cnt" "ltr" "ucp" "friend" "operator_ostream" "cni" "constructor" "mkh" "ihu" "fil" "assert" "member_function~" "dynamic_casting" ".yas-setup.elc" "srt" "gnn" "lwr" "gnr" "stv" "alo" "clfunc~" "srh" "ns" "d_operator[]" "str" "mme" "delete" "class" "nno" "operator!=" "fori" "rpc" "namespace" "io" "test_main" "prp" "sts" "cin" "trm" "d_operator_istream" "rmv" "upr" "iterator" "operator[]" "enum" "throw" "sto" "class11" "ajf" "operator+" "d_operator[]_const" "cerr" "clfunc" "rpi" "sth" "erm" "mne" "ffo" "cstd" "swr" "oit" "rtc" "sti" "cout" ".yas-parents" "phh" ".yas-setup.el" "fln" "d_operator_ostream" "test_suite" "isu" "d_operator" "cpco" "iss" "uqe" "fun_declaration" "private" "eql" "ita" "./" "d+=" "mrg" "nxp" "fre" "map" "tryw" "cpi" "ptn" "ipt" "ostream" "rvr" "doc" "const_[]" "operator_istream" "fni" "mpb" "cpp" "sstream" "fin" "operator==" "fnd" "this" "shf" "fixture" "cpy" "member_function" "rvc" "ppt" "mxe" "delete[]" "rte" "try" "protected" "gtest" "pst" "operator=" "test case" "ipr" "template" "rci" "tfm" "psc" "ptc" "ihp" "rpl" "acl" "acm" "cpb" "rmi")
+
+ ("/home/xiaofanlin/git/MATH155A/" (23197 49934 479041 702000) ".gitignore~" "README.md" "water/" "../" "p02/" ".gitmodules" ".gitignore" "p07/" ".git/" "./" "p06/" "p04/" "p01/" "p03/" "p05/" "lib/")
+
+ ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/cpp-omnet-mode/" (23130 37202 653527 274000) "../" "nan" "uniform" "omnet" "emit_signal" "EV" "./" "intuniform" "parameter_omnetpp" "scheduleAt" "math")
+
+ ("/home/xiaofanlin/git/machine_learning/machine-learning-ex2/ex2/" (23190 6673 7865 454000) "token.mat" "plotDecisionBoundary.m" "../" "sigmoid.m" "costFunctionReg.m" "plotData.m" "ex2.m" "predict.m" "mapFeature.m" "ex2data1.txt" "./" "octave-workspace" "submit.m" "ex2_reg.m" "logReg.m" "ex2data2.txt" "costFunction.m" "lib/")
+
+ ("/home/xiaofanlin/git/machine_learning/machine-learning-ex1/ex1/" (23190 52498 903547 171000) "token.mat" "ex1data1.txt" "../" "normalEqn.m~" "gradientDescentMulti.m" "computeCostMulti.m~" "warmUpExercise.m" "ex1.m" "ex1_multi.m~" "featureNormalize.m~" "computeCost.m" "warmUpExercise.m~" "plotData.m~" "plotData.m" "ex1.m~" "computeCostMulti.m" "gradientDescentMulti.m~" "ex1data2.txt" "gradientDescent.m" "./" "octave-workspace" "#gradientDescent.m#" "featureNormalize.m" "submit.m" "normalEqn.m" "ex1_multi.m" "gradientDescent.m~" "computeCost.m~" "lib/")
+
+ ("/home/xiaofanlin/git/MATH155A/p06/src/" (23194 6423 880093 872000) "../" "ShaderBuild.cpp" "RoughWood.bmp" "PhongData.cpp" "LinearR4.cpp" "KalachakraSera.bmp" "earth_clouds.bmp" "RgbImage.cpp" "jupitermap.bmp" "GlGeomCylinder.cpp" "marble-background.bmp" "EduPhong.cpp" "./" "GlGeomSphere.cpp" "TextureProj.cpp" "MyGeometries.cpp" "LinearR3.cpp" "631pxGreenStar_1.bmp" "BrickWallTexture.bmp")
+
+ ("/home/xiaofanlin/.emacs.d/elpa/" (23195 39645 473147 547000) "powerline-20171023.750/" "monokai-theme-20180228.1139/" "gruvbox-theme-20171118.1312/" "../" "loc-changes-1.2/" "cmake-font-lock-20170117.1225/" "racer-1.2/" "tablist-20170219.1935/" "irony-eldoc-20170502.1208/" "blackboard-bold-mode-readme.txt" "pkg-info-20150517.443/" "adaptive-wrap-0.5.1.signed" "flycheck-rtags-20170522.2154/" "jazz-theme-20170411.711/" "ace-window-readme.txt" "test-simple-1.3.0/" "s-20171102.227/" "load-relative-1.3/" "seq-2.20.signed" "realgud-1.4.4.signed" "flatland-theme-20171113.721/" "nyan-mode-1.1.2/" "foggy-night-theme-20160209.708/" "company-c-headers-20170531.1330/" "dark-krystal-theme-20170808.600/" "ace-window-0.9.0.signed" "idea-darkula-theme-20160416.1603/" "levenshtein-20090830.340/" "flycheck-color-mode-line-readme.txt" "ace-window-0.9.0/" "rust-mode-0.3.0/" "flymake-cursor-20130822.332/" "test-simple-1.3.0.signed" "company-rtags-20170924.2244/" "eclim-20171113.1754/" "company-irony-20170905.1346/" "rtags-20171219.340/" "irony-20171222.1243/" "load-relative-1.3.signed" "jbeans-theme-20171212.1053/" "flycheck-31/" "neotree-20170522.758/" "intellij-theme-20171017.715/" "blackboard-theme-20161215.2256/" "distinguished-theme-20151216.1215/" "flycheck-readme.txt" "spaceline-20171111.334/" "seq-2.20/" "avy-0.4.0.signed" "distinguished-theme-readme.txt" "material-theme-20171123.1040/" "inverse-acme-theme-20170822.1954/" "badger-theme-20140716.1932/" "kaolin-themes-20180301.906/" "solarized-theme-1.2.2/" "groovy-mode-20171024.221/" "adaptive-wrap-0.5.1/" "company-0.9.4/" "realgud-1.4.4/" "avy-0.4.0/" "pdf-tools-0.80/" "epl-20150517.433/" "mbo70s-theme-20170808.615/" "dash-2.13.0/" "mode-line-bell-20171231.1939/" "gnupg/" "flycheck-rust-20170404.842/" "./" "yasnippet-snippets-20180112.516/" "afternoon-theme-20140104.1059/" "yasnippet-20170923.1646/" "flycheck-color-mode-line-20171121.2307/" "dracula-theme-20170412.845/" "ample-theme-20161213.912/" "airline-themes-20170623.958/" "f-20170404.1039/" "alect-themes-20170825.1009/" "gradle-mode-readme.txt" "cmake-mode-20160928.505/" "diminish-20170419.1036/" "flatland-black-theme-20170808.612/" "madhat2r-theme-20170202.1630/" "inkpot-theme-20171217.144/" "archives/" "melancholy-theme-20170220.1248/" "google-c-style-20140929.1118/" "yasnippet-20180111.1533/" "company-emacs-eclim-20170104.743/" "blackboard-theme-readme.txt" "flycheck-irony-20160317.1536/" "autothemer-20170112.1324/" "tangotango-theme-20170924.809/" "meghanada-20180213.1448/" "spacemacs-theme-20171217.611/" "cmake-project-readme.txt" "gradle-mode-20150313.1205/" "zenburn-theme-20180222.1757/" "loc-changes-1.2.signed" "gruber-darker-theme-20170719.2229/" "popup-20160709.729/")
+
+ ("/home/xiaofanlin/git/MATH155A/p06/" (23191 12818 623107 245000) "../" "Makefile" "bin/" "include/" "src/" "./" "CMakeLists.txt")
+
+ ("/home/xiaofanlin/git/machine_learning/" (23186 31203 491470 360000) "machine-learning-ex2/" "../" "./" "machine-learning-ex1/")
+
+ ("/home/xiaofanlin/git/machine_learning/machine-learning-ex2/" (23187 21669 144881 281000) "../" "ex2.pdf" "./" "ex2/")
+
+ ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/src/" (23183 33695 897036 996000) "../" "basic_framwork.cpp" "Canvas3D.cpp" "stb_image.cpp" "./" "ShaderLoader.cpp")
+
+ ("/home/xiaofanlin/git/MATH155A/p05/include/" (23183 9891 889220 694000) "../" "PhongData.h" "LetterProj.h" "ShaderMgr.h" "GlGeomCylinder.h" "LinearR3.h" "LinearR4.h" "EduPhong.h" "./" "MySurfaces.h" "MyInitial.h" "GlGeomSphere.h" "MathMisc.h")
+
+ ("/home/xiaofanlin/git/MATH155A/p05/" (23180 30212 821954 417000) "../" "Makefile" "bin/" "include/" "src/" "./" "CMakeLists.txt")
+
+ ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/java-mode/" (23130 37204 414171 7000) "javadoc" "lambda" "assertEquals" "param" "../" "apr_assert" "if" "new" "constructor" "assert" "override" "getter" "fori" "cls" "iterator" "import" "return" "file_class" "main" "main_class" "method" "./" "equals" "println" "toString" "define test method" "value" "doc" "this" "try" "testClass" "test" "for" "printf" "ife")
 
  ("/home/xiaofanlin/git/cse12/hw7/.meghanada/" (23179 9751 584999 412000) "../" "hw7_21cafa4b9bb06a99/" "./")
 
- ("/home/xiaofanlin/Desktop/" (23176 51377 351059 259000) "10.1007%2F978-3-662-44205-0.pdf" "../" "introduce letter.docx" "gcc_learning/" "345/" "3D Computer Graphics - A Mathematical Introduction with OpenGL.pdf" "It was a wilde land with infinite possibility.docx" "Assignment2.pdf" "intro_to_algorithm/" "XiaofanLin_1/" "resume/" "codeChallenge/" "leetcode/" "./" "Richard A. Brualdi-Introductory Combinatorics (5th Edition) (2009).pdf" "Monsky.pdf" "XiaofanLin-1.zip" "homework1.pdf" "seattle.zip" "EMAIL")
-
- ("/home/xiaofanlin/git/MATH155A/p04/src/" (23175 30646 762229 4000) "../" "MySurfaces.cpp~" "LinearR4.cpp" "MyInitial.cpp" "GlGeomCylinder.cpp" "MyInitial.cpp~" "./" "GlGeomSphere.cpp" "LinearR4.cpp~" "LetterProj.cpp" "LinearR3.cpp" "LetterProj.cpp~" "MySurfaces.cpp" "ShaderMgrLTR2.cpp")
-
  ("/home/xiaofanlin/git/cse12/quiz3/" (23173 19511 898166 194000) "../" "quiz3.txt" "./" "quiz3~")
-
- ("/home/xiaofanlin/git/cse12/hw6/" (23172 2017 44357 674000) "Stack.o" "Driver.java" "backup/" "../" "Driver.java~" "Makefile" "Driver.class" "List.java" "Calc1" "List.o" "Hash.h" "HashTable.java" "MyLib.java" "Driver.c~" "UCSDStudent.class" "Calc.c" "Stack.c" "MyLibCharacter.class" "Driver1" "List.h" "Word.class" "List.c" "SymTab.java" "Base.class" "Driver.c" "Stack.class" "Stack.java" "Namein.c" "SymTab.class" "SymTab.h" "Main.java" "test_hash.java" "Hash.c~" "Base.java" "Operator.class" "HashTable.java~" "Main.class" "Namein.o" "Stack.h" "MyLib.class" "Base.h" "test_hash.class" "List.class" "workbench.xmi" ".project" "Driver.o" "./" "Hash.o" "Decin.o" "Namein.h" "Driver2" "Calc.o" ".classpath" "Calc.h" "Main.c" "Calc2" "Main.o" "Variable.class" "Calculator.class" "Decin.h" "Decin.c" "HashTable.class" "Hash.c" "List$Node.class" "Calculator.java")
 
  ("/home/xiaofanlin/git/cse12/hw2/" (23168 781 544947 582000) "hw2.java~" "backup/" "../" "driver2" "Makefile" "hw2.c" "bin/" "MyLibCharacter.class" "driver1" "Makefile~" "hw2.o" "workbench.xmi" ".project" "./" ".classpath" ".cproject" "hw2.class" ".hw2.sln" ".hw2.vcproj" "hw2.c~" "hw2.java")
 
  ("/home/xiaofanlin/git/MATH155A/p04/bin/" (23171 20497 411240 925000) "../" "Makefile" "compile_commands.json" "CMakeFiles/" "libletterProj_lib.a" "./" "CMakeCache.txt" "cmake_install.cmake" "lib/" "letterProj")
 
- ("/home/xiaofanlin/git/MATH155A/p04/include/" (23171 39104 349606 678000) "LetterProj.h~" "../" "ShaderMgrLTR2.h" "MyInitial.h~" "LetterProj.h" "GlGeomCylinder.h" "LinearR3.h" "LinearR4.h" "./" "MySurfaces.h" "MyInitial.h" "GlGeomSphere.h" "MathMisc.h" "LinearR4.h~")
-
  ("/home/xiaofanlin/Documents/" (23167 58875 104886 812000) "../" "Xiaofan Lin.docx" "./" "HIUS108A.txt" "HIUS108A~")
-
- ("/home/xiaofanlin/git/machine_learning/machine-learning-ex1/ex1/" (23170 45660 762733 385000) "token.mat" "ex1data1.txt" "../" "normalEqn.m~" "gradientDescentMulti.m" "computeCostMulti.m~" "warmUpExercise.m" "ex1.m" "ex1_multi.m~" "featureNormalize.m~" "computeCost.m" "warmUpExercise.m~" "plotData.m~" "plotData.m" "ex1.m~" "computeCostMulti.m" "gradientDescentMulti.m~" "ex1data2.txt" "gradientDescent.m" "./" "octave-workspace" "featureNormalize.m" "submit.m" "normalEqn.m" "ex1_multi.m" "gradientDescent.m~" "computeCost.m~" "lib/")
-
- ("/home/xiaofanlin/git/MATH155A/" (23170 46259 991233 389000) ".gitignore~" "README.md" "../" "p02/" ".gitmodules" ".gitignore" ".git/" "./" "p04/" "p01/" "p03/" "lib/")
-
- ("/home/xiaofanlin/git/MATH155A/p04/" (23170 46369 673896 349000) "../" "Makefile" "bin/" "include/" "src/" "./" "CMakeLists.txt~" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/" (23170 5994 719751 910000) "../" "MATH155A/" "cs15l/" "cmake_modern_opengl/" "scriptTutorial/" "cmake_learning/" "my_emacs_setup/" "webroot_hack/" "cse12/" "./" "machine_learning/")
-
- ("/home/xiaofanlin/git/machine_learning/" (23170 6002 183750 581000) "../" "./" "machine-learning-ex1/")
 
  ("/home/xiaofanlin/git/machine_learning/machine-learning-ex1/" (22735 27966 0 0) "../" "ex1/" "ex1.pdf" "./")
 
  ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/" (23165 15959 901414 910000) "../" "Makefile" "res/" "bin/" "include/" "cam.vs" "src/" "cam.fs" "./" "7.4.camera.fs~" "CMakeLists.txt" "7.4camera.vs~" "testingSrc/")
 
- ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/src/" (23165 16108 645801 577000) "../" "basic_framwork.cpp" "Canvas3D.cpp" "stb_image.cpp" "./" "ShaderLoader.cpp")
-
  ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/include/" (23165 16137 293952 233000) "../" "testing/" "camera.h" "shader_m.h" "Canvas3D.hpp" "Camera.h" "ShaderLoader.h" "./" "Camera.h~" "ShaderLoader.h~" "stb_image.h")
 
  ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/res/" (23163 51830 887739 647000) "diffuse.vert" "../" "lamp.frag" "lamp.vert" "awesomeface.png" "diffuse.vert~" "lamp.frag~" "lamp.vert~" "./" "tri.vs~" "diffuse.frag~" "container.jpg" "tri.fs~" "diffuse.frag")
 
- ("/home/xiaofanlin/git/cse12/hw5/" (23162 57167 708012 52000) "backup/" "../" "driver2" "stack.h" "Makefile" "mylib.o" "stack.c~" "mylib.c" "compile_commands.json" "calc" "stack.o" "calc.c" "list.c~" "driver2.o" "list.c" "driver1" "stack.c" "driver1.o" ".hw5.vcproj" ".project" "./" "calc.o" "list.h" "driver1.c" "mylib.h" ".cproject" "driver2.c" "main.c" "list.o" "calc.h" "main.o" ".hw5.sln")
-
  ("/home/xiaofanlin/git/cse12/hw4/" (23162 48839 348699 138000) "backup/" "../" "stack.h" "calc.c~" "Makefile" "mylib.o" "stack.c~" "mylib.c" "calc" "stack.o" "calc.c" "stack.c" "./" "calc.o" "mylib.h" "main.c" "calc.h" "main.o")
-
- ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/cc-mode/" (23157 26306 182033 227000) "case" "coco" "../" "do" "struct" "if" "ccom" "member_description" "switch" "file_description" "while" "else" "ccom~" "header_guard" "for_n" "./" "class_generator~" "ternary" "coco~" "class_generator" "function_description" "for" "printf")
-
- ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/c++-mode/" (23157 26320 777993 694000) "using" "spt" "ano" "rmf" "public" "pack" "msm" "../" "module" "fne" "ignore" "inline" "rmc" "vector" "cpn" "std" "boost_require" "operator+=" "nth" "lxc" "beginend" "std_colon" "srn" "cnt" "ltr" "ucp" "friend" "operator_ostream" "cni" "constructor" "mkh" "ihu" "fil" "assert" "member_function~" "dynamic_casting" ".yas-setup.elc" "srt" "gnn" "lwr" "gnr" "stv" "alo" "clfunc~" "srh" "ns" "d_operator[]" "str" "mme" "delete" "class" "nno" "operator!=" "fori" "rpc" "namespace" "io" "test_main" "prp" "sts" "cin" "trm" "d_operator_istream" "rmv" "upr" "iterator" "operator[]" "enum" "throw" "sto" "class11" "ajf" "operator+" "d_operator[]_const" "cerr" "clfunc" "rpi" "sth" "erm" "mne" "ffo" "cstd" "swr" "oit" "rtc" "sti" "cout" ".yas-parents" "phh" ".yas-setup.el" "fln" "d_operator_ostream" "test_suite" "isu" "d_operator" "iss" "uqe" "fun_declaration" "private" "eql" "ita" "./" "d+=" "mrg" "nxp" "fre" "map" "tryw" "cpi" "ptn" "ipt" "ostream" "rvr" "doc" "const_[]" "operator_istream" "fni" "mpb" "cpp" "sstream" "fin" "operator==" "fnd" "this" "shf" "fixture" "cpy" "member_function" "rvc" "ppt" "mxe" "delete[]" "rte" "try" "protected" "gtest" "pst" "operator=" "test case" "ipr" "template" "rci" "tfm" "psc" "ptc" "ihp" "rpl" "acl" "acm" "cpb" "rmi")
 
  ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/include/testing/" (23157 28016 717097 460000) "Entity.hpp~" "../" "ResourceCenter.hpp" "ResourceCenter.hpp~" "./" "Cube.hpp~" "Cube.hpp" "Entity.hpp")
 
@@ -170,12 +261,6 @@
  ("/home/xiaofanlin/git/cse12/quiz2/" (23154 59091 208600 851000) "../" "questions" "./" "questions~")
 
  ("/home/xiaofanlin/git/MATH155A/p03/src/" (23156 65402 568136 87000) "../" "LinearR4.cpp" "MyInitial.cpp" "GlGeomCylinder.cpp" "MyInitial.cpp~" "./" "GlGeomSphere.cpp" "LetterProj.cpp" "LinearR3.cpp" "LetterProj.cpp~" "ShaderMgrLTR.cpp")
-
- ("/home/xiaofanlin/.emacs.d/elpa/" (23148 17129 77296 757000) "powerline-20171023.750/" "gruvbox-theme-20171118.1312/" "../" "cmake-font-lock-20170117.1225/" "racer-1.2/" "tablist-20170219.1935/" "irony-eldoc-20170502.1208/" "blackboard-bold-mode-readme.txt" "pkg-info-20150517.443/" "adaptive-wrap-0.5.1.signed" "flycheck-rtags-20170522.2154/" "jazz-theme-20170411.711/" "ace-window-readme.txt" "s-20171102.227/" "seq-2.20.signed" "flatland-theme-20171113.721/" "nyan-mode-1.1.2/" "foggy-night-theme-20160209.708/" "company-c-headers-20170531.1330/" "dark-krystal-theme-20170808.600/" "idea-darkula-theme-20160416.1603/" "levenshtein-20090830.340/" "flycheck-color-mode-line-readme.txt" "rust-mode-0.3.0/" "flymake-cursor-20130822.332/" "company-rtags-20170924.2244/" "eclim-20171113.1754/" "company-irony-20170905.1346/" "rtags-20171219.340/" "irony-20171222.1243/" "jbeans-theme-20171212.1053/" "flycheck-31/" "neotree-20170522.758/" "blackboard-theme-20161215.2256/" "flycheck-readme.txt" "spaceline-20171111.334/" "seq-2.20/" "solarized-theme-1.2.2/" "groovy-mode-20171024.221/" "adaptive-wrap-0.5.1/" "company-0.9.4/" "pdf-tools-0.80/" "epl-20150517.433/" "dash-2.13.0/" "mode-line-bell-20171231.1939/" "gnupg/" "flycheck-rust-20170404.842/" "./" "yasnippet-snippets-20180112.516/" "afternoon-theme-20140104.1059/" "yasnippet-20170923.1646/" "flycheck-color-mode-line-20171121.2307/" "dracula-theme-20170412.845/" "ample-theme-20161213.912/" "airline-themes-20170623.958/" "f-20170404.1039/" "alect-themes-20170825.1009/" "gradle-mode-readme.txt" "cmake-mode-20160928.505/" "diminish-20170419.1036/" "flatland-black-theme-20170808.612/" "archives/" "google-c-style-20140929.1118/" "yasnippet-20180111.1533/" "company-emacs-eclim-20170104.743/" "blackboard-theme-readme.txt" "autothemer-20170112.1324/" "spacemacs-theme-20171217.611/" "cmake-project-readme.txt" "gradle-mode-20150313.1205/" "popup-20160709.729/")
-
- ("/home/xiaofanlin/.emacs.d/" (23156 63082 495660 867000) "sexy_theme-theme.el~" "bookmarks" "session.1059afe8092e9809f151565408576172500000014830042" "../" "ido.last~" "url/" "session.10f481f55fecff0dd8151341042180109300000011680037" "session.1087e573b2f575cebc151521155085790800000012530039" "ido.last" "auto-save-list/" "session.10ce2e00c3f0beb597151557279530599700000012510042" "irony/" "Sexy_theme-theme.el" "elpa/" "lisp/" "snippets/" "session.10c859673a421ba6fc150990956227957100000011950049" "./" "session.10398deb2a31ce4856151449503385174400000012840120" "session.103473843417a9b642151564409322741800000012320039" "sexy_theme-theme.el" "session.1031b980a9e45e5620151566024435510000000014220039" "xiaofanlin-theme.el" "session.109e8ca22a46ec14f150982519788668600000011860039" "session.10a85670587c6ca8d3151354221199717100000011700049" "session.10209a4d76c30c902a151548417933617600000012490039" "session.106890b4f21a3511fa151583472176693200000013690039")
-
- ("/home/xiaofanlin/git/cse12/hw3/" (23153 22753 282714 131000) "backup/" "../" "stack.h" "Makefile" "mylib.o" "driver.c" "stack.c~" "mylib.c" "bin/" "stack.o" "driver.c~" "stack.c" "./" "mylib.h" "CMakeLists.txt~" "CMakeLists.txt" "driver" "driver.o")
 
  ("/home/xiaofanlin/git/MATH155A/p02/src/" (23152 59533 402701 301000) "SolarProj.cpp~" "../" "ShaderMgrSLR.cpp" "LinearR4.cpp" "./" "GlGeomSphere.cpp" "LinearR3.cpp" "SolarProj.cpp")
 
@@ -227,8 +312,6 @@
 
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_2/code_p1/" (23125 56730 280381 584000) "Point.java" "Point.class" "../" "Point$BySlope.class" "input8.txt~" "Point.java~" "input20.txt" "bin/" "BruteCollinearPoints.java" "collinear.zip" "BruteCollinearPoints.class" "LineSegment.class" "input56.txt" ".classpath~" "input10.png" "third_trial" ".#*terminal<1>*" "input10.txt~" "input10.txt" "FastCollinearPoints.class" "FastCollinearPoints.java~" "LineSegment.java" "input8.txt" "input6.txt" "input40.txt" "input6.txt~" "workbench.xmi" ".project" "./" "BruteCollinearPoints.java~" ".classpath" "#*terminal<1>*#" "*terminal<1>*" "FastCollinearPoints.java" "input9.txt" "fourth_trial" "first_trail" "second_trial" "rs1423.txt")
 
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/" (23125 53549 419543 658000) ".gitignore~" "README.md" "../" "2_3/" "2_2/" "algs4.jar" "1_5/" ".gitignore" "1_4/" "1_3/" "2_1/" ".git/" "./")
-
  ("/home/xiaofanlin/git/cs148-student-repo/hws/hw2/CMakeFiles/" (23127 1975 200942 522000) "../" "hw2_lib.dir/" "hw2.dir/" "progress.marks" "./" "CMakeDirectoryInformation.cmake" "hw2_copy_resources.dir/")
 
  ("/home/xiaofanlin/git/cs148-student-repo/hws/hw2/" (23127 1990 436709 136000) "ShaderMgrSDM.h" "backup/" ".DS_Store" "../" "Makefile" "ShaderMgrSDM.cpp" "include/" "CMakeFiles/" "main.cpp" "./" "cmake_install.cmake" "CMakeLists.txt")
@@ -238,78 +321,6 @@
  ("/home/xiaofanlin/git/cmake_modern_opengl/changing_size/" (23129 54621 284434 305000) "../" "bin/" "include/" "src/" "./" "CMakeLists.txt")
 
  ("/home/xiaofanlin/git/cmake_modern_opengl/lib/glad/" (23129 53525 573834 620000) "README.md" "../" "example/" "setup.py" "bin/" ".gitignore" "utility/" "glad/" ".git" "./" "main.py" "LICENSE" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/lib/" (23127 6377 877100 366000) "glew/" "../" "glfw/" "bin/" "glm/" "glad/" "./")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/p00/bin/" (23128 64428 969703 729000) "../" "Makefile" "SimpleDrawModern" "compile_commands.json" "CMakeFiles/" "libSimpleDrawModern_lib.a" "./" "CMakeCache.txt" "cmake_install.cmake" "lib/")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/p00/" (23127 6376 893094 23000) "../" "bin/" "include/" "src/" "./" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/bin/" (23127 61312 444680 279000) "../" "Makefile" "CMakeFiles/" "basic_framwork" "./" "libbasic_framwork_lib.a" "CMakeCache.txt" "cmake_install.cmake" "lib/")
-
- ("/home/xiaofanlin/git/OpenGL/" (23127 5856 257403 720000) "../" "bin/" ".gitmodules" ".gitignore" ".git/" "./" "CMAKE_template" "README.MD" "p01/" "lib/")
-
- ("/home/xiaofanlin/git/OpenGL/p01/" (23127 5753 692558 45000) "../" "bin/" "include/" "src/" "./" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/OpenGL/p01/bin/" (23127 3772 492357 838000) "../" "Makefile" "SimpleDrawModern" "CMakeFiles/" "libSimpleDrawModern_lib.a" "./" "CMakeCache.txt" "cmake_install.cmake" "lib/")
-
- ("/home/xiaofanlin/git/OpenGL/p01/src/" (23127 3684 812517 439000) "../" "ShaderMgrSDM.cpp" "SimpleDrawModern.cpp" "SimpleDrawModern.cpp~" "ShaderMgrSDM.cpp~" "./")
-
- ("/home/xiaofanlin/git/cs148-student-repo/bin/" (23127 2001 164544 818000) "../" "phong.frag" "phong.vs" "./" "hw2")
-
- ("/home/xiaofanlin/git/cs148-student-repo/" (23127 1975 200942 522000) "README.md" "../" "Makefile" "bin/" "CMakeFiles/" ".gitmodules" ".gitignore" ".git/" "./" "CMakeCache.txt" "cmake_install.cmake" "CMakeLists.txt" "hws/" "lib/")
-
- ("/home/xiaofanlin/git/OpenGL_CMake_Skeleton/shader/" (23109 38692 678529 647000) "../" "shader.frag" "shader.vert" "./")
-
- ("/home/xiaofanlin/git/OpenGL/.git/" (23126 65413 366477 164000) "info/" "../" "packed-refs" "index" "COMMIT_EDITMSG" "hooks/" "description" "modules/" "HEAD" "refs/" "objects/" "./" "config" "config~" "logs/" "branches/")
-
- ("/home/xiaofanlin/git/test/hello/src/" (23126 53978 258884 415000) "../" "Makefile" "bin/" "main.cpp" "./" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/test/hello/" (23126 53763 723252 616000) "../" "src/" "./")
-
- ("/home/xiaofanlin/git/test/" (23126 47965 152911 980000) "../" "hello/" "./")
-
- ("/home/xiaofanlin/git/cse12/hw1/" (23125 56730 424380 233000) "backup/" "hw1.c~" "../" "driver2" "Makefile" "hw1.java" "hw1.class" "bin/" "driver1" "hw1.o" ".hw1.vcproj" "workbench.xmi" ".project" "./" ".hw1.sln" ".classpath" "hw1.java~" ".cproject" "hw1.c")
-
- ("/home/xiaofanlin/git/OpenGL/lib/glfw/" (23125 53748 215809 162000) "README.md" "LICENSE.md" "../" "docs/" "include/" "cmake_uninstall.cmake.in" ".gitignore" "src/" "examples/" "CMake/" ".travis.yml" ".git" "./" "deps/" "CMakeLists.txt" "tests/" ".appveyor.yml" ".gitattributes")
-
- ("/home/xiaofanlin/git/OpenGL/lib/" (23126 30221 541364 378000) "glew/" "../" "glfw/" "bin/" "glad/" "./")
-
- ("/home/xiaofanlin/git/OpenGL/lib/glew/" (23126 30222 909325 250000) "README.md" "../" "Makefile" "cmake-testbuild.sh" "include/" "build/" ".gitignore" "src/" "maintain.sh" ".travis.yml" ".git" "./" "config/" "LICENSE.txt" "doc/" "CMakeLists.txt" "glew.pc.in" ".gitattributes" "auto/")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p2/" (23115 15010 46140 749000) "../" "BitonicSearch.class" ".classpath~" "BitonicSearch.java" "workbench.xmi" ".project" "./" ".classpath" "BitonicSearch.java~")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/int_p1/" (23115 15009 750140 586000) "../" "bin/" "LinearSum.java~" ".gitignore" "QuadraticThreeSums.java" "workbench.xmi" ".project" "./" "QuadraticThreeSums.java~" ".classpath" "LinearSum.class" "QuadraticThreeSums.class" "LinearSum.java")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/cod_p1/" (23115 15009 918140 680000) "../" "nov_18_report" "input20.txt" "Percolation.class" "input2.txt" "Percolation.zip" ".classpath~" "dec_01_report" "input10.txt" "input6.txt" "PercolationStats.java" "workbench.xmi" ".project" "./" "Percolation.java" "nov_29_report" ".classpath" "input1.txt" "PercolationVisualizer.java" "PercolationVisualizer.class" "PercolationStats.class" ".project~")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p3/" (23115 15009 666140 540000) "ans" "../" "ans~" "DutchFlag.java~" "DutchFlag.class" ".classpath~" "question" "workbench.xmi" ".project" "./" ".classpath" "DutchFlag.java")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_2/" (23117 31942 684471 756000) "../" "int_p2/" "int_p1/" "code_p1/" "./" "int_p3/")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_2/int_p3/" (23115 14050 897301 8000) "ans" "../" "question" "./")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_3/code_p2/" (23115 15029 386151 366000) "Deque$DequeIterator.class" "../" "Permutation.java" "first_trial" "DequeTest.class" "Permutation.java~" "RandomizedQueue.java~" "RQTest.class" "DequeTest.java" "RandomizedQueue$RQIterator.class" ".classpath~" "Deque.java" "third_trial" "queues.zip" "RandomizedQueue.java" "workbench.xmi" ".project" "./" "RandomizedQueueTest.java~" ".classpath" "Deque.java~" "RQTest.java~" "RandomizedQueue.class" "Deque.class" "Deque$Node.class" "fourth_trial" "second_trial" "RQTest.java" "Permutation.class")
-
- ("/home/xiaofanlin/git/cmake_learning/ex2_dir_project/" (23115 7223 473114 171000) "../" "Makefile" "compile_commands.json" "include/" "CMakeFiles/" "build/" "src/" "./" "CMakeCache.txt" "cmake_install.cmake" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/cmake_learning/ex2_dir_project/include/" (23115 7206 477203 776000) "../" "./" "student.hpp")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_2/int_p2/" (23115 575 851622 830000) "../" "./")
-
- ("/home/xiaofanlin/git/cmake_learning/ex2_dir_project/src/" (23115 7241 245020 811000) "../" "hello_world.cpp" "student.cpp" "./")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_2/int_p1/" (23115 281 160797 84000) "ans" "../" "ans~" "question" "./")
-
- ("/home/xiaofanlin/git/cmake_learning/" (23109 49652 848511 175000) ".gitignore~" "README.md" "../" "useful_src" "ex4_use_lib/" ".gitignore" "ex2_dir_project/" "ex1_simple_project/" ".git/" "./" "ex5_reg_cache/" "ex3_shared_lib/")
-
- ("/home/xiaofanlin/git/cmake_learning/ex5_reg_cache/cache_after_cache/" (23109 51421 588696 102000) "boo/" "../" "./" "CMakeLists.txt~" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/cmake_learning/ex5_reg_cache/cache_after_cache/boo/" (23109 51369 176175 851000) "../" "./" "CMakeLists.txt~" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/cmake_learning/ex5_reg_cache/cache_after_reg_after_cache/" (23109 54702 545059 412000) "../" "CMakelists~" "./" "CMakeLists.txt~" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/cmake_learning/ex5_reg_cache/forced_cache_after_reg/" (23109 54913 38392 870000) "../" "./" "CMakeLists.txt~" "CMakeLists.txt")
 )
 
 ;; ----- ido-unc-hosts-cache -----

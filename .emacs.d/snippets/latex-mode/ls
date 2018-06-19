@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: left side
+# key: ls
+# --
+\left$0

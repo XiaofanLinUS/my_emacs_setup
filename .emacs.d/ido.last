@@ -2,6 +2,19 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/xiaofan/git/LightFieldRasterizedImageRenderer/" . "src/")
+ ("/home/xiaofan/git/LightField/src/" . "shaders/")
+ ("/home/xiaofan/" . "Desktop/")
+ ("/home/xiaofanlin/git/cse163-hw3/" . "backup/")
+ ("/home/xiaofanlin/.emacs.d/snippets/" . "latex-mode/")
+ ("/home/xiaofanlin/git/cse163-hw2/" . "include/")
+ ("/home/xiaofanlin/git/cse100/pa02/" . "test_case/")
+ ("/home/xiaofanlin/git/cse163/" . "hw1/")
+ ("/home/xiaofanlin/git/cse100/" . "pa03/")
+ ("/home/xiaofanlin/git/cse163/hw1/" . "Source/")
+ ("/home/xiaofanlin/Desktop/resume/Xiaofan/" . "Xiaofan/")
+ ("/home/xiaofanlin/Desktop/resume/" . "Xiaofan/")
+ ("/home/xiaofanlin/git/cse105/" . "hw0/")
  ("/home/xiaofanlin/git/TMC2/ultils/" . "MeshToPc/")
  ("/home/xiaofanlin/git/TMC2/ultils/Renderer/lib/" . "openmesh/")
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/src/main/" . "java/")
@@ -9,7 +22,7 @@
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/" . "src/")
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/" . "code_p1/")
  ("/home/xiaofanlin/git/MATH155A/p06/" . "src/")
- ("/home/xiaofanlin/git/MATH155A/p07/" . "include/")
+ ("/home/xiaofanlin/git/MATH155A/p07/" . "asd/")
  ("/home/xiaofanlin/git/machine_learning/" . "machine-learning-ex1/")
  ("/home/xiaofanlin/git/machine_learning/machine-learning-ex1/" . "ex1/")
  ("/home/xiaofanlin/git/MATH155A/p05/" . "include/")
@@ -17,11 +30,11 @@
  ("/home/xiaofanlin/git/MATH155A/p04/" . "src/")
  ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/include/" . "testing/")
  ("/home/xiaofanlin/git/MATH155A/p02/" . "src/")
- ("/home/xiaofanlin/git/MATH155A/" . "p03/")
+ ("/home/xiaofanlin/git/MATH155A/" . "p07/")
  ("/home/xiaofanlin/git/MATH155A/p03/" . "include/")
  ("/home/xiaofanlin/git/cmake_modern_opengl/p01/" . "src/")
  ("/home/xiaofanlin/git/cmake_modern_opengl/pp01/res/" . "shader/")
- ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/" . "cc-mode/")
+ ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/" . "latex-mode/")
  ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/" . "snippets/")
  ("/home/xiaofanlin/git/cmake_modern_opengl/pp01/" . "res/")
  ("/home/xiaofanlin/git/cmake_modern_opengl/p00/" . "src/")
@@ -29,12 +42,12 @@
  ("/home/xiaofanlin/.emacs.d/" . "elpa/")
  ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/" . "include/")
  ("/home/xiaofanlin/git/cmake_modern_opengl/lib/" . "glad/")
- ("/home/xiaofanlin/git/cmake_modern_opengl/" . "p00/")
+ ("/home/xiaofanlin/git/cmake_modern_opengl/" . "basic_framwork/")
  ("/home/xiaofanlin/git/cs148-student-repo/hws/hw2/" . "CMakeFiles/")
  ("/home/xiaofanlin/git/OpenGL/p01/" . "src/")
  ("/home/xiaofanlin/git/OpenGL/lib/" . "glfw/")
  ("/home/xiaofanlin/git/OpenGL/" . "p01/")
- ("/home/xiaofanlin/git/" . "cse12/")
+ ("/home/xiaofanlin/git/" . "cmake_modern_opengl/")
  ("/home/xiaofanlin/git/cse12/" . "hw5/")
  ("/home/xiaofanlin/git/cmake_learning/ex2_dir_projecy/" . "src/")
  ("/home/xiaofanlin/cmake_tutorial/" . "ex1/")
@@ -45,7 +58,7 @@
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/" . "2_4/")
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_1/int_p1/" . "Stack/")
  ("/home/xiaofanlin/Desktop/Academic/" . "Math/")
- ("/home/xiaofanlin/Desktop/" . "Academic/")
+ ("/home/xiaofanlin/Desktop/" . "resume/")
  ("/home/" . "xiaofanlin/")
  ("/home/xiaofanlin/" . ".emacs.d/")
  ("/home/xiaofanlin/triton_uas/" . "path-planner/")
@@ -54,85 +67,263 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/xiaofanlin/git/TMC2/ultils/newRender/source_code/"
- "/home/xiaofanlin/git/TMC2/tmc2/"
- "/home/xiaofanlin/git/TMC2/ultils/MeshToPc/"
- "/home/xiaofanlin/git/TMC2/ultils/Renderer/source_code/src/"
- "/home/xiaofanlin/git/TMC2/ultils/Renderer/"
- "/home/xiaofanlin/git/TMC2/ultils/Renderer/source_code/"
- "/home/xiaofanlin/git/TMC2/ultils/Renderer/lib/openmesh/"
- "/home/xiaofanlin/git/TMC2/"
- "/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/"
+ "/home/xiaofan/git/cse163-hw3/standford_img/dragon/"
+ "/home/xiaofan/"
+ "/home/xiaofan/git/LightFieldRasterizedImageRenderer/src/"
+ "/home/xiaofan/git/LightFieldRasterizedImageRenderer/include/"
+ "/home/xiaofan/git/LightFieldRasterizedImageRenderer/"
+ "/home/xiaofan/git/cse100-pa04/"
+ "/home/xiaofan/git/LightField/src/shaders/"
+ "/home/xiaofan/Desktop/resume/Xiaofan/Xiaofan/"
+ "/home/xiaofanlin/"
+ "/home/xiaofanlin/git/cse163-hw3/pbrt_image/glass_ball/"
+ "/home/xiaofanlin/git/cse163-hw3/backup/"
+ "/home/xiaofanlin/git/cse163-hw3/src/"
+ "/home/xiaofanlin/git/cse163-hw3/include/"
+ "/home/xiaofanlin/git/cse100/pa04/"
+ "/home/xiaofanlin/.emacs.d/snippets/latex-mode/"
+ "/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/latex-mode/"
+ "/home/xiaofanlin/git/cse105/hw6/"
+ "/home/xiaofanlin/git/cse100/pa03/"
+ "/home/xiaofanlin/git/cse100/pa03/test_cases/"
+ "/home/xiaofanlin/git/cse100/pa03/compressed_files_new/"
+ "/home/xiaofanlin/git/cse190/hw2/Faces_BoW/common/"
+ "/home/xiaofanlin/git/cse190/hw2/SVM/"
+ "/home/xiaofanlin/git/cse190/hw2/Q3/"
+ "/home/xiaofanlin/git/cse163-hw2/shader/"
+ "/home/xiaofanlin/git/cse163-hw2/src/"
+ "/home/xiaofanlin/git/cse163-hw2/include/"
+ "/home/xiaofanlin/git/cse163-hw2/"
  "/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/src/main/java/"
- "/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/cod_p1/"
- "/home/xiaofanlin/Desktop/intro_to_algorithm/1_3/code_p2/"
- "/home/xiaofanlin/git/cse12/hw9/"
- "/home/xiaofanlin/git/cse12/hw8/"
+ "/home/xiaofanlin/git/cse190/hw2/OpticalFlow/"
+ "/home/xiaofanlin/git/cse100/pa01/"
+ "/home/xiaofanlin/git/xiaofanlinus.github.io/"
+ "/home/xiaofanlin/git/cse100/pa02/"
+ "/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/src/"
+ "/home/xiaofanlin/git/MATH155A/p07/asd/"
+ "/home/xiaofanlin/git/cse100/pa02/test_case/"
+ "/home/xiaofanlin/git/TMC2/tmc2/"
+ "/home/xiaofanlin/git/cse190/hw1/"
+ "/home/xiaofanlin/Documents/MATLAB/"
+ "/home/xiaofanlin/Documents/"
+ "/home/xiaofanlin/git/cse163/hw1/"
+ "/home/xiaofanlin/git/cse163/hw1/Source/"
+ "/home/xiaofanlin/git/cse163/hw1/Includes/"
+ "/home/xiaofanlin/git/pcl_test/"
+ "/home/xiaofanlin/git/cse100/PA1_starter/"
+ "/home/xiaofanlin/git/cse100/zybook_labs/contacts_linklist/"
  "/home/xiaofanlin/git/MATH155A/p07/src/"
  "/home/xiaofanlin/git/MATH155A/p07/include/"
- "/home/xiaofanlin/git/MATH155A/p07/res/"
- "/home/xiaofanlin/git/MATH155A/p06/"
- "/home/xiaofanlin/"
- "/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/cc-mode/"
- "/home/xiaofanlin/git/MATH155A/p04/src/"
- "/home/xiaofanlin/git/MATH155A/p06/src/"
- "/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/c++-mode/"
- "/home/xiaofanlin/git/cse12/hw5/"
- "/home/xiaofanlin/git/cse12/hw7/"
- "/home/xiaofanlin/git/machine_learning/machine-learning-ex1/ex1/"
- "/home/xiaofanlin/git/machine_learning/machine-learning-ex2/ex2/"
- "/home/xiaofanlin/git/MATH155A/p05/src/"
- "/home/xiaofanlin/git/cse12/hw6/"
- "/home/xiaofanlin/git/MATH155A/p05/include/"
- "/home/xiaofanlin/git/MATH155A/p03/include/"
- "/home/xiaofanlin/git/MATH155A/p05/"
- "/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/java-mode/"
- "/home/xiaofanlin/.emacs.d/"
- "/home/xiaofanlin/git/MATH155A/p04/"
- "/home/xiaofanlin/git/MATH155A/p04/include/"
- "/home/xiaofanlin/git/cse12/quiz3/"
- "/home/xiaofanlin/git/MATH155A/p03/src/"
- "/home/xiaofanlin/Documents/"
- "/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/include/"
- "/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/res/"
- "/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/src/"
- "/home/xiaofanlin/git/cse12/hw4/"
- "/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/"
- "/home/xiaofanlin/git/MATH155A/p03/"
- "/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/include/testing/"
- "/home/xiaofanlin/git/cse12/quiz2/"
- "/home/xiaofanlin/git/MATH155A/p02/src/"
- "/home/xiaofanlin/git/cse12/hw3/"
- "/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/src/res/"
+ "/home/xiaofanlin/git/cse105/hw0/test/"
+ "/home/xiaofanlin/git/cse105/hw0/"
+ "/home/xiaofanlin/.emacs.d/elpa/auctex-12.1.1/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "main.cpp"
- "TMC2.cpp"
- "Point_Sampling.bash"
- "toVideo.sh"
- "Window.cpp"
+ "file_info.txt"
+ ".emacs"
+ "LFProj.cpp"
+ "LFProj.h"
  "CMakeLists.txt"
- "decode.sh"
- "encode.sh"
- "test10.result"
- "build.gradle"
+ "AFace.cpp"
+ "UnionGraph.h"
+ "ActorGraph.h"
+ "out_paths_weighted.tsv"
+ "lightfield.vert"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/xiaofanlin/git/TMC2/ultils/newRender/source_code/" (23238 46171 519282 25000) "OptionParser.cpp" "../" "OptionParser.h" "bin/" "build/" "openMesh.h" "main.h" "meshloader.h" "main.cpp" "./" "shader.h" "Window.cpp" "cmake/" "shader.cpp" "Window.h" "CMakeLists.txt" "meshloader.cpp")
+ ("/home/xiaofan/git/cse163-hw3/standford_img/dragon/" (23328 33856 158335 610000) "dragon.12.14.jpg" "dragon.30.21.jpg" "dragon.9.24.jpg" "dragon.27.5.jpg" "dragon.6.9.jpg" "dragon.22.25.jpg" "dragon.15.4.jpg" "dragon.13.1.jpg" "dragon.26.21.jpg" "dragon.30.5.jpg" "dragon.23.24.jpg" "dragon.30.25.jpg" "dragon.4.18.jpg" "dragon.31.17.jpg" "dragon.28.4.jpg" "dragon.27.13.jpg" "dragon.16.11.jpg" "dragon.3.21.jpg" "dragon.16.16.jpg" "dragon.12.8.jpg" "dragon.3.8.jpg" "dragon.15.5.jpg" "dragon.10.9.jpg" "dragon.28.8.jpg" "dragon.14.20.jpg" "dragon.15.2.jpg" "dragon.1.27.jpg" "dragon.16.21.jpg" "dragon.27.4.jpg" "dragon.10.13.jpg" "dragon.29.11.jpg" "dragon.19.7.jpg" "dragon.25.28.jpg" "dragon.16.4.jpg" "dragon.22.24.jpg" "dragon.22.7.jpg" "dragon.11.2.jpg" "dragon.13.28.jpg" "dragon.12.5.jpg" "dragon.8.29.jpg" "dragon.5.25.jpg" "dragon.2.24.jpg" "dragon.27.21.jpg" "dragon.1.11.jpg" "dragon.30.20.jpg" "dragon.28.21.jpg" "dragon.30.10.jpg" "dragon.17.15.jpg" "dragon.15.11.jpg" "dragon.0.5.jpg" "dragon.26.16.jpg" "dragon.21.5.jpg" "dragon.20.1.jpg" "dragon.3.15.jpg" "dragon.1.7.jpg" "dragon.12.6.jpg" "dragon.23.1.jpg" "dragon.20.29.jpg" "dragon.15.25.jpg" "dragon.17.20.jpg" "dragon.27.19.jpg" "dragon.25.20.jpg" "dragon.12.20.jpg" "dragon.8.9.jpg" "dragon.12.25.jpg" "dragon.29.20.jpg" "dragon.6.28.jpg" "dragon.10.12.jpg" "dragon.11.25.jpg" "dragon.4.3.jpg" "dragon.2.3.jpg" "dragon.29.24.jpg" "dragon.29.22.jpg" "dragon.23.25.jpg" "dragon.1.0.jpg" "dragon.28.12.jpg" "dragon.31.26.jpg" "dragon.8.5.jpg" "dragon.2.8.jpg" "dragon.20.18.jpg" "dragon.12.0.jpg" "dragon.16.27.jpg" "dragon.28.2.jpg" "dragon.6.27.jpg" "dragon.6.29.jpg" "dragon.3.28.jpg" "dragon.19.10.jpg" "dragon.10.20.jpg" "dragon.31.7.jpg" "dragon.12.17.jpg" "dragon.1.13.jpg" "dragon.17.3.jpg" "dragon.24.8.jpg" "dragon.12.9.jpg" "dragon.19.27.jpg" "dragon.14.2.jpg" "dragon.5.19.jpg" "dragon.26.27.jpg" "dragon.23.6.jpg" "dragon.8.10.jpg" "dragon.20.14.jpg" "dragon.18.22.jpg" "dragon.19.25.jpg" "dragon.23.20.jpg" "dragon.4.13.jpg" "dragon.24.11.jpg" "dragon.30.1.jpg" "dragon.9.5.jpg" "dragon.9.29.jpg" "dragon.22.27.jpg" "dragon.0.3.jpg" "dragon.4.20.jpg" "dragon.5.10.jpg" "dragon.25.4.jpg" "dragon.0.9.jpg" "dragon.14.29.jpg" "dragon.1.15.jpg" "dragon.23.2.jpg" "dragon.30.0.jpg" "dragon.26.1.jpg" "dragon.18.18.jpg" "file_info.txt" "dragon.29.7.jpg" "dragon.1.3.jpg" "dragon.20.3.jpg" "dragon.14.16.jpg" "dragon.11.0.jpg" "dragon.28.11.jpg" "dragon.16.31.jpg" "dragon.18.8.jpg" "dragon.24.16.jpg" "dragon.2.20.jpg" "dragon.7.31.jpg" "dragon.26.6.jpg" "dragon.23.0.jpg" "dragon.31.29.jpg" "dragon.29.23.jpg" "dragon.21.24.jpg" "dragon.0.25.jpg" "dragon.18.0.jpg" "dragon.10.16.jpg" "dragon.23.18.jpg" "dragon.2.21.jpg" "dragon.19.18.jpg" "dragon.28.16.jpg" "dragon.11.10.jpg" "dragon.6.7.jpg" "dragon.11.1.jpg" "dragon.28.22.jpg" "dragon.4.17.jpg" "dragon.24.20.jpg" "dragon.9.19.jpg" "dragon.29.19.jpg" "dragon.8.14.jpg" "dragon.25.5.jpg" "dragon.15.3.jpg" "dragon.2.25.jpg" "dragon.13.6.jpg" "dragon.26.11.jpg" "dragon.10.23.jpg" "dragon.3.1.jpg" "dragon.14.11.jpg" "dragon.8.27.jpg" "dragon.10.2.jpg" "dragon.5.17.jpg" "dragon.1.6.jpg" "dragon.11.13.jpg" "dragon.20.10.jpg" "dragon.9.0.jpg" "dragon.15.23.jpg" "dragon.11.15.jpg" "dragon.15.24.jpg" "dragon.31.31.jpg" "dragon.10.8.jpg" "dragon.7.19.jpg" "dragon.4.31.jpg" "dragon.21.18.jpg" "dragon.18.31.jpg" "dragon.21.2.jpg" "dragon.1.25.jpg" "dragon.25.24.jpg" "dragon.17.0.jpg" "dragon.17.29.jpg" "dragon.3.25.jpg" "dragon.23.5.jpg" "dragon.2.12.jpg" "dragon.2.28.jpg" "dragon.4.11.jpg" "dragon.22.8.jpg" "dragon.3.13.jpg" "dragon.31.5.jpg" "dragon.9.13.jpg" "dragon.8.26.jpg" "dragon.7.22.jpg" "dragon.14.0.jpg" "dragon.0.29.jpg" "dragon.14.24.jpg" "dragon.0.14.jpg" "dragon.4.1.jpg" "dragon.7.25.jpg" "dragon.11.16.jpg" "dragon.11.18.jpg" "dragon.5.29.jpg" "dragon.16.18.jpg" "dragon.21.15.jpg" "dragon.7.21.jpg" "dragon.23.9.jpg" "dragon.6.1.jpg" "dragon.9.9.jpg" "dragon.23.30.jpg" "dragon.24.27.jpg" "dragon.0.0.jpg" "dragon.18.9.jpg" "dragon.26.25.jpg" "dragon.1.8.jpg" "dragon.9.22.jpg" "dragon.17.27.jpg" "dragon.10.27.jpg" "dragon.27.12.jpg" "dragon.13.27.jpg" "dragon.3.2.jpg" "dragon.7.8.jpg" "dragon.4.12.jpg" "dragon.22.19.jpg" "dragon.24.9.jpg" "dragon.28.6.jpg" "dragon.9.27.jpg" "dragon.26.10.jpg" "dragon.17.24.jpg" "dragon.3.4.jpg" "dragon.2.7.jpg" "dragon.3.7.jpg" "dragon.19.11.jpg" "dragon.24.6.jpg" "dragon.13.8.jpg" "dragon.17.25.jpg" "dragon.28.28.jpg" "dragon.7.2.jpg" "dragon.9.8.jpg" "dragon.13.26.jpg" "dragon.22.29.jpg" "dragon.30.4.jpg" "dragon.7.12.jpg" "dragon.21.4.jpg" "dragon.30.3.jpg" "dragon.20.5.jpg" "dragon.22.20.jpg" "dragon.7.7.jpg" "dragon.2.6.jpg" "dragon.17.1.jpg" "dragon.28.30.jpg" "dragon.6.0.jpg" "dragon.25.6.jpg" "dragon.6.23.jpg" "dragon.25.21.jpg" "dragon.26.31.jpg" "dragon.29.28.jpg" "dragon.11.24.jpg" "dragon.16.2.jpg" "dragon.16.15.jpg" "dragon.27.3.jpg" "dragon.9.16.jpg" "dragon.18.30.jpg" "dragon.4.6.jpg" "dragon.2.27.jpg" "dragon.20.25.jpg" "dragon.25.26.jpg" "dragon.26.20.jpg" "dragon.14.15.jpg" "dragon.17.16.jpg" "dragon.6.31.jpg" "dragon.6.21.jpg" "dragon.28.14.jpg" "dragon.7.28.jpg" "dragon.7.16.jpg" "dragon.4.26.jpg" "dragon.7.1.jpg" "dragon.17.2.jpg" "dragon.30.11.jpg" "dragon.19.8.jpg" "dragon.12.22.jpg" "dragon.13.4.jpg" "dragon.22.1.jpg" "dragon.3.17.jpg" "dragon.10.4.jpg" "dragon.24.7.jpg" "dragon.11.5.jpg" "dragon.8.20.jpg" "dragon.10.17.jpg" "dragon.18.21.jpg" "dragon.24.29.jpg" "dragon.17.4.jpg" "dragon.2.10.jpg" "dragon.11.6.jpg" "dragon.3.11.jpg" "dragon.24.10.jpg" "dragon.12.31.jpg" "dragon.8.31.jpg" "dragon.5.2.jpg" "dragon.1.17.jpg" "dragon.29.15.jpg" "dragon.7.5.jpg" "dragon.28.0.jpg" "dragon.8.21.jpg" "dragon.28.9.jpg" "dragon.3.20.jpg" "dragon.0.4.jpg" "dragon.15.8.jpg" "dragon.15.12.jpg" "dragon.1.23.jpg" "dragon.18.15.jpg" "dragon.0.24.jpg" "dragon.17.30.jpg" "dragon.27.27.jpg" "dragon.23.16.jpg" "dragon.22.23.jpg" "dragon.31.1.jpg" "dragon.27.9.jpg" "dragon.2.9.jpg" "dragon.16.29.jpg" "dragon.14.17.jpg" "dragon.23.28.jpg" "dragon.17.5.jpg" "dragon.18.24.jpg" "dragon.16.6.jpg" "dragon.0.10.jpg" "dragon.22.16.jpg" "dragon.6.3.jpg" "dragon.26.17.jpg" "dragon.17.21.jpg" "dragon.20.22.jpg" "dragon.6.26.jpg" "dragon.15.28.jpg" "dragon.3.24.jpg" "dragon.9.14.jpg" "dragon.12.12.jpg" "dragon.31.10.jpg" "dragon.12.11.jpg" "dragon.2.4.jpg" "dragon.1.16.jpg" "dragon.2.23.jpg" "dragon.30.26.jpg" "dragon.13.25.jpg" "dragon.0.30.jpg" "dragon.8.24.jpg" "dragon.5.12.jpg" "dragon.30.29.jpg" "dragon.8.6.jpg" "dragon.4.25.jpg" "dragon.17.17.jpg" "dragon.5.23.jpg" "dragon.0.23.jpg" "dragon.28.19.jpg" "dragon.12.26.jpg" "dragon.19.16.jpg" "dragon.23.13.jpg" "dragon.27.15.jpg" "dragon.20.31.jpg" "dragon.27.24.jpg" "dragon.29.12.jpg" "dragon.18.11.jpg" "dragon.5.31.jpg" "dragon.19.26.jpg" "dragon.23.26.jpg" "dragon.29.31.jpg" "dragon.31.21.jpg" "dragon.27.18.jpg" "dragon.11.20.jpg" "dragon.19.30.jpg" "dragon.0.7.jpg" "dragon.20.9.jpg" "dragon.8.3.jpg" "dragon.0.19.jpg" "dragon.22.30.jpg" "dragon.19.21.jpg" "dragon.30.23.jpg" "dragon.20.15.jpg" "dragon.4.0.jpg" "dragon.23.31.jpg" "dragon.15.19.jpg" "dragon.24.1.jpg" "dragon.3.27.jpg" "dragon.24.14.jpg" "dragon.24.25.jpg" "dragon.2.18.jpg" "dragon.6.6.jpg" "dragon.4.27.jpg" "dragon.21.23.jpg" "dragon.26.14.jpg" "dragon.7.23.jpg" "dragon.13.30.jpg" "dragon.29.21.jpg" "dragon.12.2.jpg" "dragon.19.12.jpg" "dragon.10.5.jpg" "dragon.7.0.jpg" "dragon.26.23.jpg" "dragon.31.22.jpg" "dragon.25.8.jpg" "dragon.12.27.jpg" "dragon.27.25.jpg" "dragon.18.16.jpg" "dragon.4.14.jpg" "dragon.14.8.jpg" "dragon.23.8.jpg" "dragon.14.7.jpg" "dragon.14.4.jpg" "dragon.15.13.jpg" "dragon.3.30.jpg" "dragon.25.15.jpg" "dragon.17.7.jpg" "dragon.26.22.jpg" "dragon.22.11.jpg" "dragon.19.13.jpg" "dragon.4.30.jpg" "dragon.1.31.jpg" "dragon.22.13.jpg" "dragon.11.23.jpg" "dragon.28.13.jpg" "dragon.16.28.jpg" "dragon.20.24.jpg" "dragon.26.29.jpg" "dragon.22.10.jpg" "dragon.6.20.jpg" "dragon.1.10.jpg" "dragon.19.0.jpg" "dragon.19.24.jpg" "dragon.3.23.jpg" "dragon.12.4.jpg" "dragon.10.7.jpg" "dragon.2.29.jpg" "dragon.3.31.jpg" "dragon.28.5.jpg" "dragon.10.24.jpg" "dragon.3.9.jpg" "dragon.13.0.jpg" "dragon.22.9.jpg" "dragon.19.23.jpg" "dragon.7.4.jpg" "dragon.16.24.jpg" "dragon.15.17.jpg" "dragon.27.10.jpg" "dragon.19.6.jpg" "dragon.24.0.jpg" "dragon.1.5.jpg" "dragon.26.18.jpg" "dragon.22.2.jpg" "dragon.20.4.jpg" "dragon.30.13.jpg" "dragon.11.27.jpg" "dragon.27.7.jpg" "dragon.22.3.jpg" "dragon.26.28.jpg" "dragon.20.21.jpg" "dragon.10.30.jpg" "dragon.29.18.jpg" "dragon.9.21.jpg" "dragon.26.5.jpg" "dragon.14.21.jpg" "dragon.28.23.jpg" "dragon.18.13.jpg" "dragon.29.13.jpg" "dragon.12.23.jpg" "dragon.19.29.jpg" "dragon.16.5.jpg" "dragon.19.28.jpg" "dragon.25.1.jpg" "dragon.31.8.jpg" "dragon.6.22.jpg" "dragon.15.30.jpg" "dragon.26.9.jpg" "dragon.15.21.jpg" "dragon.17.18.jpg" "dragon.2.13.jpg" "dragon.1.12.jpg" "dragon.26.26.jpg" "dragon.15.20.jpg" "dragon.3.18.jpg" "dragon.21.29.jpg" "dragon.10.28.jpg" "dragon.9.1.jpg" "dragon.1.9.jpg" "dragon.30.19.jpg" "dragon.27.28.jpg" "dragon.11.31.jpg" "dragon.7.10.jpg" "dragon.7.27.jpg" "dragon.29.8.jpg" "dragon.16.13.jpg" "dragon.30.24.jpg" "dragon.0.21.jpg" "dragon.0.12.jpg" "dragon.24.2.jpg" "dragon.30.27.jpg" "dragon.22.21.jpg" "dragon.10.14.jpg" "dragon.7.6.jpg" "dragon.6.4.jpg" "dragon.21.16.jpg" "dragon.17.22.jpg" "dragon.22.31.jpg" "dragon.2.14.jpg" "dragon.20.20.jpg" "dragon.14.13.jpg" "dragon.5.4.jpg" "dragon.14.9.jpg" "dragon.8.13.jpg" "dragon.22.18.jpg" "dragon.13.17.jpg" "dragon.27.20.jpg" "dragon.23.10.jpg" "dragon.29.27.jpg" "dragon.9.2.jpg" "dragon.5.6.jpg" "dragon.11.26.jpg" "dragon.31.16.jpg" "dragon.25.2.jpg" "dragon.0.28.jpg" "dragon.30.18.jpg" "dragon.23.12.jpg" "dragon.9.6.jpg" "dragon.16.12.jpg" "dragon.30.17.jpg" "dragon.4.22.jpg" "dragon.11.30.jpg" "dragon.13.22.jpg" "dragon.31.23.jpg" "dragon.31.11.jpg" "dragon.10.29.jpg" "dragon.31.2.jpg" "dragon.29.10.jpg" "dragon.18.5.jpg" "dragon.26.3.jpg" "dragon.28.20.jpg" "dragon.19.9.jpg" "dragon.20.7.jpg" "dragon.31.24.jpg" "dragon.11.9.jpg" "dragon.13.10.jpg" "dragon.16.22.jpg" "dragon.9.18.jpg" "dragon.25.25.jpg" "dragon.9.12.jpg" "dragon.8.7.jpg" "dragon.5.27.jpg" "dragon.23.4.jpg" "dragon.19.17.jpg" "dragon.0.31.jpg" "dragon.24.23.jpg" "dragon.18.12.jpg" "dragon.22.14.jpg" "dragon.25.3.jpg" "dragon.31.19.jpg" "dragon.25.27.jpg" "dragon.8.2.jpg" "dragon.29.2.jpg" "dragon.10.18.jpg" "dragon.25.31.jpg" "dragon.5.13.jpg" "dragon.3.14.jpg" "dragon.30.12.jpg" "dragon.16.17.jpg" "dragon.14.27.jpg" "dragon.28.10.jpg" "dragon.6.13.jpg" "dragon.2.2.jpg" "dragon.3.19.jpg" "dragon.18.2.jpg" "dragon.26.0.jpg" "dragon.7.17.jpg" "dragon.31.30.jpg" "dragon.19.14.jpg" "dragon.23.21.jpg" "dragon.20.16.jpg" "dragon.21.21.jpg" "dragon.1.1.jpg" "dragon.10.0.jpg" "dragon.15.16.jpg" "dragon.21.20.jpg" "dragon.17.23.jpg" "dragon.14.19.jpg" "dragon.30.31.jpg" "dragon.12.30.jpg" "dragon.27.31.jpg" "dragon.10.22.jpg" "dragon.5.26.jpg" "dragon.15.1.jpg" "dragon.25.30.jpg" "dragon.3.22.jpg" "dragon.14.22.jpg" "dragon.24.13.jpg" "dragon.13.16.jpg" "dragon.28.17.jpg" "dragon.24.3.jpg" "dragon.16.20.jpg" "dragon.24.22.jpg" "dragon.19.1.jpg" "dragon.4.5.jpg" "dragon.30.28.jpg" "dragon.12.18.jpg" "dragon.2.0.jpg" "dragon.8.23.jpg" "dragon.10.10.jpg" "dragon.30.8.jpg" "dragon.5.16.jpg" "dragon.4.10.jpg" "dragon.9.30.jpg" "dragon.20.13.jpg" "dragon.11.21.jpg" "dragon.29.26.jpg" "dragon.5.11.jpg" "dragon.24.28.jpg" "dragon.0.27.jpg" "dragon.27.23.jpg" "dragon.17.28.jpg" "dragon.15.22.jpg" "dragon.3.5.jpg" "dragon.21.12.jpg" "dragon.18.23.jpg" "dragon.31.20.jpg" "dragon.28.26.jpg" "dragon.20.2.jpg" "dragon.13.18.jpg" "dragon.5.22.jpg" "dragon.9.28.jpg" "dragon.15.29.jpg" "dragon.31.27.jpg" "dragon.20.23.jpg" "dragon.8.30.jpg" "dragon.15.0.jpg" "dragon.1.2.jpg" "dragon.12.21.jpg" "dragon.14.5.jpg" "dragon.20.8.jpg" "dragon.21.1.jpg" "dragon.8.11.jpg" "dragon.8.28.jpg" "dragon.8.4.jpg" "dragon.20.17.jpg" "dragon.26.15.jpg" "dragon.23.19.jpg" "dragon.26.12.jpg" "dragon.1.26.jpg" "dragon.29.6.jpg" "dragon.18.27.jpg" "dragon.14.10.jpg" "dragon.24.4.jpg" "dragon.6.10.jpg" "dragon.27.0.jpg" "dragon.16.26.jpg" "dragon.10.19.jpg" "dragon.30.16.jpg" "dragon.1.24.jpg" "dragon.6.8.jpg" "dragon.5.30.jpg" "dragon.12.1.jpg" "dragon.27.11.jpg" "dragon.15.7.jpg" "dragon.26.13.jpg" "dragon.0.16.jpg" "dragon.26.7.jpg" "dragon.31.12.jpg" "dragon.11.12.jpg" "dragon.26.19.jpg" "dragon.27.16.jpg" "dragon.20.11.jpg" "dragon.24.18.jpg" "dragon.6.2.jpg" "dragon.16.23.jpg" "dragon.1.19.jpg" "dragon.15.18.jpg" "dragon.9.11.jpg" "dragon.29.3.jpg" "dragon.30.7.jpg" "dragon.12.13.jpg" "dragon.18.4.jpg" "dragon.28.24.jpg" "dragon.2.15.jpg" "dragon.13.3.jpg" "dragon.28.15.jpg" "dragon.9.10.jpg" "dragon.24.21.jpg" "dragon.2.16.jpg" "dragon.5.0.jpg" "dragon.16.25.jpg" "dragon.15.10.jpg" "dragon.21.17.jpg" "dragon.10.15.jpg" "dragon.31.0.jpg" "dragon.24.31.jpg" "dragon.21.22.jpg" "dragon.5.20.jpg" "dragon.9.4.jpg" "dragon.7.11.jpg" "dragon.26.30.jpg" "dragon.12.10.jpg" "dragon.29.5.jpg" "dragon.15.27.jpg" "dragon.21.25.jpg" "dragon.13.9.jpg" "dragon.19.2.jpg" "dragon.13.11.jpg" "dragon.10.21.jpg" "dragon.16.3.jpg" "dragon.20.27.jpg" "dragon.27.14.jpg" "dragon.14.6.jpg" "dragon.6.11.jpg" "dragon.16.30.jpg" "dragon.6.25.jpg" "dragon.8.22.jpg" "dragon.29.29.jpg" "dragon.17.12.jpg" "dragon.0.2.jpg" "dragon.8.17.jpg" "dragon.30.9.jpg" "dragon.18.19.jpg" "dragon.13.19.jpg" "dragon.11.8.jpg" "dragon.1.20.jpg" "dragon.2.22.jpg" "dragon.11.3.jpg" "dragon.0.17.jpg" "dragon.4.24.jpg" "dragon.1.21.jpg" "dragon.30.14.jpg" "dragon.2.30.jpg" "dragon.15.31.jpg" "dragon.3.29.jpg" "dragon.14.31.jpg" "dragon.4.16.jpg" "dragon.29.30.jpg" "dragon.17.8.jpg" "dragon.12.3.jpg" "dragon.19.31.jpg" "dragon.23.14.jpg" "dragon.23.29.jpg" "dragon.17.19.jpg" "dragon.23.7.jpg" "dragon.18.3.jpg" "dragon.5.28.jpg" "dragon.6.5.jpg" "dragon.22.0.jpg" "dragon.17.31.jpg" "dragon.14.3.jpg" "dragon.16.0.jpg" "dragon.21.10.jpg" "dragon.9.7.jpg" "dragon.27.1.jpg" "dragon.0.26.jpg" "dragon.17.10.jpg" "dragon.11.29.jpg" "dragon.18.14.jpg" "dragon.8.1.jpg" "dragon.22.5.jpg" "dragon.9.31.jpg" "dragon.21.31.jpg" "dragon.29.16.jpg" "dragon.28.25.jpg" "dragon.14.18.jpg" "dragon.18.26.jpg" "dragon.15.9.jpg" "dragon.21.7.jpg" "dragon.9.3.jpg" "dragon.9.25.jpg" "dragon.9.17.jpg" "dragon.9.15.jpg" "dragon.26.4.jpg" "dragon.11.14.jpg" "dragon.0.13.jpg" "dragon.31.3.jpg" "dragon.7.3.jpg" "dragon.30.6.jpg" "dragon.21.11.jpg" "dragon.6.12.jpg" "dragon.4.9.jpg" "dragon.5.18.jpg" "dragon.17.6.jpg" "dragon.22.4.jpg" "dragon.8.18.jpg" "dragon.11.19.jpg" "dragon.6.15.jpg" "dragon.0.15.jpg" "dragon.0.6.jpg" "dragon.12.28.jpg" "dragon.25.11.jpg" "dragon.6.17.jpg" "dragon.20.12.jpg" "dragon.22.28.jpg" "dragon.7.13.jpg" "dragon.4.8.jpg" "dragon.9.26.jpg" "dragon.12.29.jpg" "dragon.21.26.jpg" "dragon.4.2.jpg" "dragon.7.29.jpg" "dragon.18.29.jpg" "dragon.5.9.jpg" "dragon.28.27.jpg" "dragon.5.21.jpg" "dragon.28.1.jpg" "dragon.10.3.jpg" "dragon.14.14.jpg" "dragon.2.19.jpg" "dragon.7.18.jpg" "dragon.8.25.jpg" "dragon.31.6.jpg" "dragon.23.11.jpg" "dragon.7.9.jpg" "dragon.17.26.jpg" "dragon.11.28.jpg" "dragon.13.2.jpg" "dragon.29.4.jpg" "dragon.6.24.jpg" "dragon.25.7.jpg" "dragon.0.1.jpg" "dragon.18.25.jpg" "dragon.10.31.jpg" "dragon.24.26.jpg" "dragon.1.30.jpg" "dragon.2.17.jpg" "dragon.16.9.jpg" "dragon.26.8.jpg" "dragon.26.2.jpg" "dragon.27.2.jpg" "dragon.24.12.jpg" "dragon.16.10.jpg" "dragon.7.14.jpg" "dragon.25.9.jpg" "dragon.25.10.jpg" "dragon.4.23.jpg" "dragon.17.9.jpg" "dragon.11.4.jpg" "dragon.20.26.jpg" "dragon.12.24.jpg" "dragon.11.22.jpg" "dragon.14.23.jpg" "dragon.5.24.jpg" "dragon.30.15.jpg" "dragon.3.6.jpg" "dragon.2.31.jpg" "dragon.0.20.jpg" "dragon.5.3.jpg" "dragon.31.15.jpg" "dragon.31.4.jpg" "dragon.21.0.jpg" "dragon.20.19.jpg" "dragon.3.3.jpg" "dragon.2.5.jpg" "dragon.25.19.jpg" "dragon.25.12.jpg" "dragon.13.15.jpg" "dragon.22.22.jpg" "dragon.12.16.jpg" "dragon.29.14.jpg" "dragon.4.19.jpg" "dragon.9.20.jpg" "dragon.25.14.jpg" "dragon.29.17.jpg" "dragon.26.24.jpg" "dragon.7.15.jpg" "dragon.30.22.jpg" "dragon.16.19.jpg" "dragon.19.4.jpg" "dragon.23.17.jpg" "dragon.27.26.jpg" "dragon.25.18.jpg" "dragon.18.20.jpg" "dragon.15.15.jpg" "dragon.21.19.jpg" "dragon.22.15.jpg" "dragon.17.13.jpg" "dragon.8.16.jpg" "dragon.1.28.jpg" "dragon.6.16.jpg" "dragon.16.7.jpg" "dragon.18.1.jpg" "dragon.10.26.jpg" "dragon.17.11.jpg" "dragon.5.15.jpg" "dragon.20.28.jpg" "dragon.24.17.jpg" "dragon.27.22.jpg" "dragon.14.30.jpg" "dragon.16.8.jpg" "dragon.25.13.jpg" "dragon.23.3.jpg" "dragon.16.14.jpg" "dragon.0.18.jpg" "dragon.14.12.jpg" "dragon.14.25.jpg" "dragon.28.7.jpg" "dragon.23.22.jpg" "dragon.3.10.jpg" "dragon.4.28.jpg" "dragon.8.0.jpg" "dragon.13.24.jpg" "dragon.13.31.jpg" "dragon.21.3.jpg" "dragon.4.7.jpg" "dragon.15.26.jpg" "dragon.0.8.jpg" "dragon.22.26.jpg" "dragon.1.29.jpg" "dragon.18.10.jpg" "dragon.0.22.jpg" "dragon.6.30.jpg" "dragon.27.29.jpg" "dragon.14.1.jpg" "dragon.11.17.jpg" "dragon.3.0.jpg" "dragon.7.26.jpg" "dragon.13.13.jpg" "dragon.11.7.jpg" "dragon.24.24.jpg" "dragon.6.18.jpg" "dragon.2.1.jpg" "dragon.19.22.jpg" "dragon.28.31.jpg" "dragon.8.8.jpg" "dragon.0.11.jpg" "dragon.25.22.jpg" "dragon.28.3.jpg" "dragon.14.26.jpg" "dragon.25.0.jpg" "dragon.1.14.jpg" "dragon.2.26.jpg" "dragon.24.19.jpg" "dragon.29.1.jpg" "dragon.25.29.jpg" "dragon.29.0.jpg" "dragon.25.16.jpg" "dragon.4.21.jpg" "dragon.1.18.jpg" "dragon.27.30.jpg" "dragon.16.1.jpg" "dragon.13.14.jpg" "dragon.12.15.jpg" "dragon.30.2.jpg" "dragon.5.14.jpg" "dragon.2.11.jpg" "dragon.22.17.jpg" "dragon.30.30.jpg" "dragon.8.12.jpg" "dragon.20.6.jpg" "dragon.3.16.jpg" "dragon.10.11.jpg" "dragon.10.6.jpg" "dragon.19.20.jpg" "dragon.21.14.jpg" "dragon.31.14.jpg" "dragon.21.9.jpg" "dragon.4.15.jpg" "dragon.9.23.jpg" "dragon.6.19.jpg" "dragon.27.6.jpg" "dragon.23.15.jpg" "dragon.12.7.jpg" "dragon.17.14.jpg" "dragon.10.1.jpg" "dragon.3.26.jpg" "dragon.31.13.jpg" "dragon.13.5.jpg" "dragon.8.19.jpg" "dragon.31.18.jpg" "dragon.18.6.jpg" "dragon.21.28.jpg" "dragon.6.14.jpg" "dragon.31.9.jpg" "dragon.24.5.jpg" "dragon.11.11.jpg" "dragon.21.8.jpg" "dragon.21.27.jpg" "dragon.21.6.jpg" "dragon.22.12.jpg" "dragon.19.3.jpg" "dragon.13.7.jpg" "dragon.27.8.jpg" "dragon.27.17.jpg" "dragon.13.21.jpg" "dragon.23.27.jpg" "dragon.15.6.jpg" "dragon.8.15.jpg" "dragon.4.4.jpg" "dragon.7.20.jpg" "dragon.5.5.jpg" "dragon.20.0.jpg" "dragon.1.4.jpg" "dragon.25.17.jpg" "dragon.7.30.jpg" "dragon.18.17.jpg" "dragon.28.29.jpg" "dragon.18.28.jpg" "dragon.4.29.jpg" "dragon.20.30.jpg" "dragon.21.13.jpg" "dragon.7.24.jpg" "dragon.3.12.jpg" "dragon.5.8.jpg" "dragon.1.22.jpg" "dragon.14.28.jpg" "dragon.13.12.jpg" "dragon.5.7.jpg" "dragon.25.23.jpg" "dragon.22.6.jpg" "dragon.29.25.jpg" "dragon.5.1.jpg" "dragon.19.15.jpg" "dragon.31.28.jpg" "dragon.15.14.jpg" "dragon.13.20.jpg" "dragon.19.19.jpg" "dragon.28.18.jpg" "dragon.29.9.jpg" "dragon.12.19.jpg" "dragon.24.30.jpg" "dragon.13.29.jpg" "dragon.19.5.jpg" "dragon.21.30.jpg" "dragon.24.15.jpg" "dragon.23.23.jpg" "dragon.31.25.jpg" "dragon.18.7.jpg" "dragon.13.23.jpg" "dragon.10.25.jpg" "../" "./")
 
- ("/home/xiaofanlin/git/TMC2/tmc2/" (23236 2182 220656 495000) "../" "TMC2.cpp" "PCCTMC2Common.h" "PCCPointSetProcessing.h" "PCCImage.h" "PCCMisc.h" "PCCKdTree.h" "./" "PCCPatchSegmenter.h" "TMC2Config.h.in" "TMC2.h" "CMakeLists.txt" "PCCNormalsGenerator.h" "PCCPointSet.h" "PCCVideo.h" "PCCMath.h")
+ ("/home/xiaofan/git/cse190/hw3/SimpleCNN_MNIST/" (23326 14532 365666 543000) "check_ADAM/" "run.sh" "check_SGD_dropout/" "check_SGD/" "train.py" "test_ADAM/" "__pycache__/" ".#models.py" "./" "train-images-idx3-ubyte" "test.py" "dataLoader.pyc" "dataLoader.py" "models.py" "t10k-images-idx3-ubyte" "test_ADAM_dropout/" "train-labels-idx1-ubyte" "t10k-labels-idx1-ubyte" "../" "test_SGD/" "check_ADAM_dropout/" "models.pyc" "test_SGD_dropout/")
 
- ("/home/xiaofanlin/git/TMC2/ultils/MeshToPc/" (23234 50428 302726 468000) "../" "Makefile" "Point_Sampling_new.bash" "Point_Sampling.bash" "main" "main.cpp" "./")
+ ("/home/xiaofan/" (23326 14269 360484 41000) "Videos/" ".vscode/" "Downloads/" ".gnome/" ".gconf/" ".saves/" ".gnupg/" "Documents/" "./" ".dbus/" ".bash_history" ".mozilla/" ".bashrc" "snap/" ".python_history" ".presage/" ".profile" ".emacs" ".ICEauthority" "Templates/" ".sudo_as_admin_successful" ".bashrc-anaconda3.bak" "Music/" "Pictures/" ".cache/" "../" "git-completion.bash" ".bash_logout" ".conda/" "anaconda3/" "git/" ".cmake/" ".xinputrc" ".pylint.d/" ".gitconfig" ".ssh/" "git-prompt.sh" ".pki/" ".sogouinput/" "Public/" "Desktop/" ".config/" ".emacs.d/" ".local/")
 
- ("/home/xiaofanlin/git/TMC2/ultils/Renderer/" (23236 1353 672978 655000) "renderer.sh" "../" "toVideo.sh" "cam_configs/" "source_code/" "snapshot/" "Renderer" "./" "#toVideo.sh#" "tmc2/" "shader/" "lib/")
+ ("/home/xiaofan/git/" (23325 45126 237423 921000) "cse163-hw3/" "xil308@ieng6.ucsd.edu/" "glew-2.1.0.zip" "archive/" "./" "cse100-pa04/" "cmake_modern_opengl/" "cse163-hw2/" "LightField/" "LightFieldRasterizedImageRenderer/" "glm/" "../" "glfw/" "glew-2.1.0/" "cse12/" "cse190/" "xiaofanlinus.github.io/" "glew/")
+
+ ("/home/xiaofan/git/cse190/" (23321 60819 105884 807000) "./" "hw3/" "README.md" ".git/" "../")
+
+ ("/home/xiaofan/git/LightFieldRasterizedImageRenderer/include/" (23325 53358 228540 403000) "main.h" "LFProj.h" "Mesh.h" "Vertex.h" "./" ".#window.h" "Cube.h" "window.h" "../" "shader.h" "Entity.hpp" "Face.h" "Camera.hpp" "World.hpp" "Errdge.h" "Path.h")
+
+ ("/home/xiaofan/git/LightFieldRasterizedImageRenderer/src/" (23325 47655 617995 138000) "shader.cpp" "./" ".#LFProj.cpp" "Cube.cpp" "Window.cpp" "Vertex.cpp" "Face.cpp" "../" "main.cpp" "Mesh.cpp" "LFProj.cpp" "Errdge.cpp")
+
+ ("/home/xiaofan/git/LightFieldRasterizedImageRenderer/" (23325 46822 385535 605000) "lib/" "shader/" "./" "src/" "include/" "README.md" ".git/" "../" "CMakeLists.txt" "model/" "bin/")
+
+ ("/home/xiaofan/git/cse100-pa04/" (23318 59449 428766 353000) "Makefile" "databases/" "AVertex.h" "compile_commands.json" "AVertex.o" "./" "out_connections_ref.tsv" "AFace.h" "refactorconnections" "ActorGraph.o" "AEdge.o" "ActorGraph.h" "ActorGraph.cpp" "out_paths_weighted.tsv" "UnionGraph.h" "result1" "README.md" ".git/" "pathfinder.cpp" "AFace.o" "../" "reference_solutions/" "Report.h" "out_medium_connections.tsv" "actorconnections.cpp" "pathfinder" "AEdge.h" "AEdge.cpp" "refpathfinder" "out_connections.tsv" "result" "actorconnections" "out_medium_path.tsv" "AVertex.cpp" "AFace.cpp")
+
+ ("/home/xiaofan/git/cse190/hw3/" (23321 45282 654825 595000) "TransferLearning_CIFAR/" "./" "SimpleCNN_MNIST/" "../")
+
+ ("/home/xiaofan/Desktop/resume/Xiaofan/Xiaofan/" (23318 609 774008 647000) "resume.cls" "RESUME_xiaofanlin.aux" "auto/" "helvetica.sty" "RESUME_xiaofanlin.log" "./" "RESUME_xiaofanlin.tex" ".DS_Store" "RESUME_xiaofanlin.pdf" "texput.log" "_region_.tex" "../" "_region_.log" "prv_RESUME_xiaofanlin.log")
+
+ ("/home/xiaofan/git/LightField/src/shaders/" (23316 27855 919940 624000) "lightfield.vert" "./" "../" "lightfield.frag")
+
+ ("/home/xiaofan/git/cse163-hw3/src/" (23316 46084 687430 995000) "Image.cpp" "./" "Window.cpp" "../" "main.cpp")
+
+ ("/home/xiaofan/git/LightField/src/" (23315 17929 813489 677000) "./" "viewer/" "shaders/" "../" "CMakeLists.txt")
+
+ ("/home/xiaofan/git/LightField/src/viewer/" (23315 27687 342821 156000) "maingui.h" "directories.h" "./" "directories.h.in" "maingui.cpp" "imageinfo.h" "../" "light_field_widget.h" "main.cpp" "light_field_widget.cpp")
+
+ ("/home/xiaofan/git/xiaofanlinus.github.io/" (23314 14135 272256 931000) "designs/" "cse190_hw2.html" "./" "contact.html" "changes/" "hw3.html" "css/" "README.md" "index.html" "computer_vision/" ".git/" "../" "images/" "login.html" "img/" "js/" "examples/" "hw2.html")
+
+ ("/home/xiaofan/Desktop/" (23313 1780 782162 405000) "./" "../" "UCSD Degree Audit Report.pdf")
+
+ ("/home/xiaofanlin/git/cse163-hw3/bin/" (23312 24484 723354 824000) "../" "Makefile" "compile_commands.json" "CMakeFiles/" "hw3" "./" "CMakeCache.txt" "cmake_install.cmake" "libhw3_lib.a" "lib/")
+
+ ("/home/xiaofanlin/" (23311 31504 84714 600000) "git/" ".sogouinput/" "../" ".eclim/" "eclipse-workspace/" ".saves/" ".emacs~" ".profile~" ".gnome/" ".viminfo" "tritonuas/" ".local/" ".bash_logout" ".ilg-config" "PycharmProjects/" ".CLion2018.1/" ".steam/" "code/" "git-prompt.sh" "Desktop/" "vlfeat/" ".texmf-var/" ".webclipse.properties" "bin/" ".bogofilter/" ".kingsoft/" ".PyCharmCE2018.1/" "B.S. Computer Science (CS26) Major Checklist, Fall 2017.pdf" "opt/" "git-completion.bash" ".bashrc" ".presage/" ".bash_history" "Videos/" "Templates/" "triton_uas/" ".gconf/" ".steampath" "emacs_tutorial/" "Pictures/" "Music/" ".ssr/" ".thumbnails/" ".pam_environment" ".sunpinyin/" ".gimp-2.8/" ".steampid" ".gnupg/" ".nano/" ".webclipse/" ".lesshst" ".vim/" ".mozilla/" "snap/" "cpp_lib_tutorial/" ".m2/" "Documents/" "mykey/" ".tooling/" ".bashrc~" "java-oxygen/" ".atom/" ".profile" "eclim-workspace/" ".apport-ignore.xml" ".dbus/" "./" ".pulse-cookie" ".gitconfig" ".octave_hist" ".cmake/" ".matlab/" ".emacs" ".cargo/" ".swt/" ".p2/" ".emacs.d/" ".sudo_as_admin_successful" "Public/" ".subversion/" ".macromedia/" "openglworkplace/" ".java/" ".ICEauthority" ".gradle/" ".ssh/" ".eclipse/" ".oracle_jre_usage/" ".python_history" "Downloads/" "cmake_tutorial/" ".metadata/" ".xinputrc" "Workspace/" ".pki/" ".wget-hsts" "eclim-workspace-bak/" ".adobe/" "joy.zip" ".cache/" ".config/")
+
+ ("/home/xiaofanlin/git/" (23311 12668 566076 716000) "pbrt-v3/" "glew/" "../" "MATH155A/" "cse163_res/" "cs15l/" "ASCIIViolet/" "cse100/" "cse100-pa04/" "cse163-hw3/" "cse190/" "WaterStep0/" "CSE167StarterCode2/" "cse163-hw2/" "cmake_modern_opengl/" "scriptTutorial/" "cmake_learning/" "cse105/" "CODE.zip" "pcl-pcl-1.8.1/" "cse163-finalProj-lightFieldViewer/" "my_emacs_setup/" "glm/" "webroot_hack/" "matlab-mode/" "cse12/" ".git/" "./" "machine_learning/" "pbrt-scenes/" "xiaofanlinus.github.io/" "pcl_test/" "pbrt-v3-scenes/" "cse163/" "OpenGL/" "ASCIIViolet (copy)/" "opencv/" "TMC2/" "cmake-3.11.2/")
+
+ ("/home/xiaofanlin/git/cse163-hw3/" (23311 31677 934378 790000) "README.md" "backup/" "../" "bin/" "include/" ".gitignore" "src/" ".git/" "./" "CMakeLists.txt" "lib/" "pbrt_image/")
+
+ ("/home/xiaofanlin/git/cse163-hw3/src/" (23312 24465 335417 121000) "../" "Image.cpp" "main.cpp" "./" "Window.cpp" "shader.cpp")
+
+ ("/home/xiaofanlin/git/cse163-hw3/include/" (23312 24425 951543 686000) "../" "VirtualCamera.h" "Image.h" "ImagePlane.h" "main.h" "./" "shader.h" "Window.h" "stb_image.h")
+
+ ("/home/xiaofanlin/git/cse163-hw3/pbrt_image/glass_ball/" (23312 19547 54952 821000) "glassBall_7_-3_.7_-.3.png" "glassBall_-7_-6_-.7_-.6.png" "glassBall_7_6_.7_.6.png" "glassBall_0_7_0_.7.png" "glassBall_-7_5_-.7_.5.png" "glassBall_-3_5_-.3_.5.png" "glassBall_-5_0_-.5_0.png" "glassBall_-3_-5_-.3_-.5.png" "glassBall_-1_-2_-.1_-.2.png" "glassBall_2_6_.2_.6.png" "glassBall_0_-4_0_-.4.png" "glassBall_-4_1_-.4_.1.png" "glassBall_0_-1_0_-.1.png" "glassBall_-4_-4_-.4_-.4.png" "glassBall_0_-6_0_-.6.png" "glassBall_2_7_.2_.7.png" "glassBall_4_1_.4_.1.png" "glassBall_6_-2_.6_-.2.png" "glassBall_1_8_.1_.8.png" "glassBall_1_-3_.1_-.3.png" "glassBall_-1_-4_-.1_-.4.png" "glassBall_1_-4_.1_-.4.png" "glassBall_5_7_.5_.7.png" "glassBall_-7_-5_-.7_-.5.png" "glassBall_-7_7_-.7_.7.png" "glassBall_1_-8_.1_-.8.png" "glassBall_-5_-1_-.5_-.1.png" "glassBall_-8_7_-.8_.7.png" "glassBall_-5_6_-.5_.6.png" "glassBall_4_-1_.4_-.1.png" "glassBall_-8_6_-.8_.6.png" "glassBall_8_-4_.8_-.4.png" "glassBall_5_1_.5_.1.png" "glassBall_-3_4_-.3_.4.png" "glassBall_3_6_.3_.6.png" "glassBall_-8_-7_-.8_-.7.png" "glassBall_-1_3_-.1_.3.png" "glassBall_8_3_.8_.3.png" "glassBall_-3_6_-.3_.6.png" "glassBall_4_5_.4_.5.png" "glassBall_3_-3_.3_-.3.png" "glassBall_-8_1_-.8_.1.png" "glassBall_8_2_.8_.2.png" "glassBall_7_1_.7_.1.png" "glassBall_6_-5_.6_-.5.png" "glassBall_-4_-6_-.4_-.6.png" "glassBall_-8_8_-.8_.8.png" "glassBall_-6_1_-.6_.1.png" "glassBall_5_-7_.5_-.7.png" "glassBall_-5_8_-.5_.8.png" "glassBall_5_3_.5_.3.png" "glassBall_3_5_.3_.5.png" "glassBall_6_8_.6_.8.png" "glassBall_3_-1_.3_-.1.png" "glassBall_-3_0_-.3_0.png" "glassBall_-8_4_-.8_.4.png" "glassBall_3_0_.3_0.png" "glassBall_7_-2_.7_-.2.png" "glassBall_3_8_.3_.8.png" "glassBall_7_-7_.7_-.7.png" "glassBall_7_-1_.7_-.1.png" "glassBall_2_2_.2_.2.png" "glassBall_-8_5_-.8_.5.png" "glassBall_-7_-8_-.7_-.8.png" "glassBall_-4_-3_-.4_-.3.png" "glassBall_0_-5_0_-.5.png" "glassBall_4_3_.4_.3.png" "glassBall_6_-7_.6_-.7.png" "glassBall_-7_-3_-.7_-.3.png" "glassBall_-4_-2_-.4_-.2.png" "glassBall_-7_2_-.7_.2.png" "glassBall_5_-1_.5_-.1.png" "glassBall_6_-6_.6_-.6.png" "glassBall_0_4_0_.4.png" "glassBall_-3_-4_-.3_-.4.png" "glassBall_-1_0_-.1_0.png" "glassBall_-5_2_-.5_.2.png" "glassBall_3_-4_.3_-.4.png" "glassBall_-1_2_-.1_.2.png" "glassBall_-6_4_-.6_.4.png" "glassBall_4_-7_.4_-.7.png" "glassBall_-7_0_-.7_0.png" "glassBall_7_3_.7_.3.png" "glassBall_1_6_.1_.6.png" "glassBall_-4_-1_-.4_-.1.png" "glassBall_7_7_.7_.7.png" "glassBall_6_6_.6_.6.png" "glassBall_1_-6_.1_-.6.png" "glassBall_0_-8_0_-.8.png" "glassBall_7_0_.7_0.png" "glassBall_8_-1_.8_-.1.png" "glassBall_-6_6_-.6_.6.png" "glassBall_-5_1_-.5_.1.png" "glassBall_2_3_.2_.3.png" "glassBall_-2_-7_-.2_-.7.png" "glassBall_-3_1_-.3_.1.png" "glassBall_3_-7_.3_-.7.png" "glassBall_-8_-8_-.8_-.8.png" "glassBall_0_-7_0_-.7.png" "glassBall_-5_3_-.5_.3.png" "glassBall_8_-7_.8_-.7.png" "glassBall_0_-3_0_-.3.png" "glassBall_6_3_.6_.3.png" "glassBall_-8_-3_-.8_-.3.png" "glassBall_-5_-5_-.5_-.5.png" "glassBall_5_4_.5_.4.png" "glassBall_-7_3_-.7_.3.png" "glassBall_2_-5_.2_-.5.png" "glassBall_5_2_.5_.2.png" "glassBall_5_5_.5_.5.png" "glassBall_1_5_.1_.5.png" "glassBall_-1_-7_-.1_-.7.png" "glassBall_4_0_.4_0.png" "glassBall_1_0_.1_0.png" "glassBall_4_6_.4_.6.png" "glassBall_4_-8_.4_-.8.png" "glassBall_-2_-6_-.2_-.6.png" "glassBall_2_-2_.2_-.2.png" "glassBall_-3_8_-.3_.8.png" "glassBall_1_4_.1_.4.png" "glassBall_-1_-5_-.1_-.5.png" "glassBall_-6_0_-.6_0.png" "glassBall_2_5_.2_.5.png" "glassBall_-2_-1_-.2_-.1.png" "glassBall_7_-6_.7_-.6.png" "glassBall_1_-5_.1_-.5.png" "glassBall_8_6_.8_.6.png" "glassBall_-3_-2_-.3_-.2.png" "glassBall_-2_5_-.2_.5.png" "glassBall_6_-8_.6_-.8.png" "glassBall_-5_7_-.5_.7.png" "glassBall_-6_2_-.6_.2.png" "glassBall_-7_4_-.7_.4.png" "glassBall_-6_-3_-.6_-.3.png" "glassBall_3_2_.3_.2.png" "glassBall_-8_2_-.8_.2.png" "glassBall_-1_-3_-.1_-.3.png" "glassBall_3_1_.3_.1.png" "glassBall_2_-7_.2_-.7.png" "glassBall_5_8_.5_.8.png" "glassBall_2_0_.2_0.png" "glassBall_5_-4_.5_-.4.png" "glassBall_-6_-7_-.6_-.7.png" "glassBall_-8_0_-.8_0.png" "glassBall_-2_0_-.2_0.png" "glassBall_0_6_0_.6.png" "glassBall_3_3_.3_.3.png" "glassBall_-3_3_-.3_.3.png" "glassBall_-3_-3_-.3_-.3.png" "glassBall_-6_-4_-.6_-.4.png" "glassBall_-4_8_-.4_.8.png" "glassBall_-2_2_-.2_.2.png" "glassBall_-2_-2_-.2_-.2.png" "glassBall_-4_0_-.4_0.png" "glassBall_-7_6_-.7_.6.png" "glassBall_4_2_.4_.2.png" "glassBall_5_-8_.5_-.8.png" "glassBall_-2_-3_-.2_-.3.png" "glassBall_7_-8_.7_-.8.png" "glassBall_1_-7_.1_-.7.png" "glassBall_-1_4_-.1_.4.png" "glassBall_0_0_0_0.png" "glassBall_2_8_.2_.8.png" "glassBall_-3_-1_-.3_-.1.png" "glassBall_-8_-5_-.8_-.5.png" "glassBall_2_-4_.2_-.4.png" "glassBall_-4_7_-.4_.7.png" "glassBall_6_-3_.6_-.3.png" "glassBall_-1_6_-.1_.6.png" "glassBall_7_2_.7_.2.png" "glassBall_1_-2_.1_-.2.png" "glassBall_0_1_0_.1.png" "glassBall_2_4_.2_.4.png" "glassBall_6_4_.6_.4.png" "glassBall_4_-2_.4_-.2.png" "glassBall_7_4_.7_.4.png" "glassBall_6_5_.6_.5.png" "glassBall_0_2_0_.2.png" "glassBall_1_7_.1_.7.png" "glassBall_-5_-7_-.5_-.7.png" "glassBall_-1_1_-.1_.1.png" "glassBall_6_-1_.6_-.1.png" "glassBall_8_-5_.8_-.5.png" "glassBall_-2_6_-.2_.6.png" "glassBall_-3_-8_-.3_-.8.png" "glassBall_8_0_.8_0.png" "glassBall_-5_-3_-.5_-.3.png" "glassBall_3_7_.3_.7.png" "glassBall_-2_-4_-.2_-.4.png" "glassBall_-6_-2_-.6_-.2.png" "glassBall_5_-2_.5_-.2.png" "glassBall_0_3_0_.3.png" "glassBall_8_1_.8_.1.png" "glassBall_-1_5_-.1_.5.png" "glassBall_-5_4_-.5_.4.png" "glassBall_7_-5_.7_-.5.png" "glassBall_-4_-5_-.4_-.5.png" "glassBall_-4_6_-.4_.6.png" "glassBall_-4_5_-.4_.5.png" "glassBall_8_7_.8_.7.png" "glassBall_-1_-6_-.1_-.6.png" "glassBall_-2_8_-.2_.8.png" "glassBall_3_-2_.3_-.2.png" "glassBall_-7_-7_-.7_-.7.png" "glassBall_-6_7_-.6_.7.png" "glassBall_3_-8_.3_-.8.png" "glassBall_4_7_.4_.7.png" "glassBall_5_0_.5_0.png" "glassBall_2_-3_.2_-.3.png" "glassBall_-7_-1_-.7_-.1.png" "glassBall_-1_-8_-.1_-.8.png" "glassBall_-7_-4_-.7_-.4.png" "glassBall_-6_5_-.6_.5.png" "glassBall_1_1_.1_.1.png" "glassBall_1_2_.1_.2.png" "glassBall_-4_-7_-.4_-.7.png" "glassBall_-8_-1_-.8_-.1.png" "glassBall_6_1_.6_.1.png" "glassBall_-1_8_-.1_.8.png" "glassBall_-6_-5_-.6_-.5.png" "glassBall_3_-6_.3_-.6.png" "glassBall_1_-1_.1_-.1.png" "glassBall_-6_-8_-.6_-.8.png" "glassBall_5_-5_.5_-.5.png" "glassBall_8_-3_.8_-.3.png" "glassBall_-8_-6_-.8_-.6.png" "run.sh" "glassBall_6_7_.6_.7.png" "glassBall_-6_3_-.6_.3.png" "glassBall_4_-4_.4_-.4.png" "glassBall_7_8_.7_.8.png" "glassBall_-2_7_-.2_.7.png" "glassBall_-5_-2_-.5_-.2.png" "glassBall_-4_-8_-.4_-.8.png" "glassBall_-4_2_-.4_.2.png" "glassBall_-3_2_-.3_.2.png" "glassBall_-3_-7_-.3_-.7.png" "glassBall_-8_-2_-.8_-.2.png" "glassBall_3_-5_.3_-.5.png" "glassBall_-5_-4_-.5_-.4.png" "glassBall_1_3_.1_.3.png" "glassBall_-6_-1_-.6_-.1.png" "glassBall_-5_-8_-.5_-.8.png" "glassBall_8_-6_.8_-.6.png" "glassBall_7_5_.7_.5.png" "glassBall_5_-3_.5_-.3.png" "glassBall_-1_7_-.1_.7.png" "glassBall_-2_-8_-.2_-.8.png" "glassBall_2_1_.2_.1.png" "glassBall_6_0_.6_0.png" "glassBall_-5_5_-.5_.5.png" "glassBall_-6_8_-.6_.8.png" "glassBall_-4_3_-.4_.3.png" "glassBall_8_8_.8_.8.png" "glassBall_-6_-6_-.6_-.6.png" "glassBall_-2_3_-.2_.3.png" "glassBall_8_-2_.8_-.2.png" "glassBall_2_-8_.2_-.8.png" "tryout.pbrt" "glassBall_8_4_.8_.4.png" "glassBall_7_-4_.7_-.4.png" "glassBall_-7_1_-.7_.1.png" "glassBall_2_-1_.2_-.1.png" "glassBall_-2_-5_-.2_-.5.png" "glassBall_0_8_0_.8.png" "glassBall_-4_4_-.4_.4.png" "glassBall_0_5_0_.5.png" "glassBall_4_4_.4_.4.png" "glassBall_6_-4_.6_-.4.png" "glassBall_-7_8_-.7_.8.png" "glassBall_-3_-6_-.3_-.6.png" "glassBall_-2_1_-.2_.1.png" "glassBall_-8_3_-.8_.3.png" "glassBall_-7_-2_-.7_-.2.png" "glassBall_-3_7_-.3_.7.png" "glassBall_-2_4_-.2_.4.png" "glassBall_3_4_.3_.4.png" "glassBall_2_-6_.2_-.6.png" "glassBall_4_-6_.4_-.6.png" "glassBall_-1_-1_-.1_-.1.png" "glassBall_4_-3_.4_-.3.png" "glassBall_5_6_.5_.6.png" "glassBall_8_5_.8_.5.png" "glassBall_4_-5_.4_-.5.png" "glassBall_5_-6_.5_-.6.png" "glassBall_8_-8_.8_-.8.png" "glassBall_4_8_.4_.8.png" "glassBall_-5_-6_-.5_-.6.png" "glassBall_0_-2_0_-.2.png" "glassBall_6_2_.6_.2.png" "glassBall_-8_-4_-.8_-.4.png" "../" "./")
+
+ ("/home/xiaofanlin/git/cse163-hw3/backup/" (23311 29922 200115 565000) "../" "./")
+
+ ("/home/xiaofanlin/git/cse100/pa03/" (23308 61421 794395 174000) "../" "wlala" "Makefile" "HCTree.cpp" "refcompress" "HCNode.o" "compile_commands.json" "uncompress" "HCTree.h" "refuncompress" "HCTree.o" "testThem.sh" "BitOutputStream.o" "result/" "result02" "BitOutputStream.cpp" "compressed_files/" "BitInputStream.o" "BitInputStream.cpp" "result_new/" "./" "compress" "BitInputStream.h" "HCNode.h" "compressed_files_new/" "output02" "BitOutputStream.h" "test_cases/" "uncompress.cpp" "walala" "compress.cpp" "HCNode.cpp" "1")
+
+ ("/home/xiaofanlin/git/cse105/hw6/" (23309 7496 762787 255000) "../" "tryout.log" "tryout.text" "tryout.aux" "./" "tryout.pdf" "hw6.pdf" "tryout.tex" "auto/")
+
+ ("/home/xiaofanlin/git/cse100/pa04/" (23308 55681 282390 800000) "../" "Makefile" "ActorGraph.o" "AEdge.cpp" "compile_commands.json" "ActorGraph.h" "pathfinder.cpp" "AVertex.cpp" "reference_solutions/" "ActorGraph.cpp" "AEdge.h" "databases/" "AVertex.h" "./" "AFace.o" "Report.h" "AFace.cpp" "pathfinder" "AFace.h" "AVertex.o" "AEdge.o")
+
+ ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/src/" (23183 33695 897036 996000) "../" "basic_framwork.cpp" "Canvas3D.cpp" "stb_image.cpp" "./" "ShaderLoader.cpp")
+
+ ("/home/xiaofanlin/.emacs.d/snippets/latex-mode/" (23305 59970 769249 501000) "logv" "../" "dps" "sqrtv" "fl" "rs" "ls" "crly" "log" "table" "horizontal_line" "fr" "./" "matrix" "equation_array" "sqrt" "ln" "aligned_equal")
+
+ ("/home/xiaofanlin/.emacs.d/snippets/" (23305 56459 562329 958000) "../" "./" "latex-mode/")
+
+ ("/home/xiaofanlin/.emacs.d/" (23305 55438 930311 591000) "sexy_theme-theme.el~" "bookmarks" "session.102af075d1b5cdfcb151986063897694800000013770038" "session.1093e2340da2075020152522033636719500000013520047" "session.1059afe8092e9809f151565408576172500000014830042" "../" "ido.last~" "session.10fc6a15a22e3b46f9152270655833363700000013640040" "url/" "session.10f481f55fecff0dd8151341042180109300000011680037" "session.1087e573b2f575cebc151521155085790800000012530039" "session.10467bad5741c5323d152226681296616800000013710042" "session.105dbe4692293811df151972042912006800000013800078" "session.10298b19641a081f7152157644992930600000013890038" "ido.last" "session.103f93b5671bf604a5152512952373820600000013250040" "auto-save-list/" "session.10ce2e00c3f0beb597151557279530599700000012510042" "srecode-map.el" "irony/" "session.104127cca56d861a37152091366450716200000013880037" "Sexy_theme-theme.el" "elpa/" "matlab-emacs-src/" "lisp/" "snippets/" "recentf" "matlab-mode/" "session.10c859673a421ba6fc150990956227957100000011950049" "./" "session.104febf2f6bc11129152602046775713500000013640044" "session.10398deb2a31ce4856151449503385174400000012840120" "session.103473843417a9b642151564409322741800000012320039" "abbrev_defs" "sexy_theme-theme.el" "session.1031b980a9e45e5620151566024435510000000014220039" "xiaofanlin-theme.el" "session.109e8ca22a46ec14f150982519788668600000011860039" "session.1011a22c41e1fead12152727716658654300000015000041" "session.10a85670587c6ca8d3151354221199717100000011700049" "session.10fbfd2e7bc26b3088152468952635585200000013670069" "session.1043be5afd6885b00815261932601620500000014410039" "meghanada/" "session.10209a4d76c30c902a151548417933617600000012490039" "session.1016334245371439dc152507722877541200000014310039" "session.106890b4f21a3511fa151583472176693200000013690039")
+
+ ("/home/xiaofanlin/git/cse105/" (23305 10659 530258 221000) "hw6/" "../" "group_hw3/" "midterm1/" "2a.png" "hw4/" "hw1/" "./" "hw0/" "group_hw4/" "hw2/" "hw5/" "asd.jflap" "JFLAP8_beta.jar")
+
+ ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/" (23130 37208 115437 20000) "../" "yasnippet-snippets.elc" "yasnippet-snippets-pkg.el" "snippets/" "./" "yasnippet-snippets.el" "yasnippet-snippets-autoloads.el")
+
+ ("/home/xiaofanlin/.emacs.d/elpa/" (23302 23487 4232 817000) "powerline-20171023.750/" "monokai-theme-20180228.1139/" "gruvbox-theme-20171118.1312/" "../" "loc-changes-1.2/" "cmake-font-lock-20170117.1225/" "racer-1.2/" "auctex-12.1.1.signed" "tablist-20170219.1935/" "irony-eldoc-20170502.1208/" "blackboard-bold-mode-readme.txt" "pkg-info-20150517.443/" "adaptive-wrap-0.5.1.signed" "flycheck-rtags-20170522.2154/" "jazz-theme-20170411.711/" "ace-window-readme.txt" "test-simple-1.3.0/" "s-20171102.227/" "load-relative-1.3/" "seq-2.20.signed" "realgud-1.4.4.signed" "flatland-theme-20171113.721/" "nyan-mode-1.1.2/" "foggy-night-theme-20160209.708/" "company-c-headers-20170531.1330/" "dark-krystal-theme-20170808.600/" "ace-window-0.9.0.signed" "idea-darkula-theme-20160416.1603/" "levenshtein-20090830.340/" "flycheck-color-mode-line-readme.txt" "ace-window-0.9.0/" "rust-mode-0.3.0/" "flymake-cursor-20130822.332/" "cmake-ide-20180515.311/" "test-simple-1.3.0.signed" "company-rtags-20170924.2244/" "eclim-20171113.1754/" "company-irony-20170905.1346/" "rtags-20171219.340/" "irony-20171222.1243/" "load-relative-1.3.signed" "jbeans-theme-20171212.1053/" "flycheck-31/" "neotree-20170522.758/" "intellij-theme-20171017.715/" "blackboard-theme-20161215.2256/" "distinguished-theme-20151216.1215/" "flycheck-readme.txt" "spaceline-20171111.334/" "seq-2.20/" "avy-0.4.0.signed" "distinguished-theme-readme.txt" "material-theme-20171123.1040/" "inverse-acme-theme-20170822.1954/" "badger-theme-20140716.1932/" "kaolin-themes-20180301.906/" "solarized-theme-1.2.2/" "groovy-mode-20171024.221/" "adaptive-wrap-0.5.1/" "company-0.9.4/" "realgud-1.4.4/" "avy-0.4.0/" "pdf-tools-0.80/" "epl-20150517.433/" "mbo70s-theme-20170808.615/" "dash-2.13.0/" "mode-line-bell-20171231.1939/" "gnupg/" "flycheck-rust-20170404.842/" "./" "yasnippet-snippets-20180112.516/" "afternoon-theme-20140104.1059/" "yasnippet-20170923.1646/" "flycheck-color-mode-line-20171121.2307/" "dracula-theme-20170412.845/" "ample-theme-20161213.912/" "airline-themes-20170623.958/" "f-20170404.1039/" "alect-themes-20170825.1009/" "gradle-mode-readme.txt" "cmake-mode-20160928.505/" "diminish-20170419.1036/" "flatland-black-theme-20170808.612/" "madhat2r-theme-20170202.1630/" "inkpot-theme-20171217.144/" "archives/" "melancholy-theme-20170220.1248/" "matlab-mode-20180125.1010/" "google-c-style-20140929.1118/" "yasnippet-20180111.1533/" "company-emacs-eclim-20170104.743/" "blackboard-theme-readme.txt" "flycheck-irony-20160317.1536/" "autothemer-20170112.1324/" "tangotango-theme-20170924.809/" "meghanada-20180213.1448/" "spacemacs-theme-20171217.611/" "cmake-project-readme.txt" "gradle-mode-20150313.1205/" "zenburn-theme-20180222.1757/" "auctex-12.1.1/" "company-auctex-20180330.1118/" "loc-changes-1.2.signed" "gruber-darker-theme-20170719.2229/" "popup-20160709.729/")
+
+ ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/" (23130 37205 882687 424000) "emacs-lisp-mode/" "typerex-mode/" "nesc-mode/" "web-mode/" "cc-mode/" "../" "cperl-mode/" "elixir-mode/" "js3-mode/" "lisp-mode/" "octave-mode/" "c-mode/" "f90-mode/" "c++-mode/" "m4-mode/" "erc-mode/" "protobuf-mode/" "js-mode/" "js2-mode/" "ruby-mode/" "yaml-mode/" "sh-mode/" "cpp-omnet-mode/" "dix-mode/" "faust-mode/" "go-mode/" "apples-mode/" "cmake-mode/" "lua-mode/" "scala-mode/" "html-mode/" "clojure-mode/" "ned-mode/" "haskell-mode/" "malabar-mode/" "makefile-automake-mode/" "cider-repl-mode/" "applescript-mode/" "lisp-interaction-mode/" "conf-unix-mode/" "erlang-mode/" "prog-mode/" "csharp-mode/" "enh-ruby-mode/" "nix-mode/" "perl-mode/" "git-commit-mode/" "python-mode/" "php-mode/" "nxml-mode/" "./" "udev-mode/" "makefile-gmake-mode/" "snippet-mode/" "c-lang-common/" "sql-mode/" "tuareg-mode/" "java-mode/" "makefile-bsdmake-mode/" "org-mode/" "ensime-mode/" "latex-mode/" "chef-mode/" "css-mode/" "terraform-mode/" "antlr-mode/" "swift-mode/" "powershell-mode/" "rust-mode/" "markdown-mode/" "rst-mode/" "makefile-mode/" "text-mode/" "nsis-mode/" "groovy-mode/")
+
+ ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/latex-mode/" (23130 37205 422527 203000) "item" "caption" "../" "alertblock" "figure" "python" "columns" "if" "code" "newglossaryentry" "article" "capgls" "moderncv-cvcomputer" "textbf" "gls" "moderncv-cvlistdoubleitem" "includegraphics" "note" "moderncv-cvline" "subf" "moderncv" "newcommand" "acronym" "emph" "cite" "begin" "alg" "question" "label" "usepackage" "frac" "./" "moderncv-cvlistitem" "subsec" "enumerate" "glspl" "block" "section" "listing" "frame" "movie" "documentclass" "itemize" "moderncv-cventry" "subfigure" "moderncv-cvlanguage")
+
+ ("/home/xiaofanlin/git/cse100/pa03/compressed_files_new/" (23304 29490 857658 179000) "encoded11" "../" "encoded08" "encoded01" "encoded06" "encoded05" "./" "encoded09" "encoded07" "encoded10" "encoded03" "encoded02" "encoded04")
+
+ ("/home/xiaofanlin/git/cse100/pa03/test_cases/" (23304 29488 425622 230000) "../" "input10" "input08" "input06" "input11" "input04" "input05" "input07" "./" "input01" "input03" "input02" "input09")
+
+ ("/home/xiaofanlin/git/cse100/pa03/result_new/" (23299 23709 77551 433000) "output04" "../" "output06" "output03" "./" "output05" "output02" "output07" "output01")
+
+ ("/home/xiaofanlin/git/cse190/hw2/OpticalFlow/" (23303 2542 323762 548000) ".DS_Store" "../" "im3.jpg" "frame_5_delay-0.01s.jpg" "google_3_40.png" "google_2_80.png" "google_2_50.png" "frame_3_delay-0.01s.jpg" "frame_4_delay-0.01s.jpg" "google_2_40.png" "frame_7_delay-0.01s.jpg" "ffffff-ezgif-1-ca24c1efc7-gif-jpg/" "google_4_45.png" "google_2_60.png" "LucasKanade.m" "frame_1_delay-0.01s.jpg" "google_4_30.png" "google_4_50.png" "im4.jpg" "rotate_sphere_20.png" "frame_2_delay-0.01s.jpg" "./" "google_2_70.png" "frame_0_delay-0.01s.jpg" "google_2_90.png" "im2.jpg" "im1.jpg" "sphere.2.jpg" "google_2_30.png" "frame_6_delay-0.01s.jpg" "grid_25.png" "Main.m")
+
+ ("/home/xiaofanlin/git/cse190/hw2/SVM/" (23302 9447 728924 132000) "p5/" "svm_classify" "../" "svm_predictions" "p4/" "p3/" "./" "svm_learn" "p6/")
+
+ ("/home/xiaofanlin/git/cse190/hw2/Faces_BoW/common/" (23303 12911 397234 124000) ".DS_Store" "Uniform_Sampling.m" "do_half.m" "../" "do_histogram.m" "SIFT.m" "do_all.m" "do_interest_points.m" "do_representation.m" "do_preprocessing.m" "imagePatches.m" "log" "Edge_Sampling.m" "./" "do_nearest_neighbor.m" "do_form_codebook.m")
+
+ ("/home/xiaofanlin/git/cse100/" (23299 24623 345716 600000) "README.md" "../" "pa02/" ".gitignore" "pa03/" ".git/" "./" "zybook_labs/" "pa01/")
+
+ ("/home/xiaofanlin/git/cse100/pa03/result/" (23298 9606 461462 619000) "output04" "../" "output06" "output03" "./" "output05" "output02" "output01")
+
+ ("/home/xiaofanlin/git/cse190/" (23301 62376 367088 181000) "../" "svm_light_linux64/" "svm_light_linux64.tar.gz" "hw1/" "./" "simple_report.pdf" "hw2/" "hw1.zip")
+
+ ("/home/xiaofanlin/git/cse190/hw2/" (23302 7337 525459 831000) "OpticalFlow/" "../" "SVM/" "./" "Faces_BoW/")
+
+ ("/home/xiaofanlin/git/cse190/hw2/Faces_BoW/" (23291 12716 770276 152000) "../" "images/" "common/" "./" "runDoAll.m")
+
+ ("/home/xiaofanlin/git/cse190/hw2/Q3/" (23301 64160 200631 960000) "validate_12.txt" "model_13.txt" "result_12.txt" "multvalidate_3.txt" "multvalidate_1.txt" "svm_classify" "validate_23.txt" "../" "model_12.txt" "run_test.sh" "multvalidate_2.txt" "train_13.txt" "error_12.txt" "pred_13.txt" "error_13.txt" "pred_12.txt" "train_12.txt" "svm_predictions" "iris_test_31n.txt" "multtrain_2.txt" "iris_test_12n.txt" "error_23.txt" "iris_test_23n.txt" "multtrain_1.txt" "./" "train_23.txt" "svm_learn" "model_23.txt" "iris_test_123n.txt" "validate_13.txt" "multtrain_3.txt")
+
+ ("/home/xiaofanlin/git/xiaofanlinus.github.io/" (23295 56371 446179 341000) "README.md" "../" "images/" "changes/" "computer_vision/" "examples/" "js/" ".git/" "./" "css/" "designs/" "contact.html" "cse190_hw2.html" "index.html" "login.html" "img/" "hw2.html")
+
+ ("/home/xiaofanlin/git/cse163-hw2/include/" (23295 55304 940434 492000) "../" "window.h" "Face.h" "Camera.hpp" "World.hpp" "Cube.h" "Mesh.h" "main.h" "./" "shader.h" "Errdge.h" "Path.h" "Vertex.h" "Entity.hpp")
+
+ ("/home/xiaofanlin/git/cse163-hw2/shader/" (23295 52778 687526 620000) "../" "phong.frag" "flat.vert" "shader.frag" "shader.vert" "./" "phong.vert" "flat.frag")
+
+ ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/src/main/java/" (23293 10375 439773 201000) "../" "Solver.java" "./" "Board.java")
+
+ ("/home/xiaofanlin/git/cse163-hw2/src/" (23295 47290 25214 942000) "../" "Errdge.cpp" "Face.cpp" "Vertex.cpp" "main.cpp" "./" "Window.cpp" "Mesh.cpp" "shader.cpp" "Cube.cpp" "#main.cpp#")
+
+ ("/home/xiaofanlin/git/cse163-hw2/" (23294 1173 148970 649000) ".idea/" "README.md" "../" "uml.violet" "bin/" "include/" "model/" ".gitignore" "src/" "cmake-build-debug/" "log_info" ".git/" "./" "report_full" "CMakeLists.txt" "shader/" "lib/")
+
+ ("/home/xiaofanlin/Desktop/" (23290 29750 847778 483000) "10.1007%2F978-3-662-44205-0.pdf" "Friendship_Theorem_1.pdf" "simple_animated.gif" "../" "2c.png" "Screenshot from 2018-04-18 23-31-07.png" "PDF.pdf" "idm4411xTQL_1519541034.pdf" "introduce letter.docx" "p295-hoppe.pdf" "gcc_learning/" "4b81136e204c3_3.png" "fram.png" "67dd74e0gy1fqjhehj1blj20hs0jpjsa.jpg" "345/" "frame_rec.png" "IMG_1490.JPG" "blocks_animated.gif" "3D Computer Graphics - A Mathematical Introduction with OpenGL.pdf" "grass2.jpg" "2a.png" "Screenshot from 2018-04-18 02-20-04.png" "It was a wilde land with infinite possibility.docx" "SzeliskiBook_20100903_draft.pdf" "Assignment2.pdf" "Screenshot from 2018-04-18 23-31-45.png" "Definitions_and_Results_for_the_Final.pdf" "hw2_indiv.png" "intro_to_algorithm/" "Math_109_Syllabus.pdf" "XiaofanLin_1/" "T_Texture_D00005-3.png" "resume/" "PDF.docx" "codeChallenge/" "Checkboard_Arrow_Two_Color.BMP" "seamless_tileable_grass_texture_by_mushin3d-d8jpn9c.jpg" "frame_0.png" "2b.png" "leetcode/" "./" "his list is also available on the course home page.) The item can be historical or relate to contemporary issues.txt" "Richard A. Brualdi-Introductory Combinatorics (5th Edition) (2009).pdf" "grass.jpg" "Lake.pdf" "hw1.pdf" "Homework 8_files/" "Monsky.pdf" "homework1.pdf" "seattle.zip" "Homework 8.html" "Mitchell.pdf" "materials/" "grid_animated.gif" "cruel_night_sky.rar" "Math_109_HW.pdf" "EMAIL" "hw2_indiv_b.png")
+
+ ("/home/xiaofanlin/git/MATH155A/p06/" (23275 31438 797151 549000) "../" "Makefile" "bin/" "include/" "src/" "./" "CMakeLists.txt")
+
+ ("/home/xiaofanlin/git/cse100/pa02/" (23277 20806 571251 790000) "../" "DictionaryHashtable.h" "Makefile" "DictionaryTrie.h" "DictionaryBST.o" "compile_commands.json" "DictionaryBST.cpp" "SuffixArray.h" "util.h" "result.out" "SuffixArray.cpp" "DictionaryTrie.cpp" "DictionaryHashtable.cpp" "util.o" "./" "util.cpp" "test_case/" "DictionaryTrie.o" "SuffixArray.o" "test.cpp" "test" "DictionaryBST.h" "README" "checkMemLeak.sh" "DictionaryHashtable.o")
+
+ ("/home/xiaofanlin/git/cmake_modern_opengl/" (23267 52663 124091 671000) ".gitignore~" "../" ".gitmodules" ".gitignore" "p00/" "basic_framwork/" ".git/" "./" "CMAKE_template" "README.MD" "p01/" "pp01/" "changing_size/" "lib/")
+
+ ("/home/xiaofanlin/git/MATH155A/p07/asd/" (23237 34349 339996 970000) "../" "ShaderBuild.cpp" "Plane.cpp" "PhongData.cpp" "NoiseGenerator.cpp" "LinearR4.cpp" "RgbImage.cpp" "GlGeomCylinder.cpp" "SkyBox.cpp" "Terrain.cpp" "EduPhong.cpp" "./" "GlGeomSphere.cpp" "TextureProj.cpp" "MyGeometries.cpp" "LinearR3.cpp")
+
+ ("/home/xiaofanlin/git/MATH155A/p07/" (23275 31854 639733 12000) "../" "Makefile" "res/" "bin/" "asd/" "include/" "./" "CMakeLists.txt")
+
+ ("/home/xiaofanlin/git/cse190/hw1/" (23272 56777 615670 812000) "road2.png" "../" "3b_road2.png" "3c_road1.png" "circle.m" "ldesk-clicks.png" "3c_road2.png" "buildConstraint.m" "desk2.gif" "script.m" "road1.png" "testepipolar.m" "drawLine.m" "ran_cse2.png" "computeF.m" "procedure" "cse2.jpg" "ransac.m" "lblock-clicks.png" "3b_road1.png" "transform.m" "html/" "ldesk-lines.png" "originalCircle.png" "projectedCircle.png" "./" "rblock-clicks.png" "epipoles" "plotmatches.m" "rblock-lines.png" "blocks2.gif" "cse1.jpg" "matchAndDraw.m" "lblock-lines.png" "rdesk-lines.png" "plot_match.png" "rdesk-clicks.png" "cseRan.m" "ran_cse1.png" "estimated_fundamental" "RoadRanc.m" "desk1.gif" "blocks1.gif" "clickPoints.m")
+
+ ("/home/xiaofanlin/git/TMC2/tmc2/" (23272 13749 562435 204000) "../" "TMC2.cpp" "PCCTMC2Common.h" "PCCPointSetProcessing.h" "PCCImage.h" "PCCMisc.h" "PCCKdTree.h" "./" "PCCPatchSegmenter.h" "TMC2Config.h.in" "TMC2.h" "CMakeLists.txt" "PCCNormalsGenerator.h" "PCCPointSet.h" "PCCVideo.h" "PCCMath.h")
+
+ ("/home/xiaofanlin/git/cse100/pa02/test_case/" (23273 1402 244376 429000) "shuffled_freq_dict.txt" "../" "freq_dict.txt" "freq3.txt" "freq2.txt" "my_test.txt" "shuffled_unique_freq_dict.txt" "./" "unique_freq_dict.txt" "freq1.txt")
+
+ ("/home/xiaofanlin/Documents/MATLAB/" (23271 32788 961159 492000) "../" "startup.m" "./")
+
+ ("/home/xiaofanlin/Documents/" (23271 32788 961159 492000) "../" "MATLAB/" "Xiaofan Lin.docx" "./" "HIUS108A.txt" "HIUS108A~")
+
+ ("/home/xiaofanlin/git/cse163/hw1/Includes/" (23268 3068 401210 864000) "#FFT.h#" "bmp.h" "../" "vector.h" "image.h" ".#FFT.h" "./" "FFT.h" "pixel.h" "Complex.h")
+
+ ("/home/xiaofanlin/git/cse163/hw1/Source/" (23267 60707 115936 891000) "../" "bmp.o" "vector.cpp" "image.o" "pixel.o" "bmp.cpp" "pixel.cpp" "Complex.cpp" "main.cpp" "./" "image.cpp" "vector.o" "main.o")
+
+ ("/home/xiaofanlin/git/cse163/hw1/" (23267 60707 127940 424000) "Backup/" "../" "Makefile" "compile_commands.json" "image" "solution.exe" "Source/" "./" "Includes/" "Images/" "README")
+
+ ("/home/xiaofanlin/git/cse163/hw1/Backup/" (23260 353 460986 675000) "../" "myWrongDithering" "./" "image.cpp")
+
+ ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/cc-mode/" (23257 11700 352203 147000) "case" "coco" "../" "do" "struct" "if" "ccom" "member_description" "switch" "file_description" "while" "else" "ccom~" "header_guard" "cpcn" "cpco" "#class_generator#" "for_n" "./" "class_generator~" "ternary" "coco~" "class_generator" ".#class_generator" "function_description" "for" "printf")
+
+ ("/home/xiaofanlin/git/TMC2/" (23264 57889 814301 404000) "README.md" "backup/" "../" "decode.sh" "ultils/" "bin/" "result.log" "log.txt" ".gitignore" "encode.sh" "result/" "TMCencode.sh" ".git/" "./" "doc/" "CMakeLists.txt" "TMCdecode.sh" "materials/" "tmc2/" "dependencies/" "cfg/")
+
+ ("/home/xiaofanlin/git/cse100/zybook_labs/contacts_linklist/" (23256 6018 876206 148000) "../" ".#main.cpp" ".#ContactNode.h" "ContactNode.cpp" "#ContactNode.h#" "main.cpp" "./" "a.out" "#main.cpp#" "ContactNode.h")
+
+ ("/home/xiaofanlin/git/cse163/" (23244 64078 647692 970000) "../" "hw1/" "./")
+
+ ("/home/xiaofanlin/git/cse100/pa01/" (23257 20915 3723 3000) "heightOfRedBlackTree" ".DS_Store" "../" "bstec" "Makefile" "testBSTExtraCredit.cpp" "MyTree.hpp" "BST.hpp" "compile_commands.json" "BSTNodeInt.cpp" "testBST.o" "BSTNodeInt.h" "BSTInt.h" "actors.txt" "actors_sorted.txt" "BSTExtraCredit.hpp" "BSTInt.cpp" "main" "testBSTExtraCredit.o" "testBST.cpp" "#BSTNode.hpp#" "main.cpp" "./" "BSTNodeInt.o" "BSTInt.o" "BSTNode.hpp" "checkMemLeak.sh" "actors100.txt" "main.o" "bst" "BSTIterator.hpp")
+
+ ("/home/xiaofanlin/git/pcl_test/" (23263 42580 27886 876000) "screenshot-1524525134.cam" "../" "bin/" "bun0.pcd" "screenshot-1524525134.png" "./" "resampling.cpp" "upscaled.ply" "CMakeLists.txt" "bun0-mls.pcd")
+
+ ("/home/xiaofanlin/git/cse100/PA1_starter/" (23248 21241 803860 673000) "heightOfRedBlackTree" ".DS_Store" "../" "bstec" "Makefile" "testBSTExtraCredit.cpp" "MyTree.hpp" "BST.hpp" "compile_commands.json" "BSTNodeInt.cpp" "testBST.o" "BSTNodeInt.h" "BSTInt.h" "actors.txt" "actors_sorted.txt" "BSTExtraCredit.hpp" "BSTInt.cpp" "main" "testBSTExtraCredit.o" "testBST.cpp" "main.cpp" "./" "BSTNodeInt.o" "BSTInt.o" "BSTNode.hpp" "checkMemLeak.sh" "actors100.txt" "main.o" "bst" "BSTIterator.hpp")
+
+ ("/home/xiaofanlin/git/cse105/hw0/" (23243 44556 248876 824000) "../" "prv_hw0.ini" "hw0.tex" "prv_hw0.log" "hw0.pdf" "hw0.log" "hw0.tex~" "hw0_flymake.tex" "./" "_region_.tex" "hw0.dvi" "hw0.aux" "test/" "_region_.log" "auto/")
+
+ ("/home/xiaofanlin/git/cse12/" (23222 52167 28062 50000) "hw6/" "../" "cs12xbr/" "hw7/" "quiz2/" "hw9/" "hw4/" "hw1/" "hw3/" "./" "quiz3/" "hw8/" "hw2/" "hw5/")
+
+ ("/home/xiaofanlin/git/cse100/zybook_labs/" (23242 27805 826549 443000) "../" "./" "contacts_linklist/")
+
+ ("/home/xiaofanlin/Desktop/resume/Xiaofan/Xiaofan/" (23241 33538 201802 745000) ".DS_Store" "../" "RESUME_xiaofanlin.aux" "RESUME_xiaofanlin.log" "helvetica.sty" "texput.log" "./" "_region_.tex" "RESUME_xiaofanlin.tex" "prv_RESUME_xiaofanlin.log" "resume.cls" "_region_.log")
+
+ ("/home/xiaofanlin/git/MATH155A/p07/include/" (23241 42211 122762 95000) "../" "SkyBox.h" "PhongData.h" "RgbImage.h" "MyGeometries.h" "GlGeomCylinder.h" "LinearR3.h" "LinearR4.h" "EduPhong.h" "TextureProj.h" "./" "ShaderBuild.h" "HeightGenerator.h" "Plane.h" "NoiseGenerator.h" "GlGeomSphere.h" "WaterTexture.h" "MathMisc.h" "Terrain.h")
+
+ ("/home/xiaofanlin/git/cse105/hw0/test/" (23241 33419 242081 80000) "../" "prv_test.log" "test.aux" "test.prv/" "./" "test.log" "test.tex" "auto/")
+
+ ("/home/xiaofanlin/.emacs.d/elpa/auctex-12.1.1/" (23241 21052 943157 525000) "README.GIT" "RELEASE" "../" "preview.el" "tex-info.el" "lpath.el" "latex-flymake.elc" "auctex-autoloads.el" "tex.elc" "preview-latex.info" "tex-wizard.elc" "texmathp.elc" "tex-bar.el" "auctex.el.in" "tex-font.el" "tex-wizard.el" "prv-install.elc" "etc/" "toolbar-x.elc" "aclocal.m4" "plain-tex.elc" "install-sh" "multi-prompt.el" "latex/" "tex-jp.el" "autogen.sh" "Makefile.in" "context-en.el" "tex-buf.elc" "mkinstalldirs" "toolbar-x.el" "latex-flymake.el" "style/" ".gitignore" "auctex-pkg.el" "bib-cite.elc" "images/" "preview-latex.spec" "tex-mik.elc" "tex.el" "latex.el" "tex-mik.el" "tex-fold.el" "tex-ispell.el" "tex-fold.elc" "context-en.elc" "tex-bar.elc" "tex-site.el" "tex-site.elc" "font-latex.elc" "auctex.el" "bib-cite.el" "tex-style.el" "prv-emacs.elc" "GNUmakefile" "tex-info.elc" "multi-prompt.elc" "tex-buf.el" "COPYING" "font-latex.el" "./" "auctex.info" "lpath.elc" ".elpaignore" "doc/" "latex.elc" "prv-emacs.el" "ChangeLog-preview.1" "configure.ac" "auctex-pkg.elc" "ChangeLog-preview" "build-aux/" "tex-ispell.elc" "circ.tex" "prv-install.el" "ChangeLog.1" "context.elc" "tex-jp.elc" "tests/" "texmathp.el" "context-nl.el" "tex-style.elc" "ChangeLog" "auctex.spec" "auctex.elc" "README" "context-nl.elc" "dir" "tex-site.el.in" "preview.elc" "tex-font.elc" "plain-tex.el" "context.el")
+
+ ("/home/xiaofanlin/Desktop/resume/Xiaofan/" (23118 53716 648409 121000) "../" "Xiaofan/" "./" "__MACOSX/")
+
+ ("/home/xiaofanlin/Desktop/resume/" (23118 53716 644409 111000) "../" "Xiaofan/" "./" "Xiaofan.zip")
+
+ ("/home/xiaofanlin/Desktop/XiaofanLin_1/" (23129 58898 335038 906000) "../" "cs148-student-repo/" "./" "hw2.mkv")
+
+ ("/home/xiaofanlin/git/cse12/hw6/" (23216 39674 537016 425000) "Stack.o" "Driver.java" "backup/" "../" "Driver.java~" "Makefile" "Driver.class" "List.java" "Calc1" "List.o" "Hash.h" "HashTable.java" "MyLib.java" "Driver.c~" "UCSDStudent.class" "Calc.c" "Stack.c" "MyLibCharacter.class" "Driver1" "List.h" "Word.class" "List.c" "SymTab.java" "Base.class" "Driver.c" "Stack.class" "Stack.java" "Namein.c" "SymTab.class" "SymTab.h" "Main.java" "test_hash.java" "Hash.c~" "Base.java" "Operator.class" "HashTable.java~" "Main.class" "Namein.o" "Stack.h" "MyLib.class" "Base.h" "test_hash.class" "List.class" "workbench.xmi" ".project" "Driver.o" "./" "Hash.o" "Decin.o" "Namein.h" "Driver2" "Calc.o" ".classpath" "Calc.h" "Main.c" "Calc2" "Main.o" "Variable.class" "Calculator.class" "Decin.h" "Decin.c" "HashTable.class" "Hash.c" "List$Node.class" "Calculator.java")
+
+ ("/home/xiaofanlin/git/cse12/hw7/" (23226 54846 763297 348000) "Tree.java" "Stack.o" "Driver.java" "backup/" "../" ".meghanada.conf" "Makefile" "Driver.class" "Tree.h" "List.java" "Calc1" "List.o" "compile_commands.json" "MyLib.java" "UCSDStudent.class" "Calc.c" "Stack.c" "MyLibCharacter.class" "Tree$TNode.class" "Driver1" "build/" "List.h" "Word.class" ".meghanada/" "List.c" "SymTab.java" "Base.class" "Driver.c" "Stack.class" "Stack.java" "Namein.c" "Tree.class" "SymTab.class" "SymTab.h" "Main.java" "Tree.c" "Base.java" "Operator.class" "Main.class" "Namein.o" "Stack.h" "MyLib.class" "Base.h" "List.class" "Tree.o" "workbench.xmi" ".project" "Driver.o" "./" "Decin.o" "Namein.h" "Driver2" ".meghanada.conf~" "Calc.o" ".classpath" "Calc.h" "Main.c" "Calc2" "Main.o" ".gradle/" "Variable.class" "Calculator.class" "Decin.h" "Decin.c" "List$Node.class" "Calculator.java")
+
+ ("/home/xiaofanlin/git/cse12/hw5/" (23217 30077 620989 582000) "backup/" "../" "driver2" "stack.h" "Makefile" "mylib.o" "stack.c~" "mylib.c" "compile_commands.json" "calc" "stack.o" "calc.c" "list.c~" "driver2.o" "list.c" "driver1" "stack.c" "driver1.o" ".hw5.vcproj" ".project" "./" "calc.o" "list.h" "driver1.c" "mylib.h" ".cproject" "driver2.c" "main.c" "list.o" "calc.h" "main.o" ".hw5.sln")
+
+ ("/home/xiaofanlin/git/MATH155A/p07/src/" (23237 34349 339996 970000) "../" "ShaderBuild.cpp" "Plane.cpp" "PhongData.cpp" "NoiseGenerator.cpp" "LinearR4.cpp" "RgbImage.cpp" "GlGeomCylinder.cpp" "SkyBox.cpp" "Terrain.cpp" "EduPhong.cpp" "./" "GlGeomSphere.cpp" "TextureProj.cpp" "MyGeometries.cpp" "LinearR3.cpp")
+
+ ("/home/xiaofanlin/git/TMC2/ultils/Renderer/" (23238 46287 810665 787000) "renderer.sh" "../" "toVideo.sh" "renderer" "cam_configs/" "source_code/" "snapshot/" "Renderer" "./" "#toVideo.sh#" "tmc2/" "shader/" "lib/")
+
+ ("/home/xiaofanlin/git/TMC2/ultils/Renderer/source_code/src/" (23238 46121 355547 811000) "OptionParser.cpp" "../" "main.cpp" "./" "Window.cpp" "shader.cpp" "meshloader.cpp")
+
+ ("/home/xiaofanlin/git/TMC2/ultils/MeshToPc/" (23238 27481 675153 255000) "../" "Makefile" "Point_Sampling_new.bash" "Point_Sampling.bash" "main" "main.cpp" "./")
 
  ("/home/xiaofanlin/git/TMC2/ultils/Renderer/source_code/" (23235 62728 848799 984000) "../" "bin/" "include/" "src/" "./" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/TMC2/ultils/Renderer/source_code/src/" (23236 1532 956096 799000) "OptionParser.cpp" "../" "main.cpp" "./" "Window.cpp" "shader.cpp" "meshloader.cpp")
 
  ("/home/xiaofanlin/git/TMC2/ultils/" (23234 48382 221522 843000) "../" "MeshAdjustment/" "MeshToPc/" "Renderer/" "./" "PCDownSample/")
 
@@ -140,187 +331,9 @@
 
  ("/home/xiaofanlin/git/TMC2/ultils/Renderer/lib/" (23234 46941 150380 905000) "glew/" "../" "openmesh/" "glfw/" "bin/" "glm/" "glad/" "./")
 
- ("/home/xiaofanlin/git/TMC2/" (23235 47724 385377 551000) "README.md" "../" "decode.sh" "ultils/" "bin/" "result.log" "log.txt" ".gitignore" "encode.sh" "result/" "TMCencode.sh" ".git/" "./" "doc/" "CMakeLists.txt" "TMCdecode.sh" "materials/" "tmc2/" "dependencies/" "cfg/")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/src/main/java/" (23231 17281 184213 279000) "../" "Solver.java" "./" "Board.java")
-
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/" (23231 16940 609171 443000) "../" "test10.result" "libs/" "build/" "8puzzle/" ".meghanada/" "src/" "./" "build.gradle" ".gradle/")
 
  ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/src/main/" (23226 48790 160280 191000) "../" "./" "java/")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/code_p1/src/" (23226 48790 160280 191000) "../" "main/" "./")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_4/" (23226 48613 444993 836000) "../" "code_p1/" "./")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/cod_p1/" (23115 15009 918140 680000) "../" "nov_18_report" "input20.txt" "Percolation.class" "input2.txt" "Percolation.zip" ".classpath~" "dec_01_report" "input10.txt" "input6.txt" "PercolationStats.java" "workbench.xmi" ".project" "./" "Percolation.java" "nov_29_report" ".classpath" "input1.txt" "PercolationVisualizer.java" "PercolationVisualizer.class" "PercolationStats.class" ".project~")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_5/" (23062 5066 624267 412000) "cod_p1/" "../" "int_p2/" "int_p1/" "./" "int_p3/" "UnionSet.java")
-
- ("/home/xiaofanlin/Desktop/" (23216 25058 903251 808000) "Thank_you.png" "10.1007%2F978-3-662-44205-0.pdf" "Friendship_Theorem_1.pdf" "../" "PDF.pdf" "idm4411xTQL_1519541034.pdf" "introduce letter.docx" "gcc_learning/" "4b81136e204c3_3.png" "345/" "IMG_1490.JPG" "3D Computer Graphics - A Mathematical Introduction with OpenGL.pdf" "grass2.jpg" "It was a wilde land with infinite possibility.docx" "Assignment2.pdf" "Definitions_and_Results_for_the_Final.pdf" "intro_to_algorithm/" "Math_109_Syllabus.pdf" "XiaofanLin_1/" "resume/" "PDF.docx" "codeChallenge/" "seamless_tileable_grass_texture_by_mushin3d-d8jpn9c.jpg" "leetcode/" "./" "his list is also available on the course home page.) The item can be historical or relate to contemporary issues.txt" "Richard A. Brualdi-Introductory Combinatorics (5th Edition) (2009).pdf" "grass.jpg" "Lake.pdf" "Homework 8_files/" "Monsky.pdf" "XiaofanLin-1.zip" "homework1.pdf" "seattle.zip" "Homework 8.html" "materials/" "cruel_night_sky.rar" "Math_109_HW.pdf" "EMAIL")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_4/" (23075 11070 203441 586000) "../" "int_p2/" "int_p1/" "Stopwatch.java" "./")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/" (23226 48589 509097 419000) ".gitignore~" "README.md" "../" "2_3/" "2_2/" "algs4.jar" "1_5/" ".gitignore" "1_4/" "1_3/" "2_1/" ".git/" "./" "2_4/")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_3/" (23104 30237 241765 506000) "../" "code_p2/" "int_p2/" "int_p1/" "./")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/1_3/code_p2/" (23115 15029 386151 366000) "Deque$DequeIterator.class" "../" "Permutation.java" "first_trial" "DequeTest.class" "Permutation.java~" "RandomizedQueue.java~" "RQTest.class" "DequeTest.java" "RandomizedQueue$RQIterator.class" ".classpath~" "Deque.java" "third_trial" "queues.zip" "RandomizedQueue.java" "workbench.xmi" ".project" "./" "RandomizedQueueTest.java~" ".classpath" "Deque.java~" "RQTest.java~" "RandomizedQueue.class" "Deque.class" "Deque$Node.class" "fourth_trial" "second_trial" "RQTest.java" "Permutation.class")
-
- ("/home/xiaofanlin/git/cse12/hw9/" (23212 46104 341882 125000) "backup/" "../" "Makefile" "Tree.h" "Calc" ".hw9.vcproj" "Driver.datafile" "compile_commands.json" "bin/" "Calc.c" "Stack.c" "asdsad" "List.h" "List.c" "Driver.c" "alph" "Namein.c" "SymTab.h" "Tree.c" "Namein.o" "Stack.h" "out" "commands" "Makefile2" ".hw9.sln" ".project" "Driver.o" "./" "Decin.o" "Namein.h" "Calc.datafile" "Driver.h" "Calc.o" "Calc.h" "Driver" "Main.c" ".cproject" "Main.o" "CMakeLists.txt" "Decin.h" "#out#" "Decin.c" "dout" "morecommands")
-
- ("/home/xiaofanlin/.emacs.d/" (23212 31801 770476 25000) "sexy_theme-theme.el~" "bookmarks" "session.102af075d1b5cdfcb151986063897694800000013770038" "session.1059afe8092e9809f151565408576172500000014830042" "../" "ido.last~" "url/" "session.10f481f55fecff0dd8151341042180109300000011680037" "session.1087e573b2f575cebc151521155085790800000012530039" "session.105dbe4692293811df151972042912006800000013800078" "ido.last" "auto-save-list/" "session.10ce2e00c3f0beb597151557279530599700000012510042" "irony/" "session.104127cca56d861a37152091366450716200000013880037" "Sexy_theme-theme.el" "elpa/" "lisp/" "snippets/" "recentf" "session.10c859673a421ba6fc150990956227957100000011950049" "./" "session.10398deb2a31ce4856151449503385174400000012840120" "session.103473843417a9b642151564409322741800000012320039" "abbrev_defs" "sexy_theme-theme.el" "session.1031b980a9e45e5620151566024435510000000014220039" "xiaofanlin-theme.el" "session.109e8ca22a46ec14f150982519788668600000011860039" "session.10a85670587c6ca8d3151354221199717100000011700049" "meghanada/" "session.10209a4d76c30c902a151548417933617600000012490039" "session.106890b4f21a3511fa151583472176693200000013690039")
-
- ("/home/xiaofanlin/" (23212 17477 114957 512000) "git/" ".sogouinput/" "../" ".eclim/" "eclipse-workspace/" ".saves/" ".emacs~" ".profile~" ".gnome/" ".viminfo" "tritonuas/" ".local/" ".bash_logout" ".ilg-config" ".steam/" "code/" "git-prompt.sh" "Desktop/" ".texmf-var/" ".webclipse.properties" "bin/" ".bogofilter/" ".kingsoft/" "opt/" "git-completion.bash" ".bashrc" ".presage/" ".bash_history" "Videos/" "Templates/" "triton_uas/" ".gconf/" ".steampath" "emacs_tutorial/" "Pictures/" "Music/" ".pam_environment" ".sunpinyin/" ".steampid" ".gnupg/" ".nano/" ".webclipse/" ".lesshst" ".vim/" ".mozilla/" "cpp_lib_tutorial/" ".m2/" "Documents/" ".tooling/" ".bashrc~" "java-oxygen/" ".atom/" ".profile" "eclim-workspace/" ".apport-ignore.xml" ".dbus/" "./" ".pulse-cookie" ".gitconfig" ".octave_hist" ".emacs" ".cargo/" ".swt/" ".p2/" ".emacs.d/" ".sudo_as_admin_successful" "Public/" "openglworkplace/" ".java/" ".ICEauthority" ".gradle/" ".ssh/" ".eclipse/" "Downloads/" "cmake_tutorial/" ".metadata/" ".xinputrc" "Workspace/" ".pki/" ".wget-hsts" "eclim-workspace-bak/" ".adobe/" ".cache/" ".config/")
-
- ("/home/xiaofanlin/git/MATH155A/p07/res/" (23212 21259 284236 324000) "../" "calfunc" "RoughWood.bmp" "grass.bmp" "KalachakraSera.bmp" "earth_clouds.bmp" "jupitermap.bmp" "vs_phongphong" "./" "fs_phongphong" "skybox/" "631pxGreenStar_1.bmp" "BrickWallTexture.bmp")
-
- ("/home/xiaofanlin/git/MATH155A/p07/include/" (23212 20982 573686 757000) "../" "SkyBox.h" "PhongData.h" "RgbImage.h" "MyGeometries.h" "GlGeomCylinder.h" "LinearR3.h" "LinearR4.h" "EduPhong.h" "TextureProj.h" "./" "ShaderBuild.h" "HeightGenerator.h" "Plane.h" "NoiseGenerator.h" "GlGeomSphere.h" "WaterTexture.h" "MathMisc.h" "Terrain.h")
-
- ("/home/xiaofanlin/git/MATH155A/p07/src/" (23212 21180 384649 919000) "../" "ShaderBuild.cpp" "Plane.cpp" "PhongData.cpp" "NoiseGenerator.cpp" "LinearR4.cpp" "RgbImage.cpp" "GlGeomCylinder.cpp" "SkyBox.cpp" "Terrain.cpp" "EduPhong.cpp" "./" "GlGeomSphere.cpp" "TextureProj.cpp" "MyGeometries.cpp" "LinearR3.cpp")
-
- ("/home/xiaofanlin/git/cse12/hw8/" (23212 36754 588612 655000) "backup/" "../" "Makefile" "Tree.h" "Calc" "compile_commands.json" "alphabet.rev" "Calc.c" "Stack.c" "List.h" "List.c" "Driver.c" ".hw8.vcproj" "Namein.c" "SymTab.h" "Tree.c" "Namein.o" "Stack.h" ".hw8.sln" ".project" "Driver.o" "./" "Decin.o" "Namein.h" "Driver.h" "Calc.o" "Calc.h" "Driver" "Main.c" ".cproject" "Main.o" "Decin.h" "Decin.c" "alphabet")
-
- ("/home/xiaofanlin/git/MATH155A/p07/" (23212 20672 727310 220000) "../" "Makefile" "res/" "bin/" "include/" "src/" "./" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/MATH155A/p05/src/" (23207 21611 104699 129000) "../" "ShaderMgr.cpp" "PhongData.cpp" "LinearR4.cpp" "PhongProj.cpp" "MyInitial.cpp" "GlGeomCylinder.cpp" "EduPhong.cpp" "./" "GlGeomSphere.cpp" "LinearR3.cpp" "MySurfaces.cpp")
-
- ("/home/xiaofanlin/git/cse12/hw3/" (23204 63349 266638 172000) "backup/" "../" "stack.h" "Makefile" "mylib.o" "driver.c" "stack.c~" "mylib.c" "bin/" "stack.o" "driver.c~" "stack.c" "./" "mylib.h" "CMakeLists.txt~" "CMakeLists.txt" "driver" "driver.o")
-
- ("/home/xiaofanlin/git/cse12/" (23204 19063 955183 591000) "hw6/" "../" "hw7/" "quiz2/" "hw9/" "hw4/" "hw1/" "hw3/" "./" "quiz3/" "hw8/" "hw2/" "hw5/")
-
- ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/cc-mode/" (23202 8536 637023 169000) "case" "coco" "../" "do" "struct" "if" "ccom" "member_description" "switch" "file_description" "while" "else" "ccom~" "header_guard" "cpcn" "cpco" "#class_generator#" "for_n" "./" "class_generator~" "ternary" "coco~" "class_generator" ".#class_generator" "function_description" "for" "printf")
-
- ("/home/xiaofanlin/git/MATH155A/p04/src/" (23201 64835 35391 380000) "../" ".#MySurfaces.cpp" "NoiseGenerator.cpp" "MySurfaces.cpp~" "LinearR4.cpp" "MyInitial.cpp" "GlGeomCylinder.cpp" "MyInitial.cpp~" "./" "GlGeomSphere.cpp" "LinearR4.cpp~" "LetterProj.cpp" "LinearR3.cpp" "LetterProj.cpp~" "#MySurfaces.cpp#" "MySurfaces.cpp" "ShaderMgrLTR2.cpp")
-
- ("/home/xiaofanlin/git/MATH155A/p04/include/" (23201 37716 686770 452000) "LetterProj.h~" "../" "ShaderMgrLTR2.h" "MyInitial.h~" "LetterProj.h" "GlGeomCylinder.h" "LinearR3.h" "LinearR4.h" "./" "MySurfaces.h" "MyInitial.h" "NoiseGenerator.h" "GlGeomSphere.h" "MathMisc.h" "LinearR4.h~")
-
- ("/home/xiaofanlin/git/MATH155A/p04/" (23201 37128 296765 172000) "../" "Makefile" "bin/" "include/" "src/" "./" "CMakeLists.txt~" "CMakeLists.txt")
-
- ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/c++-mode/" (23200 51812 582629 166000) "using" "spt" "ano" "rmf" "public" "pack" "msm" "../" "module" "fne" "ignore" "inline" "rmc" "vector" "cpn" "std" "boost_require" "operator+=" "nth" "lxc" "beginend" "std_colon" "srn" "cnt" "ltr" "ucp" "friend" "operator_ostream" "cni" "constructor" "mkh" "ihu" "fil" "assert" "member_function~" "dynamic_casting" ".yas-setup.elc" "srt" "gnn" "lwr" "gnr" "stv" "alo" "clfunc~" "srh" "ns" "d_operator[]" "str" "mme" "delete" "class" "nno" "operator!=" "fori" "rpc" "namespace" "io" "test_main" "prp" "sts" "cin" "trm" "d_operator_istream" "rmv" "upr" "iterator" "operator[]" "enum" "throw" "sto" "class11" "ajf" "operator+" "d_operator[]_const" "cerr" "clfunc" "rpi" "sth" "erm" "mne" "ffo" "cstd" "swr" "oit" "rtc" "sti" "cout" ".yas-parents" "phh" ".yas-setup.el" "fln" "d_operator_ostream" "test_suite" "isu" "d_operator" "cpco" "iss" "uqe" "fun_declaration" "private" "eql" "ita" "./" "d+=" "mrg" "nxp" "fre" "map" "tryw" "cpi" "ptn" "ipt" "ostream" "rvr" "doc" "const_[]" "operator_istream" "fni" "mpb" "cpp" "sstream" "fin" "operator==" "fnd" "this" "shf" "fixture" "cpy" "member_function" "rvc" "ppt" "mxe" "delete[]" "rte" "try" "protected" "gtest" "pst" "operator=" "test case" "ipr" "template" "rci" "tfm" "psc" "ptc" "ihp" "rpl" "acl" "acm" "cpb" "rmi")
-
- ("/home/xiaofanlin/git/" (23198 58239 219093 712000) "../" "MATH155A/" "cs15l/" "ASCIIViolet/" "WaterStep0/" "cmake_modern_opengl/" "scriptTutorial/" "cmake_learning/" "my_emacs_setup/" "webroot_hack/" "cse12/" "./" "machine_learning/")
-
- ("/home/xiaofanlin/git/MATH155A/" (23197 49934 479041 702000) ".gitignore~" "README.md" "water/" "../" "p02/" ".gitmodules" ".gitignore" "p07/" ".git/" "./" "p06/" "p04/" "p01/" "p03/" "p05/" "lib/")
-
- ("/home/xiaofanlin/git/cse12/hw7/" (23196 34814 228805 820000) "Tree.java" "Stack.o" "Driver.java" "backup/" "../" ".meghanada.conf" "Makefile" "Driver.class" "Tree.h" "List.java" "Calc1" "List.o" "compile_commands.json" "MyLib.java" "UCSDStudent.class" "Calc.c" "Stack.c" "MyLibCharacter.class" "Tree$TNode.class" "Driver1" "build/" "List.h" "Word.class" ".meghanada/" "List.c" "SymTab.java" "Base.class" "Driver.c" "Stack.class" "Stack.java" "Namein.c" "Tree.class" "SymTab.class" "SymTab.h" "Main.java" "Tree.c" "Base.java" "Operator.class" "Main.class" "Namein.o" "Stack.h" "MyLib.class" "Base.h" "List.class" "Tree.o" "workbench.xmi" ".project" "Driver.o" "./" "Decin.o" "Namein.h" "Driver2" ".meghanada.conf~" "Calc.o" ".classpath" "Calc.h" "Main.c" "Calc2" "Main.o" "Variable.class" "Calculator.class" "Decin.h" "Decin.c" "List$Node.class" "Calculator.java")
-
- ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/cpp-omnet-mode/" (23130 37202 653527 274000) "../" "nan" "uniform" "omnet" "emit_signal" "EV" "./" "intuniform" "parameter_omnetpp" "scheduleAt" "math")
-
- ("/home/xiaofanlin/git/machine_learning/machine-learning-ex2/ex2/" (23190 6673 7865 454000) "token.mat" "plotDecisionBoundary.m" "../" "sigmoid.m" "costFunctionReg.m" "plotData.m" "ex2.m" "predict.m" "mapFeature.m" "ex2data1.txt" "./" "octave-workspace" "submit.m" "ex2_reg.m" "logReg.m" "ex2data2.txt" "costFunction.m" "lib/")
-
- ("/home/xiaofanlin/git/machine_learning/machine-learning-ex1/ex1/" (23190 52498 903547 171000) "token.mat" "ex1data1.txt" "../" "normalEqn.m~" "gradientDescentMulti.m" "computeCostMulti.m~" "warmUpExercise.m" "ex1.m" "ex1_multi.m~" "featureNormalize.m~" "computeCost.m" "warmUpExercise.m~" "plotData.m~" "plotData.m" "ex1.m~" "computeCostMulti.m" "gradientDescentMulti.m~" "ex1data2.txt" "gradientDescent.m" "./" "octave-workspace" "#gradientDescent.m#" "featureNormalize.m" "submit.m" "normalEqn.m" "ex1_multi.m" "gradientDescent.m~" "computeCost.m~" "lib/")
-
- ("/home/xiaofanlin/git/MATH155A/p06/src/" (23194 6423 880093 872000) "../" "ShaderBuild.cpp" "RoughWood.bmp" "PhongData.cpp" "LinearR4.cpp" "KalachakraSera.bmp" "earth_clouds.bmp" "RgbImage.cpp" "jupitermap.bmp" "GlGeomCylinder.cpp" "marble-background.bmp" "EduPhong.cpp" "./" "GlGeomSphere.cpp" "TextureProj.cpp" "MyGeometries.cpp" "LinearR3.cpp" "631pxGreenStar_1.bmp" "BrickWallTexture.bmp")
-
- ("/home/xiaofanlin/.emacs.d/elpa/" (23195 39645 473147 547000) "powerline-20171023.750/" "monokai-theme-20180228.1139/" "gruvbox-theme-20171118.1312/" "../" "loc-changes-1.2/" "cmake-font-lock-20170117.1225/" "racer-1.2/" "tablist-20170219.1935/" "irony-eldoc-20170502.1208/" "blackboard-bold-mode-readme.txt" "pkg-info-20150517.443/" "adaptive-wrap-0.5.1.signed" "flycheck-rtags-20170522.2154/" "jazz-theme-20170411.711/" "ace-window-readme.txt" "test-simple-1.3.0/" "s-20171102.227/" "load-relative-1.3/" "seq-2.20.signed" "realgud-1.4.4.signed" "flatland-theme-20171113.721/" "nyan-mode-1.1.2/" "foggy-night-theme-20160209.708/" "company-c-headers-20170531.1330/" "dark-krystal-theme-20170808.600/" "ace-window-0.9.0.signed" "idea-darkula-theme-20160416.1603/" "levenshtein-20090830.340/" "flycheck-color-mode-line-readme.txt" "ace-window-0.9.0/" "rust-mode-0.3.0/" "flymake-cursor-20130822.332/" "test-simple-1.3.0.signed" "company-rtags-20170924.2244/" "eclim-20171113.1754/" "company-irony-20170905.1346/" "rtags-20171219.340/" "irony-20171222.1243/" "load-relative-1.3.signed" "jbeans-theme-20171212.1053/" "flycheck-31/" "neotree-20170522.758/" "intellij-theme-20171017.715/" "blackboard-theme-20161215.2256/" "distinguished-theme-20151216.1215/" "flycheck-readme.txt" "spaceline-20171111.334/" "seq-2.20/" "avy-0.4.0.signed" "distinguished-theme-readme.txt" "material-theme-20171123.1040/" "inverse-acme-theme-20170822.1954/" "badger-theme-20140716.1932/" "kaolin-themes-20180301.906/" "solarized-theme-1.2.2/" "groovy-mode-20171024.221/" "adaptive-wrap-0.5.1/" "company-0.9.4/" "realgud-1.4.4/" "avy-0.4.0/" "pdf-tools-0.80/" "epl-20150517.433/" "mbo70s-theme-20170808.615/" "dash-2.13.0/" "mode-line-bell-20171231.1939/" "gnupg/" "flycheck-rust-20170404.842/" "./" "yasnippet-snippets-20180112.516/" "afternoon-theme-20140104.1059/" "yasnippet-20170923.1646/" "flycheck-color-mode-line-20171121.2307/" "dracula-theme-20170412.845/" "ample-theme-20161213.912/" "airline-themes-20170623.958/" "f-20170404.1039/" "alect-themes-20170825.1009/" "gradle-mode-readme.txt" "cmake-mode-20160928.505/" "diminish-20170419.1036/" "flatland-black-theme-20170808.612/" "madhat2r-theme-20170202.1630/" "inkpot-theme-20171217.144/" "archives/" "melancholy-theme-20170220.1248/" "google-c-style-20140929.1118/" "yasnippet-20180111.1533/" "company-emacs-eclim-20170104.743/" "blackboard-theme-readme.txt" "flycheck-irony-20160317.1536/" "autothemer-20170112.1324/" "tangotango-theme-20170924.809/" "meghanada-20180213.1448/" "spacemacs-theme-20171217.611/" "cmake-project-readme.txt" "gradle-mode-20150313.1205/" "zenburn-theme-20180222.1757/" "loc-changes-1.2.signed" "gruber-darker-theme-20170719.2229/" "popup-20160709.729/")
-
- ("/home/xiaofanlin/git/MATH155A/p06/" (23191 12818 623107 245000) "../" "Makefile" "bin/" "include/" "src/" "./" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/machine_learning/" (23186 31203 491470 360000) "machine-learning-ex2/" "../" "./" "machine-learning-ex1/")
-
- ("/home/xiaofanlin/git/machine_learning/machine-learning-ex2/" (23187 21669 144881 281000) "../" "ex2.pdf" "./" "ex2/")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/src/" (23183 33695 897036 996000) "../" "basic_framwork.cpp" "Canvas3D.cpp" "stb_image.cpp" "./" "ShaderLoader.cpp")
-
- ("/home/xiaofanlin/git/MATH155A/p05/include/" (23183 9891 889220 694000) "../" "PhongData.h" "LetterProj.h" "ShaderMgr.h" "GlGeomCylinder.h" "LinearR3.h" "LinearR4.h" "EduPhong.h" "./" "MySurfaces.h" "MyInitial.h" "GlGeomSphere.h" "MathMisc.h")
-
- ("/home/xiaofanlin/git/MATH155A/p05/" (23180 30212 821954 417000) "../" "Makefile" "bin/" "include/" "src/" "./" "CMakeLists.txt")
-
- ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/java-mode/" (23130 37204 414171 7000) "javadoc" "lambda" "assertEquals" "param" "../" "apr_assert" "if" "new" "constructor" "assert" "override" "getter" "fori" "cls" "iterator" "import" "return" "file_class" "main" "main_class" "method" "./" "equals" "println" "toString" "define test method" "value" "doc" "this" "try" "testClass" "test" "for" "printf" "ife")
-
- ("/home/xiaofanlin/git/cse12/hw7/.meghanada/" (23179 9751 584999 412000) "../" "hw7_21cafa4b9bb06a99/" "./")
-
- ("/home/xiaofanlin/git/cse12/quiz3/" (23173 19511 898166 194000) "../" "quiz3.txt" "./" "quiz3~")
-
- ("/home/xiaofanlin/git/cse12/hw6/" (23172 2017 44357 674000) "Stack.o" "Driver.java" "backup/" "../" "Driver.java~" "Makefile" "Driver.class" "List.java" "Calc1" "List.o" "Hash.h" "HashTable.java" "MyLib.java" "Driver.c~" "UCSDStudent.class" "Calc.c" "Stack.c" "MyLibCharacter.class" "Driver1" "List.h" "Word.class" "List.c" "SymTab.java" "Base.class" "Driver.c" "Stack.class" "Stack.java" "Namein.c" "SymTab.class" "SymTab.h" "Main.java" "test_hash.java" "Hash.c~" "Base.java" "Operator.class" "HashTable.java~" "Main.class" "Namein.o" "Stack.h" "MyLib.class" "Base.h" "test_hash.class" "List.class" "workbench.xmi" ".project" "Driver.o" "./" "Hash.o" "Decin.o" "Namein.h" "Driver2" "Calc.o" ".classpath" "Calc.h" "Main.c" "Calc2" "Main.o" "Variable.class" "Calculator.class" "Decin.h" "Decin.c" "HashTable.class" "Hash.c" "List$Node.class" "Calculator.java")
-
- ("/home/xiaofanlin/git/cse12/hw2/" (23168 781 544947 582000) "hw2.java~" "backup/" "../" "driver2" "Makefile" "hw2.c" "bin/" "MyLibCharacter.class" "driver1" "Makefile~" "hw2.o" "workbench.xmi" ".project" "./" ".classpath" ".cproject" "hw2.class" ".hw2.sln" ".hw2.vcproj" "hw2.c~" "hw2.java")
-
- ("/home/xiaofanlin/git/MATH155A/p04/bin/" (23171 20497 411240 925000) "../" "Makefile" "compile_commands.json" "CMakeFiles/" "libletterProj_lib.a" "./" "CMakeCache.txt" "cmake_install.cmake" "lib/" "letterProj")
-
- ("/home/xiaofanlin/Documents/" (23167 58875 104886 812000) "../" "Xiaofan Lin.docx" "./" "HIUS108A.txt" "HIUS108A~")
-
- ("/home/xiaofanlin/git/machine_learning/machine-learning-ex1/" (22735 27966 0 0) "../" "ex1/" "ex1.pdf" "./")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/" (23165 15959 901414 910000) "../" "Makefile" "res/" "bin/" "include/" "cam.vs" "src/" "cam.fs" "./" "7.4.camera.fs~" "CMakeLists.txt" "7.4camera.vs~" "testingSrc/")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/include/" (23165 16137 293952 233000) "../" "testing/" "camera.h" "shader_m.h" "Canvas3D.hpp" "Camera.h" "ShaderLoader.h" "./" "Camera.h~" "ShaderLoader.h~" "stb_image.h")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/res/" (23163 51830 887739 647000) "diffuse.vert" "../" "lamp.frag" "lamp.vert" "awesomeface.png" "diffuse.vert~" "lamp.frag~" "lamp.vert~" "./" "tri.vs~" "diffuse.frag~" "container.jpg" "tri.fs~" "diffuse.frag")
-
- ("/home/xiaofanlin/git/cse12/hw5/" (23162 57167 708012 52000) "backup/" "../" "driver2" "stack.h" "Makefile" "mylib.o" "stack.c~" "mylib.c" "compile_commands.json" "calc" "stack.o" "calc.c" "list.c~" "driver2.o" "list.c" "driver1" "stack.c" "driver1.o" ".hw5.vcproj" ".project" "./" "calc.o" "list.h" "driver1.c" "mylib.h" ".cproject" "driver2.c" "main.c" "list.o" "calc.h" "main.o" ".hw5.sln")
-
- ("/home/xiaofanlin/git/cse12/hw4/" (23162 48839 348699 138000) "backup/" "../" "stack.h" "calc.c~" "Makefile" "mylib.o" "stack.c~" "mylib.c" "calc" "stack.o" "calc.c" "stack.c" "./" "calc.o" "mylib.h" "main.c" "calc.h" "main.o")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/include/testing/" (23157 28016 717097 460000) "Entity.hpp~" "../" "ResourceCenter.hpp" "ResourceCenter.hpp~" "./" "Cube.hpp~" "Cube.hpp" "Entity.hpp")
-
- ("/home/xiaofanlin/git/MATH155A/p03/include/" (23156 64675 703165 88000) "LetterProj.h~" "../" "ShaderMgrLTR.h" "MyInitial.h~" "LetterProj.h" "GlGeomCylinder.h" "LinearR3.h" "LinearR4.h" "./" "MyInitial.h" "GlGeomSphere.h" "MathMisc.h")
-
- ("/home/xiaofanlin/git/cse12/quiz2/" (23154 59091 208600 851000) "../" "questions" "./" "questions~")
-
- ("/home/xiaofanlin/git/MATH155A/p03/src/" (23156 65402 568136 87000) "../" "LinearR4.cpp" "MyInitial.cpp" "GlGeomCylinder.cpp" "MyInitial.cpp~" "./" "GlGeomSphere.cpp" "LetterProj.cpp" "LinearR3.cpp" "LetterProj.cpp~" "ShaderMgrLTR.cpp")
-
- ("/home/xiaofanlin/git/MATH155A/p02/src/" (23152 59533 402701 301000) "SolarProj.cpp~" "../" "ShaderMgrSLR.cpp" "LinearR4.cpp" "./" "GlGeomSphere.cpp" "LinearR3.cpp" "SolarProj.cpp")
-
- ("/home/xiaofanlin/git/MATH155A/p03/" (23152 55533 117715 992000) "../" "Makefile" "bin/" "include/" "src/" "./" "CMakeLists.txt~" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/basic_framwork/src/res/" (23148 14198 123387 936000) "../" "tri.vs" "./" "tri.fs")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/pp01/src/" (23148 9924 846527 19000) "../" "Canvas3D.cpp.bak" "LinearR4.cpp" "ShaderLoader.cpp~" "basic_framwork.cpp.bak" "HexPrismProj.cpp~" "./" "HexPrismProj.cpp" "ShaderLoader.cpp" "LinearR3.cpp" "ShaderMgrSAM.cpp")
-
- ("/home/xiaofanlin/git/MATH155A/p02/" (23142 28056 948268 228000) "../" "Makefile" "bin/" "include/" "src/" "./" "CMakeLists.txt~" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/cse12/hw3/bin/" (23137 35518 337081 603000) "../" "Makefile" "compile_commands.json" "CMakeFiles/" "hw3" "./" "CMakeCache.txt" "cmake_install.cmake" "libhw3_lib.a")
-
- ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/c-mode/" (23137 34363 678286 492000) "malloc~" "stdio" "../" "assert" "define" "unistd" "compile" "packed" ".yas-parents" "stdlib" "union" "./" "string" "malloc" "printf")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/p01/src/" (23137 2615 255321 722000) "../" "Canvas3D.cpp.bak" "LinearR4.cpp" "basic_framwork.cpp.bak" "HexPrismProj.cpp~" "./" "HexPrismProj.cpp" "LinearR3.cpp" "ShaderMgrSAM.cpp")
-
- ("/home/xiaofanlin/git/MATH155A/p01/" (23137 2471 206501 800000) "../" "Makefile" "bin/" "include/" "src/" "./" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/MATH155A/p01/src/" (23137 4270 472789 389000) "../" "LinearR4.cpp" "HexPrismProj.cpp~" "./" "HexPrismProj.cpp" "LinearR3.cpp" "ShaderMgrSAM.cpp")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/pp01/res/shader/" (23133 57019 924787 118000) "basic.vert~" "../" "flat.vert" "flat.vert~" "./" "nonFlat.frag" "flat.frag" "nonFlat.vert")
-
- ("/home/" (22546 35564 905419 885000) "../" "./" "xiaofanlin/")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/pp01/include/" (23133 54803 544648 794000) "../" "3DCanvas.h~" "ShaderMgrSAM.h" "LinearR3.h" "Canvas3D.hpp" "ShaderLoader.h" "Canvas3D.hpp~" "LinearR4.h" "./" "ShaderLoader.h~" "MathMisc.h")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/pp01/res/" (23133 56340 47735 837000) "../" "./" "shader/")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/pp01/" (23133 56333 879298 699000) "../" "Makefile" "res/" "bin/" "include/" "src/" "./" "CMakeLists.txt~" "CMakeLists.txt")
-
- ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/snippets/" (23130 37205 882687 424000) "emacs-lisp-mode/" "typerex-mode/" "nesc-mode/" "web-mode/" "cc-mode/" "../" "cperl-mode/" "elixir-mode/" "js3-mode/" "lisp-mode/" "octave-mode/" "c-mode/" "f90-mode/" "c++-mode/" "m4-mode/" "erc-mode/" "protobuf-mode/" "js-mode/" "js2-mode/" "ruby-mode/" "yaml-mode/" "sh-mode/" "cpp-omnet-mode/" "dix-mode/" "faust-mode/" "go-mode/" "apples-mode/" "cmake-mode/" "lua-mode/" "scala-mode/" "html-mode/" "clojure-mode/" "ned-mode/" "haskell-mode/" "malabar-mode/" "makefile-automake-mode/" "cider-repl-mode/" "applescript-mode/" "lisp-interaction-mode/" "conf-unix-mode/" "erlang-mode/" "prog-mode/" "csharp-mode/" "enh-ruby-mode/" "nix-mode/" "perl-mode/" "git-commit-mode/" "python-mode/" "php-mode/" "nxml-mode/" "./" "udev-mode/" "makefile-gmake-mode/" "snippet-mode/" "c-lang-common/" "sql-mode/" "tuareg-mode/" "java-mode/" "makefile-bsdmake-mode/" "org-mode/" "ensime-mode/" "latex-mode/" "chef-mode/" "css-mode/" "terraform-mode/" "antlr-mode/" "swift-mode/" "powershell-mode/" "rust-mode/" "markdown-mode/" "rst-mode/" "makefile-mode/" "text-mode/" "nsis-mode/" "groovy-mode/")
-
- ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-snippets-20180112.516/" (23130 37208 115437 20000) "../" "yasnippet-snippets.elc" "yasnippet-snippets-pkg.el" "snippets/" "./" "yasnippet-snippets.el" "yasnippet-snippets-autoloads.el")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/pp01/bin/" (23133 48471 162842 159000) "../" "Makefile" "compile_commands.json" "CMakeFiles/" "./" "CMakeCache.txt" "cmake_install.cmake" "lib/")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/" (23131 6552 163596 420000) ".gitignore~" "../" ".gitmodules" ".gitignore" "p00/" "basic_framwork/" ".git/" "./" "CMAKE_template" "README.MD" "p01/" "pp01/" "changing_size/" "lib/")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/p01/" (23131 1525 613336 551000) "../" "Makefile" "bin/" "include/" "src/" "./" "CMakeLists.txt~" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/p01/include/" (23130 52481 504994 153000) "../" "3DCanvas.h~" "ShaderMgrSAM.h" "LinearR3.h" "Canvas3D.hpp" "Canvas3D.hpp~" "LinearR4.h" "./" "MathMisc.h")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/changing_size/src/" (23130 40320 994380 488000) "../" "SimpleDrawModern.cpp" "./")
-
- ("/home/xiaofanlin/.emacs.d/elpa/yasnippet-20180111.1533/" (23130 37320 820237 803000) "../" "yasnippet.el" "yasnippet.elc" "./" "yasnippet-pkg.el" "yasnippet-autoloads.el")
-
- ("/home/xiaofanlin/.emacs.d/snippets/" (23130 37360 214622 656000) "../" "./")
-
- ("/home/xiaofanlin/Desktop/intro_to_algorithm/2_2/code_p1/" (23125 56730 280381 584000) "Point.java" "Point.class" "../" "Point$BySlope.class" "input8.txt~" "Point.java~" "input20.txt" "bin/" "BruteCollinearPoints.java" "collinear.zip" "BruteCollinearPoints.class" "LineSegment.class" "input56.txt" ".classpath~" "input10.png" "third_trial" ".#*terminal<1>*" "input10.txt~" "input10.txt" "FastCollinearPoints.class" "FastCollinearPoints.java~" "LineSegment.java" "input8.txt" "input6.txt" "input40.txt" "input6.txt~" "workbench.xmi" ".project" "./" "BruteCollinearPoints.java~" ".classpath" "#*terminal<1>*#" "*terminal<1>*" "FastCollinearPoints.java" "input9.txt" "fourth_trial" "first_trail" "second_trial" "rs1423.txt")
-
- ("/home/xiaofanlin/git/cs148-student-repo/hws/hw2/CMakeFiles/" (23127 1975 200942 522000) "../" "hw2_lib.dir/" "hw2.dir/" "progress.marks" "./" "CMakeDirectoryInformation.cmake" "hw2_copy_resources.dir/")
-
- ("/home/xiaofanlin/git/cs148-student-repo/hws/hw2/" (23127 1990 436709 136000) "ShaderMgrSDM.h" "backup/" ".DS_Store" "../" "Makefile" "ShaderMgrSDM.cpp" "include/" "CMakeFiles/" "main.cpp" "./" "cmake_install.cmake" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/p00/src/" (23129 51464 172449 2000) "../" "ShaderMgrSDM.cpp" "SimpleDrawModern.cpp" "./")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/changing_size/" (23129 54621 284434 305000) "../" "bin/" "include/" "src/" "./" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/lib/glad/" (23129 53525 573834 620000) "README.md" "../" "example/" "setup.py" "bin/" ".gitignore" "utility/" "glad/" ".git" "./" "main.py" "LICENSE" "CMakeLists.txt")
-
- ("/home/xiaofanlin/git/cmake_modern_opengl/lib/" (23127 6377 877100 366000) "glew/" "../" "glfw/" "bin/" "glm/" "glad/" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

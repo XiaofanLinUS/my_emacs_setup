@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: display style
+# key: dps
+# --
+\displaystyle{$0}

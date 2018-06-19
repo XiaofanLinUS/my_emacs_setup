@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: table
+# key: table
+# --
+\begin{tabular}{$1}
+$0
+\end{tabular}

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: sqrtv
+# key: sqrtv
+# --
+\sqrt[$1]{$0}
